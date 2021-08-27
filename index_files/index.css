@@ -1,0 +1,13 @@
+
+input#show, input#hide {
+    display:none;
+}
+span#content {
+    display:none;
+}
+input#show:checked ~ span#content {
+  display:block;
+}
+input#hide:checked ~ span#content {
+    display:none;
+}
