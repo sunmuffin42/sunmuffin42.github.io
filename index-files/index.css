@@ -6,8 +6,8 @@ span#content {
     display:none;
 }
 input#show:checked ~ span#content {
-  display:block;
-}
+    display:block;
+  }  
 input#hide:checked ~ span#content {
     display:none;
 }
