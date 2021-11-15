@@ -11,3 +11,7 @@ input#show:checked ~ span#content {
 input#hide:checked ~ span#content {
     display:none;
 }
+body {
+    background-color: black;
+    color: white;
+  }
