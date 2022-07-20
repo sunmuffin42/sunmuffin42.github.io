@@ -1,0 +1,69 @@
+@prefix : 		<http:/sunmuffin42.github.io/kinbaseExt.ttl#> .
+@prefix kinbaseExt:	<http:/sunmuffin42.github.io/kinbaseExt.ttl#> .
+@prefix rdf: 		<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: 		<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: 		<http://www.w3.org/2002/07/owl#> .
+@prefix xsd: 		<http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: 		<http://purl.org/dc/elements/1.1/> .
+@prefix xml: 		<http://www.w3.org/XML/1998/namespace> .
+@prefix wot: 		<http://xmlns.com/wot/0.1/> .
+@prefix vs: 		<http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix foaf: 		<http://xmlns.com/foaf/0.1/> .
+@prefix DLP:        <http://www.ontologydesignpatterns.org/ont/dlp/dlp.owl#> .
+@prefix DL-Collective: <http://www.ontologydesignpatterns.org/ont/dlp/Collectives.owl#> .
+@prefix DL:         <http://www.ontologydesignpatterns.org/ont/dolce/DOLCE2.0-Lite-v5.owl#> .
+@prefix cDnS:       <http://ontologydesignpatterns.org/ont/dul/cDnS.owl#> .
+@prefix DL-SU:  <http://www.ontologydesignpatterns.org/ont/dlp/SocialUnits.owl#> .
+@prefix kinbase:    <http://www.ontologydesignpatterns.org/ont/example/kinship-base.owl#> .
+@base 			<http:/sunmuffin42.github.io/kinship_base.ttl> .
+
+<http://visualdataweb.org/IslA-0-4-0/> rdf:type owl:Ontology ;
+                                       dc:title "Kinship-Base"@en;
+                                       dc:description "An ontology to describe kinship, to be expanded"@en;
+                                       owl:versionInfo "0.0.0"@en;
+                                       dc:creator "Sunny Ananthanarayan" . 
+#################################################################
+# we should probably figure something out with WD
+
+# just putting in kinbase so we can have it as reference
+
+foaf:Person a owl:Class .
+
+kinbase:ancestorOf
+  a owl:ObjectProperty ;
+  owl:inverseOf kinbase:descendantOf> ;
+  rdfs:label "ancestorOf"@en .
+
+kinbase:childOf
+  a owl:ObjectProperty ;
+  rdfs:subPropertyOf kinbase:descendantOf ;
+  rdfs:label "childOf"@en .
+
+kinbase:descendantOf
+  a owl:ObjectProperty ;
+  rdfs:subPropertyOf kinbase:relativeOf ;
+  rdfs:label "descendantOf"@en .
+
+kinbase:parentOf
+  a owl:ObjectProperty ;
+  owl:inverseOf kinbase:childOf ;
+  rdfs:label "parentOf"@en .
+
+kinbase:partnerOf
+  a owl:ObjectProperty, owl:IrreflexiveProperty, owl:SymmetricProperty ;
+  rdfs:subPropertyOf kinbase:relativeOf ;
+  rdfs:label "partnerOf" .
+
+kinbase:relativeOf
+  a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:domain foaf:Person ;
+  rdfs:label "relativeOf"@en .
+
+:siblingOf
+  a owl:ObjectProperty, owl:IrreflexiveProperty, owl:SymmetricProperty ;
+  rdfs:subPropertyOf kinbase:relativeOf ;
+  rdfs:label "siblingOf"@en .
+
+child of parent and child of sibling of parent
+:cousinOf
+  a own:ObjectProperty, owl:IrreflexiveProperty, 
