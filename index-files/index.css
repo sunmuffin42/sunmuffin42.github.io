@@ -33,6 +33,12 @@ padding: 20px;
 }
 
 .construction {
+    background-color: rgb(192, 79, 79);
+    padding: 0 10px 10px 10px;
+    font-size: 70%;
+}
+
+.right {
     flex: 30%
 }
 
@@ -46,6 +52,19 @@ padding: 20px;
 
 nav > a {
     padding: 2px;
+}
+
+#intro {
+    font-size: 200%;
+    padding-bottom: 1.5em;
+}
+
+#land-ack {
+    padding-bottom: 5em;
+}
+
+#pronouns {
+    font-size: 100%;
 }
 
 /* for collapsible */
