@@ -1,3 +1,7 @@
+body {
+    padding: 2% 10% 0 10%;
+    font-family: sans-serif;
+}
 div {
     font-size: 120%;
 }
@@ -23,9 +27,13 @@ background-color: #f1f1f1;
 
 /* Main column */
 .main {
-flex: 90%;
+flex: 50%;
 background-color: white;
 padding: 20px;
+}
+
+.construction {
+    flex: 30%
 }
 
 
