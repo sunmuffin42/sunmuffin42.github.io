@@ -1,17 +1,38 @@
+div {
+    font-size: 120%;
+}
 
-input#show, input#hide {
-    display:none;
+
+#pic {
+    width:auto;
+    height: 300px;
 }
-span#content {
-    display:none;
+/* Column container */
+.row {  
+display: flex;
+/* flex-wrap: wrap; */
 }
-input#show:checked ~ span#content {
-    display:block;
-  }  
-input#hide:checked ~ span#content {
-    display:none;
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+flex: 10%;
+background-color: #f1f1f1;
+/* padding-left: 20px; */
 }
-/* body {
-    background-color: black;
-    color: white;
-} */
+
+/* Main column */
+.main {
+flex: 90%;
+background-color: white;
+padding: 20px;
+}
+
+
+.navlink {
+    padding: .8em;
+    width: 20em; /* i think what i'd like is a set % of screen to be covered by navbar, then make everything the same fraction of that bar*/
+    border: 2px rgb(123, 110, 110) solid;
+    /* display: inline-block; */
+    border-radius: 20%;
+}
