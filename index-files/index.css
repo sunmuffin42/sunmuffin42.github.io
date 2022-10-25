@@ -9,49 +9,54 @@ div {
 
 #pic {
     width:auto;
-    height: 450px;
+    height: 270px;
 }
 /* Column container */
 .row {  
 display: flex;
-/* flex-wrap: wrap; */
 }
 
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-flex: 20%;
-background-color: #f1f1f1;
-/* padding-left: 20px; */
+flex: 10%;
+padding: 8px 8px 0 8px;
 }
 
 /* Main column */
 .main {
 flex: 50%;
-background-color: white;
 padding: 20px;
 }
 
 .construction {
     background-color: rgb(192, 79, 79);
-    padding: 0 10px 10px 10px;
+    padding: 5px 10px 10px 10px;
     font-size: 70%;
 }
 
 .right {
-    flex: 30%
+    flex: 30%;
+    font-size: 100%;
 }
 
 .navlink {
     padding: .8em;
-    width: 20em; /* i think what i'd like is a set % of screen to be covered by navbar, then make everything the same fraction of that bar*/
+    width: fit-content; /* i think what i'd like is a set % of screen to be covered by navbar, then make everything the same fraction of that bar*/
     border: 2px rgb(123, 110, 110) solid;
-    /* display: inline-block; */
     border-radius: 20%;
 }
 
+#email {
+    padding-bottom: 10px;
+}
+
 nav > a {
-    padding: 2px;
+    padding: 1px;
+    border: 2px rgb(123, 110, 110) solid;
+    border-radius: 20%;
+    width: fit-content;
+    display: inline-block;
 }
 
 #intro {
@@ -60,11 +65,15 @@ nav > a {
 }
 
 #land-ack {
-    padding-bottom: 5em;
+    padding-bottom:r 5em;
 }
 
 #pronouns {
     font-size: 100%;
+}
+
+header {
+    background-color: rgba(108, 102, 102, 0.578);
 }
 
 /* for collapsible */
