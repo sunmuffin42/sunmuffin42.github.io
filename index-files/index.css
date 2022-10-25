@@ -9,7 +9,7 @@ div {
 
 #pic {
     width:auto;
-    height: 300px;
+    height: 450px;
 }
 /* Column container */
 .row {  
@@ -20,7 +20,7 @@ display: flex;
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-flex: 10%;
+flex: 20%;
 background-color: #f1f1f1;
 /* padding-left: 20px; */
 }
@@ -36,7 +36,6 @@ padding: 20px;
     flex: 30%
 }
 
-
 .navlink {
     padding: .8em;
     width: 20em; /* i think what i'd like is a set % of screen to be covered by navbar, then make everything the same fraction of that bar*/
@@ -44,3 +43,36 @@ padding: 20px;
     /* display: inline-block; */
     border-radius: 20%;
 }
+
+nav > a {
+    padding: 2px;
+}
+
+/* for collapsible */
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+    background-color: black;
+    color: rgb(225, 211, 211);
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    /* border: none; */
+    border-bottom: 5px grey;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .collapsible:hover, .navlink:hover {
+    background-color: #ccc;
+    color: black;
+  }
+  
+  /* Style the collapsible content. Note: hidden by default */
+  .content {
+    padding: 18px 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
