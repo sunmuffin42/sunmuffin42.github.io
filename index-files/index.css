@@ -59,7 +59,7 @@ nav > a {
     display: inline-block;
 }
 
-#intro {
+.intro {
     font-size: 200%;
     padding-bottom: 1.5em;
 }
