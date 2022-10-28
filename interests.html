@@ -10,28 +10,29 @@
 </head>
 <body>
     <header class="row">
-        <a class="side" href="./index.html" target="_blank"><div><img id="pic" src="./index-files/death_spiral_headshot.jpg" alt="Picture of Sunny, a dark-skinned person with a beard, wearing a purple scarf with International Phonetic Alphabet characters on it" srcset=""></div></a>
+        <a class="side" href="./index.html"><div><img id="pic" src="./index-files/death_spiral_headshot.jpg" alt="Picture of Sunny, a dark-skinned person with a beard, wearing a purple scarf with International Phonetic Alphabet characters on it" srcset=""></div></a>
         <div class="main">
             <div id="name"><h1>Sunkulp Ananthanarayan</h1></div>
             <div id="email">Email: sunkulp dot ananth at gmail dot com</div>
             <nav>
-                <a href="./interests.html" target="_blank"><div class="navlink">Interests</div></a>
-                <a href="./cv.html" target="_blank"><div class="navlink">Curriculum Vitae (CV)</div></a>
-                <a href="./resources.html" target="_blank"><div class="navlink">Resources</div></a>
+                <a href="./index.html"><div class="navlink">Home</div></a>
+                <a href="./interests.html"><div class="navlink">Interests</div></a>
+                <a href="./cv.html"><div class="navlink">Curriculum Vitae (CV)</div></a>
+                <a href="./resources.html"><div class="navlink">Resources</div></a>
             </nav>
         </div>
         <div class="right">
             <div class="construction" style="background-color: rgb(192, 79, 79);">
-            <h2>Site under <a href="https://wikipedia.org/wiki/Construction_grammar">construction</a></h2>
+            <h2>Site under <a href="https://wikipedia.org/wiki/Construction_grammar" target="_blank">construction</a></h2>
             <div>Apologies for the lack of CSS and organizational structure. I wanted to push this site up so I could actually have it, but I haven't had the time yet to build in prettiness (which I acknowledge as very important!)</div>
             </div>
             <div class="links">
                 <ul>
-                    <li><a href="https://github.com/sunmuffin42">GitHub</a></li>
-                    <li><a href="https://twitter.com/sunmuffin42">Twitter</a></li>
-                    <li><a href="https://www.linkedin.com/in/sunny-ananthanarayan/">LinkedIn</a></li>
-                    <li><a href="http://scholar.google.com/citations?user=DdZtCCYAAAAJ">Google Scholar</a></li>
-                    <li><a href="https://prototumblinguist.tumblr.com">Ling tumblr</a></li>
+                    <li><a href="https://github.com/sunmuffin42" target="_blank">GitHub</a></li>
+                    <li><a href="https://twitter.com/sunmuffin42" target="_blank">Twitter</a></li>
+                    <li><a href="https://www.linkedin.com/in/sunny-ananthanarayan/" target="_blank">LinkedIn</a></li>
+                    <li><a href="http://scholar.google.com/citations?user=DdZtCCYAAAAJ" target="_blank">Google Scholar</a></li>
+                    <li><a href="https://prototumblinguist.tumblr.com" target="_blank">Ling tumblr</a></li>
                 </ul>
             </div>
             </div>
@@ -39,15 +40,49 @@
     </header>
     <h1>Interests</h1>
     <!-- dropdowns for research and leisure interests -->
-    <button class="collapsible"><h2>Research</h2></button>
+    <button class="collapsible" id="general"><h2>General interests</h2></button>
     <div class="content">
-        So it's interesting to think about "research interests," because the way I think about it is kind of funky? So there are methodologies I like (and frameworks for acquiring and using data from those, which is...methodology also). There's also features I'm interested in. There's also categories of typological intrigue I'm interested in. All of these end up being called "subfields" or whatever, but it's hard for me to justify that kind of framing. I guess you could say I'm interested in morphology and semantics and historical linguistics, but historical linguistics can deal specifically with morphological and semantic features, no? I haven't figured out how to word it yet.
+        <p id="gen-interests">
+        <ul>
+            <li>Language documentation</li>
+            <li>Sociolinguistics</li>
+            <li>Language contact</li>
+            <li>Multilingualism</li>
+            <li>Computational linguistics (largely technology for language documentation)</li>
+            <li>Grammatical and phonological change</li>
+        </ul>
+        </p>
+    </div>
+    <button class="collapsible" id="ongoing"><h2>Ongoing projects</h2></button>
+    <div class="content">
+        <p id="flibl">
+        I am working on a <strong>software suite that enables smoother transfer of language materials from ELAN to FLEx, and back out to ELAN</strong>. This was started by a need from child language acquisition work in documentation contexts that would enable maintenance of metadata and data between the transfers. There is still a dependence on FLEx for its morphological parsing power, but quite a bit gets lost in import/export, including important information necessary to keep at all stages. This software, which we're calling flibl, creates an interchange format between the very different XML structures of FLExTexts and EAFs (the respective file formats of FLEx and ELAN texts) in JSON, allowing for more flexibility in the data's usability.
+        </p>
+        <p id="chirila">
+        A major part of language work for me is making sure language is not separated from its users. This includes including sociolinguistic methods in analysis, but also <strong>archiving and outreach</strong>. At the <a href="http://pamanyungan.net" target="_blank" rel="noopener noreferrer">Yale HistLing lab</a>, I am working on refactoring the Chirila archive/database to be friendly and available to language community members who would like access to materials, and creating interfaces to see things like wordlists and maps more easily. Along these lines, we also have ongoing conversations and research about the nature of archiving and data sovereignty, including the disparate natures of various language materials and communities.
+        </p>
+        <p id="sem">
+        Another ongoing project I have joined at Yale is a group working on <strong>semantics in negation</strong>. I am looking at modality and privatives in Western Australian languages, with the hopeful end of an analysis about the use of some particular morphemes in the area. 
+        </p>
+    </div>
+    <button class="collapsible" id="past"><h2>Selected past projects</h2></button>
+    <div class="content">
+        <p id="naduhup">
+        My driving research interest is the documentation of minoritized languages. I started on this track when I began undergrad at The University of Texas at Austin, working with <a href="https://liberalarts.utexas.edu/linguistics/faculty/ple92" target="_blank" rel="noopener noreferrer">Pattie Epps</a> on <a href="http://en.wikipedia.org/wiki/Naduhup_languages" target="_blank" rel="noopener noreferrer">Naduhup languages</a>. It was also in that lab where I began working with technology to make reclamation-related processes more effective (where "reclamation" includes documentation, pedagogy, description, material creation, and other such sets of tasks).</p>
+        <p id="bats">
+        Another thing I got involved with early on while at UT was the Bilingual Annotation Tasks Force (BATs), working under <a href="https://liberalarts.utexas.edu/caaas/faculty/ajt95" target="_blank" rel="noopener noreferrer">Jacqueline Toribio</a> and <a href="https://liberalarts.utexas.edu/frenchitalian/faculty/bb25848" target="_blank" rel="noopener noreferrer">Barbara Bullock</a>. The lab was focussed on computational accounts of code-switching, but, being led by sociolinguists, we were very keen to keep an eye to language users as the key component for any kind of analysis. This was a major point of exposure to interdisciplinarity between sociolinguistics, multilingualism, and computation for me, all of which have continued to be attractive topics to me.
+        </p>
+        <p id="matukar">
+        One of the most influential projects I have been on was one I got involved in while studying abroad in Canberra, through the <a href="https://dynamicsoflanguage.edu.au/" target="_blank" rel="noopener noreferrer">Centre of Excellence for the Dynamics of Language</a>, working with <a href="https://barthlab.wordpress.com/" target="_blank" rel="noopener noreferrer">Danielle Barth</a>, <a href="https://www.jamesgrama.com/" target="_blank" rel="noopener noreferrer">James Grama</a>, <a href="https://researchers.anu.edu.au/researchers/gonzalez-ochoa-s" target="_blank" rel="noopener noreferrer">Simón González</a>, and <a href="https://researchers.anu.edu.au/researchers/travis-ce" target="_blank" rel="noopener noreferrer">Catherine Travis</a>. It was a project driven by Barth as a sociolinguist and documentary linguist. We expanded work on <a href="https://en.wikipedia.org/wiki/Matukar_Panau" target="_blank" rel="noopener noreferrer">Matukar Panau</a>, applying a sociophonetic analysis to audio materials and their transcriptions from fieldwork. I worked with the <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">Montreal Forced Aligner</a> to train a language model from the Matukar material itself, and we designed a recursive model creation pipeline to align the transcriptions maximally precisely to take vowel measurements. We took a generally variationist approach to the quantitative part of the project, to find likely places of social stratification.
+        </p>
+
+        <!-- So it's interesting to think about "research interests," because the way I think about it is kind of funky? So there are methodologies I like (and frameworks for acquiring and using data from those, which is...methodology also). There's also features I'm interested in. There's also categories of typological intrigue I'm interested in. All of these end up being called "subfields" or whatever, but it's hard for me to justify that kind of framing. I guess you could say I'm interested in morphology and semantics and historical linguistics, but historical linguistics can deal specifically with morphological and semantic features, no? I haven't figured out how to word it yet.
         I consider my chief interest in methodology to be at an intersection between language documentation, sociolinguistics, and computational linguistics. More specifically, though:
         As for sociolinguistics, I am fascinated by linguistic variation, the methods developed for the analysis of variation are many but there is room to improve. The reason I consider my methodological interest to be at the intersection of documentation and sociolinguistics is because I find that the documentation of sociolinguistics, including of course variation, is severely lacking. There are many active efforts to improve this state of affairs, and I am excited to be a member of that movement.
         My interest in computational linguistics is less about machine learning and more about the processes in linguistics that can be aided by use of computational methods. Almost all pipelines in linguistics involve some kind of computational methods, of course, so where do I fit? I go where I'm needed at a high level. That is, I want to work with others to build software that is easy to interface with as linguists with little experience in building computational tools. The semantic satiation of "computational" is hitting me hard right now, wow. Just as I see a poor state of affairs in sociolinguistic variation in documentation, I see an unnecessary loyalty to software that doesn't necessarily best suit us as fieldworkers and people working with data from the field. That said just as I see a pattern of improvement in documentation of sociolinguistic variation, I see more and more efforts to improve our options for tools in the field<span style="color: #f1f1f1;">, especially finding a way to remove FLEx from the picture</span>.
-        Features I find especially interesting these days involve TAM(EV), the labrynthine pathways of phonologization and grammaticalization (and how they come together in amazing ways!). I really like language though, is the thing. Like, dang! Language! Rules! Even if I don't nevessarily buy into all aspects of a framework doesn't mean I don't think it isn't cool. We can have some lovely hypothesis generation from just some sweet OT tableaux. Language is fun and I'm here to have a good time.
+        Features I find especially interesting these days involve TAM(EV), the labrynthine pathways of phonologization and grammaticalization (and how they come together in amazing ways!). I really like language though, is the thing. Like, dang! Language! Rules! Even if I don't nevessarily buy into all aspects of a framework doesn't mean I don't think it isn't cool. We can have some lovely hypothesis generation from just some sweet OT tableaux. Language is fun and I'm here to have a good time. -->
     </div>
-    <button type="button" class="collapsible"><h2>Leisure</h2></button>
+    <button class="collapsible" id="leisure"><h2>Leisure</h2></button>
     <div class="content">
         I love to edit Wikipedia and other sister Wikimedia Projects, and I run Edit-a-Thons every so often to encourage this of others as well.
         <!-- I try to do the best I can to learn what is learnable, and learn about the difficulties in learning things that are at the moment insurmountable. What the latter means is that I cannot quite approach learning about the Sentinelese language, considering that research is not possible there due to the priorities of Sentinelese people: it is important to respect that and it is not a situation under my control.
