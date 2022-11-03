@@ -29,7 +29,7 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 
-let headerRender = () => document.body.insertAdjacentHTML("afterbegin",
+document.body.insertAdjacentHTML("afterbegin",
 `
 <header class="row">
         <a class="side" href="./index.html"><div><img id="pic" src="./index-files/death_spiral_headshot.jpg" alt="Picture of Sunny, a dark-skinned person with a beard, wearing a purple scarf with International Phonetic Alphabet characters on it" srcset=""></div></a>
@@ -63,4 +63,3 @@ let headerRender = () => document.body.insertAdjacentHTML("afterbegin",
 `
 
 )
-document.onload(headerRender())
