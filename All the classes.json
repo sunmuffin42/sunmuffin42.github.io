@@ -1,0 +1,465 @@
+{
+    "prompt": "Upload a document that lists all courses you have taken or will have taken by the time of enrollment which have relevance to graduate study in linguistics. The list should give the full title of the course, the instructor's full name, the grade earned (if available), one paragraph or less describing the course content or topics covered, and the titles and authors of any texts used or papers read.",
+    "note": "I have included various logic courses (with software focus or not) because they were avenues towards my learning about formal language models, and software development for language technologies. I include more abstracted or culturally focused courses because one of my goals as a linguist is to consider context, ethics, and social aspects of the world as relates to language. Many of these courses involved a great list of readings, but I have provided titles for main textbooks where possible.",
+    "base_template": {
+        "class": "",
+        "instructor": "",
+        "grade": "",
+        "readings": [
+            {
+                "title": "",
+                "author": ""
+            }
+        ],
+        "description": ""
+    },
+    "classes": [
+        {
+            "class": "INTENSIVE NAHUATL I A",
+            "instructor": "Sabina de la Cruz de la Cruz",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Gramática Nahuatl",
+                    "author": "IDIEZ 2013 Yale Nahuatl Summer Language Institute Zacatecas, Mexico"
+                },
+                {
+                    "title": "Nahuatl Grammar Notes",
+                    "author": "D.K. Jordan"
+                }
+            ],
+            "description": "Intensive language class with a bilingual speaker of Spanish and (Veracruz) Nahuatl. Class involved eliciting information and applying what we learnt to converse and read/write in Nahuatl. We also spent time covering information about Nahuan peoples and their modern and historical cultures."
+        },
+        {
+            "class": "INTRODUCTION TO STUDY OF LANGUAGE-HONORS",
+            "instructor": "V. Alexandra Teodoresco",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Introduction to Language, 10th edition",
+                    "author": "Fromkin, Victoria, Robert Rodman, and Nina Hyams"
+                }
+            ],
+            "description": "The introductory class for linguistics; we used the Fromkin textbook and the instructor expounded on it, giving her thoughts on research and the state of the field, including how the presentation UG in the book is worth interrogating. We went through the subfields often covered in an intro class: phonetics, phonology, morphology, syntax, historical linguistics, sociolinguistics, psycholinguistics, and neurolinguistics."
+        },
+        {
+            "class": "DYING LANGUAGES: WHAT WORLD LINGUISTIC DIVERSITY MEANS FOR US",
+            "instructor": "Anthony Woodbury",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Guns, germs, and steel: The fates of human societies",
+                    "author": "Jared Diamond"
+                },
+                {
+                    "title": "Dying words: Endangered languages and what they have to tell us",
+                    "author": "Nicholas Evans"
+                },
+                {
+                    "title": "Flutes of fire: Essays on California Indian languages",
+                    "author": "Leanne Hinton"
+                }
+            ],
+            "description": "This was an Undergraduate Studies course, a type of course that everyone doing an undergraduate degree must take. This meant that the class was populated with people of various interests across the university. With a diverse audience, Woodbury lectured at a high level but increasingly pushed deeper into what endangerment, dormancy, and revitalization can involve, including assignments to report on features in particular languages. We read through relevant grammars and looked at archives such as ELAR and AILLA to this."
+        },
+        {
+            "class": "INTRODUCTORY SYMBOLIC LOGIC",
+            "instructor": "Brian Knab",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "forallx",
+                    "author": "P.D. Magnus"
+                }
+            ],
+            "description": "Over the course of the semester, we covered topics in formal logic, including propositional, predicate, and modal logic, as well as lambda calculus and number theory."
+        },
+        {
+            "class": "ELEMENTS OF COMPUTERS/PROGRAMMING",
+            "instructor": "Shyamal Mitra",
+            "grade": "A",
+            "readings": [],
+            "description": "An introductory course for computational concepts, with implementations in Python."
+        },
+        {
+            "class": "PHONETICS: THE PRODUCTION AND PERCEPTION OF SPEEECH SOUNDS",
+            "instructor": "Rajka Smiljanic",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Vowels and Consonants: An Introduction to the Sounds of Language",
+                    "author": "Peter Ladefoged"
+                },
+                {
+                    "title": "Discovering speech, words and mind",
+                    "author": "Byrd, D. & Mintz, T."
+                },
+                {
+                    "title": "Acoustic analysis of speech",
+                    "author": "Kent, R. & Read, C."
+                },
+                {
+                    "title": "Phonetics: Transcription, production, Acoustics, and Perception",
+                    "author": "Reetz, H. & Jongman, A."
+                },
+                {
+                    "title": "A Course in Phonetics",
+                    "author": "Ladefoged, P., & Johnson, K."
+                }
+            ],
+            "description": "Phonetics class covering reading spectrographs, manipulating sounds, and interpreting results of independent inquiry. We learnt about foundational experiments in phonetics and read important literature about laboratory phonetics, perception, and audiology."
+        },
+        {
+            "class": "ELEMENTS OF SOFTWARE DESIGN",
+            "instructor": "William Bulko",
+            "grade": "A",
+            "readings": [],
+            "description": "A class on more complex computational concepts and algorithms. Covered things like graphs, queues/stacks, complexity of implementations (that is, understanding the usage of big O notation for eg sorting a list using algorithms that use single iteration or nested loops, etc)"
+        },
+        {
+            "class": "Syntax and Semantics: The Structure and Meaning of Utterances",
+            "instructor": "Stephen Wechsler",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Analyzing Syntax",
+                    "author": "Paul Kroeger"
+                }
+            ],
+            "description": "Introductory course on syntax, semantics, and pragmatics. The focus on syntax used multilingual data and work toward building an understanding for usage of constraint based grammars while also building on reasons to consider other theories, such as motivations for strict binary branching vs being okay with ternary branching in certain contexts. The semantics portion of the class was at a higher level, mostly considering set theory and entailments, and it led into the pragmatics portion with implicatures. In the pragmatics section, we learnt about and discussed Grice's maxims and touched briefly on difficulty with accounting for realistic speech errors using formal syntax."
+        },
+        {
+            "class": "Philosophy of Language",
+            "instructor": "Mark Sainsbury",
+            "grade": "A",
+            "readings": [],
+            "description": "We covered basic problems in the sphere of philosophy of language such as Quine's 'gavagai' question, the issues presented in Sinn und Bedeutung, and Sperber and Wilson's work. The format of the small class placed priority on discussion about concepts from readings with guidance from Sainsbury. We had writing assignments to synthesize our readings and further individual research, and through peer and professorial review we improved our presentations of ideas."
+        },
+        {
+            "class": "K'ICHEE' PEOPLES: CULTURE/HISTORY/LANGUAGE",
+            "instructor": "Manuel D. Tahay Gómez",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "A Beginner to Advanced Level K'iche' Online Course",
+                    "author": "Sergio Romero et al"
+                }
+            ],
+            "description": "Intensive language class taught by a bilingual speaker of Spanish and (Nawalja) K'ichee'. Class involved eliciting information and applying what we learnt to converse and read/write in K'ichee. We also spent time covering information about Maya peoples and their modern and historical cultures."
+        },
+        {
+            "class": "Learning an Indigenous Australian language - Gamilaraay",
+            "instructor": "Gianbattista Giacon",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Yaluu",
+                    "author": "Gianbattista Giacon"
+                }
+            ],
+            "description": "Intensive language class taught by a linguist who works closely the the project for revitalization of Gamilaraay (aka Kamilaroi). Class involved eliciting information and applying what we learnt to converse and read/write in Gamilaraay. We also spent time covering information about Gamilaraay, Yuwalaraay, and Yuwalayaay peoples and their modern and historical cultures. We engaged with community members (including members of the community in the class itself) to understand their needs as people who are working towards teaching a new generation their language."
+        },
+        {
+            "class": "Dictionaries and Dictionary-Making",
+            "instructor": "Amanda Laugesen",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "The Oxford Guide to Practical Lexicography",
+                    "author": "S. Atkins and M. Rundell"
+                }
+            ],
+            "description": "We looked at the processes involve in collecting lexical data, making decisions about inclusions and exclusions for entries in a dictionary with various audiences (eg specifically for a national dictionary or one for an indigenous community). Time was also spent on the utility of certain fields of an entry such as explicit vs vulgar vs colloquial vs slang vs derogatory language."
+        },
+        {
+            "class": "Qualitative Research Methods in Language Studies",
+            "instructor": "Carmel O'Shannessy",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Qualitative Research in Applied Linguistics",
+                    "author": "J Heigham and R Croker"
+                },
+                {
+                    "title": "Doing Sociolinguistics: A practical guide to data collection and analysis",
+                    "author": "Meyerhoff, M., Schleef, E., MacKenzie, L"
+                },
+                {
+                    "title": "Qualitative research from start to finish",
+                    "author": "Yin, R. K"
+                },
+                {
+                    "title": "Doing qualitative research: The craft of naturalistic inquiry",
+                    "author": "Beuving, J., & De Vries, G"
+                },
+                {
+                    "title": "Introduction to qualitative research methods: A guidebook and resource",
+                    "author": "Taylor, S. J., Bogdan, R., & DeVault, M."
+                }
+            ],
+            "description": "In this qualitative linguistics class we covered various methodologies such as Conversation Analysis, Discourse Analysis, etc and their shortcomings and advantages. We took up a few small scale studies or pilots, and presented them to the class."
+        },
+        {
+            "class": "Advanced Sociophonetics",
+            "instructor": "Ksenia Gnevsheva",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Sociophonetics: An Introduction",
+                    "author": "Thomas, E.R."
+                },
+                {
+                    "title": "Sociophonetics: A student's guide",
+                    "author": "Di Paolo, M., & Yaeger-Dror, M"
+                },
+                {
+                    "title": "Using Praat for linguistic research",
+                    "author": "Styler, W"
+                }
+            ],
+            "description": "We covered foundational literature in sociophonetics, ethics, new directions being currently explored, and methods. Each of the students in the class collected data using standard methods (predetermined list, standard passage, sociolinguistic interview), and we all shared our data to perform a pilot study of our choosing."
+        },
+        {
+            "class": "Field Methods",
+            "instructor": "Sonja Riesberg",
+            "grade": "A",
+            "readings": [],
+            "description": "Field methods class on Motu. Involved work as a class in planning sessions with the language teachers, followed by those sessions. We also did work with the teachers in two-person groups on specific topics of interest (I worked on verbs such as cut and break as well as deictic expression)."
+        },
+        {
+            "class": "LANGUAGE CONTACT",
+            "instructor": "Patience Epps",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "An Introduction to Contact Linguistics",
+                    "author": "Winford, Donald"
+                }
+            ],
+            "description": "A course about language contact, including language shift, mixed languages, code switching, power structures, areal linguistics, etc. Papers we wrote covered topics in our own research, where we applied relevant material from the class to inform specific features and phenomena in languages/linguistic practices of interest."
+        },
+        {
+            "class": "LANGUAGE CHANGE AND LANGUAGE VARIATION",
+            "instructor": "Michael Everdell",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "An Introduction to Historical Linguistics",
+                    "author": "Crowley, Terry and Claire Bowern"
+                }
+            ],
+            "description": "A course about historical linguistics and, for a few weeks, linguistic variation. We applied the comparative method to examples from language data taken from our reading as well as examples from languages of interest to our faculty, who provided data. In addition to the comparative method, we took a look at lexicostatistics, glottochronology, and Bayesian phylogeny, evaluating their utility with reference to the comparative method."
+        },
+        {
+            "class": "SOUND PATTERNS: SOUND TO WORD",
+            "instructor": "Megan Crowhurst",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Introducing Phonology",
+                    "author": "Odden, David"
+                }
+            ],
+            "description": "Phonology course teaching generative phonology/feature geometry as well as Optimality Theory. We touched on concepts around these lines of thinking, such as mental models with the likes of exemplar and prototype theories."
+        },
+        {
+            "class": "MACHINE LEARNING TOOLBOX FOR TEXT ANALYSIS",
+            "instructor": "Junyi Jessy Li",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Data Science from Scratch",
+                    "author": "Joel Grus"
+                }
+            ],
+            "description": "We learnt about machine learning algorithms and how they apply to linguistics, with assignments that required implementation in Python using sklearn and gensim. In addition, we discussed Bayesian techniques of hypothesis testing, linear algebraic intuitions for processes like gradient descent, and what vectorization involves."
+        },
+        {
+            "class": "ELEMENTS OF DATA ANALYTICS",
+            "instructor": "Angie Beasley",
+            "grade": "A-",
+            "readings": [
+                {
+                    "title": "Introduction to Data Mining, 2ed.",
+                    "author": "Pang-Ning Tan, Michael Steinbach, Vipin Kumar"
+                }
+            ],
+            "description": "In this class we were presented with a domain-general set of machine learning methods, but got to apply it to data we felt interesting. We spent more time on the mathematical rationale for particular algorithms and manual implementations as a result. My capstone project was about identifying sociolinguistic variables correlating with word choice in the Spanish in Texas Corpus."
+        },
+        {
+            "class": "INTRODUCTION TO ASIAN AMERICAN HISTORY",
+            "instructor": "kt Shorb (capitalization intentional)",
+            "grade": "A",
+            "readings": [],
+            "description": "A class with an eye to the moral intricacies of the US's racial project with respect to Asian and Asian American peoples. We had active discussions as well as lectures about how the puzzle of race and ethnicity is put together, and how certain waves of immigration came with different assumptions about the extent of cultural belief in codified law. This involved looking at many features of culture, and it showed me some considerations to take when it comes to how differences can (but not always should) be resolved."
+        },
+        {
+            "class": "EXPLORING ACCENTS",
+            "instructor": "Scott Myers",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "The Oxford Guide to Practical Lexicography",
+                    "author": "S. Atkins and M. Rundell"
+                }
+            ],
+            "description": "This class was about phonetic dialectology, focusing on English. We considered different features and segments, and undertook an independent research project."
+        },
+        {
+            "class": "ELEMENTS SOFTWARE ENGINEERING I",
+            "instructor": "Fares Fraij",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Extreme Programming Installed",
+                    "author": "Ron Jeffries, Ann Anderson, Chet Hendrickson"
+                },
+                {
+                    "title": "Pro Git",
+                    "author": "Scott Chacon and Ben Straub"
+                }
+            ],
+            "description": "In this class I got a strong foundation in some 'best' practices (or at least a strong foundation of what to look for when thinking about relevant practices), going through the Git interface and checking differences between code. Much of the class time was spent on learning how to make professional-seeming code that works intuitively to a developer down the road (eg what kind of commenting to use, how a makefile should be structured, etc)."
+        },
+        {
+            "class": "SIGN LANGUAGES & SIGNING COMMUNITIES",
+            "instructor": "Dag Lindeberg",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Sign languages: structures and contexts",
+                    "author": "Hill, Joseph Christopher, Diane C. Lillo-Martin & Sandra K. Wood"
+                }
+            ],
+            "description": "This class was taught by a Deaf graduate student who has perspectives not only on the Deaf community in Austin, but, being a Norwegian immigrant, he has experience with multilingualism with sign and spoken languages. We spent time on language and culture and he made himself available for feedback and further discussion about typology and linguistic analysis beyond what he taught. Within our class' scope were topics such as phonetics, phonology, syntax, audism, oralism, historical contexts, and historical linguistics."
+        },
+        {
+            "class": "Analyzing linguistic data, and programming for linguists",
+            "instructor": "Katrin Erk",
+            "grade": "A",
+            "readings": [
+                {
+                    "title": "Statistics Explained: A Guide for Social Science Students",
+                    "author": "P. R. Hinton"
+                }
+            ],
+            "description": "In this class we learnt about ways to apply important statistical models to language data. Our implementations were in Python, and we were encouraged to use data we personally found interesting for a capstone project."
+        },
+        {
+            "class": "Bridges between formal semantics and historical linguistics",
+            "instructor": "Elitzur Bar-Asher Siegal",
+            "grade": "A",
+            "readings": [
+                {
+                    "author": "Bar-Asher Siegal, Elitzur A",
+                    "title": "The NP-strategy for expressing reciprocity: Typology, history, syntax and semantics"
+                },
+                {
+                    "author": "Bar-Asher Siegal, Elitzur A",
+                    "title": "The Case for External Sentential Negation: Evidence from Jewish Babylonian Aramaic"
+                },
+                {
+                    "author": "Bar-Asher Siegal, Elitzur A",
+                    "title": "A formal approach to reanalysis: The case of a negative counterfactual marker"
+                },
+                {
+                    "author": "Bar-Asher Siegal, Elitzur A",
+                    "title": "The pursuit of Science: A Study in Saussure’s Philosophy of Science through the Lens of a Historical Discussion"
+                },
+                {
+                    "author": "Bar-Asher Siegal, Elitzur A",
+                    "title": "A formal approach to reanalysis: The case of a negative counterfactual marker"
+                },
+                {
+                    "author": "Bar-Asher Siegal, Elitzur A",
+                    "title": "How can history inform semantics: A formal study of external negation"
+                },
+                {
+                    "author": "Beck, Sigrid and Remus Gergel",
+                    "title": "The diachronic semantics of English AGAIN"
+                },
+                {
+                    "author": "Condoravdi, Cleo and Ashwini Deo",
+                    "title": "Aspect shifts in Indo-Aryan and trajectories of semantic change"
+                },
+                {
+                    "author": "Deo, Ashwini",
+                    "title": "Unifying the imperfective and the progressive: Partitions as quantificational domains"
+                },
+                {
+                    "author": "Deo, Ashwini",
+                    "title": "Formal semantics/pragmatics and language change"
+                },
+                {
+                    "author": "Deo, Ashwini",
+                    "title": "Diachronic Semantics"
+                },
+                {
+                    "author": "Eckardt, Regine",
+                    "title": "Meaning Change in Grammaticalization: An Enquiry into Semantic Reanalysis"
+                },
+                {
+                    "author": "Eckardt, Regine",
+                    "title": "Grammaticalization and Semantic Reanalysis"
+                },
+                {
+                    "author": "Fabricius-Hansen, Cathrine",
+                    "title": "'Wi(e)der' and 'Again(st)'"
+                },
+                {
+                    "author": "Győri, Gábor",
+                    "title": "Semantic change and cognition"
+                },
+                {
+                    "author": "Hansen, Maj-Britt Mosegaard",
+                    "title": "In defense of a pragmatic view of reanalysis"
+                },
+                {
+                    "author": "Harris Alice C. and Lyle Campbell",
+                    "title": "Historical syntax in cross-linguistic perspective"
+                },
+                {
+                    "author": "Haug, Dag",
+                    "title": "From resultatives to anteriors in Ancient Greek: On the role of paradigmaticity in semantic change"
+                },
+                {
+                    "author": "Hopper, Paul J. and Elizabeth C. Traugott",
+                    "title": "Grammaticalization"
+                },
+                {
+                    "author": "Kay, Paul and Laura A. Michaelis",
+                    "title": "Constructional Meaning and Compositionality"
+                },
+                {
+                    "author": "Mathesius, Vilém",
+                    "title": "On Linguistic Characterology with Illustrations from Modern English, Acted"
+                },
+                {
+                    "author": "Paul, Hermann",
+                    "title": "Principien [Prinzipien] der Sprachgeschichte"
+                },
+                {
+                    "author": "Traugott, Elizabeth Closs",
+                    "title": "The role of pragmatics in semantic change"
+                }
+            ],
+            "description": "We critically examined attempts at using formal semantic analysis to account for historical change. Much of the class’ readings were literature that proposed frameworks for analyzing diachronic semantics, but the discussion in class was primarily focussed on finding specifically what contributions those attempts made. Because it was a small class, we spent much of our time discussing amongst ourselves how useful formalisms are in making claims about change, and came to the conclusion that there should be much more motivation for using a framework than that it makes a pleasant mathematical formula. (I would cross-apply this as another element of contributing to my education in Diachronic linguistics"
+        },
+        {
+            "class": "Topics in Language Documentation: Technology",
+            "instructor": "Claire Bowern & Patrick Hall",
+            "grade": "A",
+            "readings": [
+                {
+                    "author": "Bird, Steven and Simons, Gary",
+                    "title": "Seven Dimensions of Portability for Language Documentation and Description"
+                },
+                {
+                    "author": "Zeldman & Marcotte",
+                    "title": "Backwards compatibility is a lie"
+                }
+            ],
+            "description": "The goal of this class was to explore and gain an understanding of how language documentation can benefit from implementation of technology. We learnt about dataflows and workflows and received an introduction to JavaScript programming for the presentation of reclamation- and documentation-oriented materials. Through demonstrations, group work, and independent projects, we made apps such as dictionaries, a prototype of a morphological parser, a tool for collection  andof words that would correspond to local flora and fauna using an international biological database."
+        }
+    ]
+}
