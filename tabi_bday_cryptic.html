@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tavi bday cryptic!</title>
+    <style>
+        input {
+            width: 50px;
+            height: 50px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 30pt;
+            /*background-image: url('./numbers/1.png');*/
+            /*background-size: 40%;*/
+            background-repeat: no-repeat;
+            border: 4px solid rgb(215, 197, 197);
+        }
+
+        /*#one {
+            background-image: url('./numbers/1.png');
+            color: black;
+        }*/
+    </style>
+</head>
+
+<body>
+    <tr>
+        <td><input type="text" style="background-image: url('./numbers/1.png');"></td>
+        <td><input type="text" style="border-bottom: 4px solid black;"></td>
+        <td><input type="text" style="background-image: url('./numbers/2.png');"></td>
+        <td><input type="text" style="background-image: url('./numbers/3.png');border-right: 4px solid black"></td>
+        <td><input style="background-image: url('./numbers/4.png');
+                border-left: 4px solid black; border-right: 4px solid black;" type="text"></td>
+        <td><input type="text" style="background-image: url('./numbers/five.png');border-left: 4px solid black"></td>
+    </tr><br>
+    <tr>
+        <td><input type="text" style="background-image: url('./numbers/6.png');"></td>
+        <td><input type="text" style="border-bottom: 4px solid black;border-top: 4px solid black"></td>
+        <td><input type="text"></td>
+        <td><input type="text" style="border-right: 4px solid black;"></td>
+        <td><input type="text" style="border-left: 4px solid black; border-right: 4px solid black;"></td>
+        <td><input type="text" style="border-left: 4px solid black;"></td>
+    </tr><br>
+    <tr>
+        <td><input type="text" style="background-image: url('./numbers/7.png');border-bottom: 4px solid black;"></td>
+        <td><input type="text" style="background-image: url('./numbers/8.png');border-top: 4px solid black"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text" style="border-right: 4px solid black"></td>
+        <td><input type="text" style="border-left: 4px solid black;"></td>
+    </tr><br>
+    <tr>
+        <td><input type="text" style="background-image: url('./numbers/9.png');border-right: 4px solid black;border-top: 4px solid black"></td>
+        <td><input type="text" style="border-right: 4px solid black;border-left: 4px solid black;"></td>
+        <td><input type="text" style="border-left: 4px solid black;"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+    </tr><br>
+    <tr>
+        <td><input type="text" style="background-image: url('./numbers/10.png');"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text" style="border-right: 4px solid black;"></td>
+        <td><input type="text" style="border-left: 4px solid black;"></td>
+    </tr><br>
+    <tr>
+        <td><input type="text" style="background-image: url('./numbers/11.png');"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+    </tr>
+
+    <div>
+        <h1>Across:</h1>
+        <div>
+            <ol>
+                <li value="1">We got silver in the coding and algorithms competitions, fuck! (4)</li>
+                <li value="6">What everybody does when Florida gets overpowered (4)
+                </li>
+                <li value="7">It’s allowed because I wound up in the clitoris (5)
+                </li>
+                <li>Forewent a maître d’, server, and all that, pointing to the eaten mes already made (5)
+                </li>
+                <li>Works stored in the national bank remind us of (crap clue), putting something in the air that reminds us of clue  (6)</li>
+            </ol>
+        </div>
+    </div>
+    <div>
+        <h1>Down:</h1>
+        <div>
+            <ol>
+                <li value="1">Chlorine covers the bad grades in light. (3)</li>
+                <li value="2">A Spanish sir eschews Italian lawn bowls tips for a gorgeous match (6)</li>
+                <li value="3">Spies and rites without español (in brief) give us life (6)
+                </li>
+                <li value="4">Aided with a greeting made hi-er and a foot crank without aluminum (6)</li>
+                <li value="10">Energy src has one in a comparison (3)
+                </li>
+            </ol>
+        </div>
+    </div>
+    <div><button onclick="check()">Check answers</button></div>
+</body>
+<script>
+    let answers = [
+    "C",
+    "U",
+    "S",
+    "S",
+    "B",
+    "H",
+    "F",
+    "L",
+    "O",
+    "P",
+    "U",
+    "E",
+    "L",
+    "I",
+    "C",
+    "I",
+    "T",
+    "L",
+    "C",
+    "O",
+    "C",
+    "R",
+    "A",
+    "P",
+    "A",
+    "T",
+    "E",
+    "I",
+    "N",
+    "E",
+    "F",
+    "A",
+    "R",
+    "T",
+    "E",
+    "D"
+  ]
+    let check = () => {
+        let responses = Array.from(document.querySelectorAll("input")).map(el => el.value)
+        let sentinel = true
+        for (let i = 0; i < answers.length; i++) {
+            if (answers[i] != responses[i]) {
+                sentinel = false
+            }
+            if (sentinel === false) {
+                window.alert("SOMETHING'S WRONG, DUMDUM")
+                break
+            }
+        }
+        if (sentinel) {
+            window.alert("sick bro, you did it")
+        }
+    }
+</script>
+
+</html>
