@@ -82,15 +82,20 @@ header {
     background-color: black;
     color: rgb(225, 211, 211);
     cursor: pointer;
-    padding: 18px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 4px;
     width: 100%;
     /* border: none; */
     border-bottom: 5px grey;
     text-align: left;
+    font-weight: bold;
     outline: none;
-    font-size: 15px;
+    font-size: 20px;
   }
-  
+  details > div > div {
+    font-size: 15pt;
+  }
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
   .active, .collapsible:hover, .navlink:hover {
     background-color: #ccc;
