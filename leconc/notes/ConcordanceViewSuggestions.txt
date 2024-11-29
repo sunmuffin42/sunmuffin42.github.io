@@ -1,0 +1,4 @@
+Frequency of occurrences and other stats for the search
+Sorting by text
+Read more metadata from text so it can be sorted on
+Vocabulary 

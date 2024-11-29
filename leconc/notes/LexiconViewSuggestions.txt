@@ -1,0 +1,6 @@
+
+Scroll by letter (have a column with all the letters on the side)
+Search by semantic domain
+Random word
+Search at the top
+View entire dictionary button pulls up the entire thing

@@ -1,0 +1,258 @@
+:root {
+  --base-font-size: 100%;
+
+  --default-font: 400 normal 1rem/1.4rem Gentium Plus, sans-serif;
+  --condensed-font:  400 normal .8rem/1.2rem Fira Sans Condensed, sans-serif;
+  --heading-font-family:  Fira Sans Condensed;
+}
+
+html {
+  min-height: 100%;
+  display:flex;
+  flex: 1;
+}
+
+body {
+  margin:0;
+  flex: 1;
+  display:flex;
+}
+
+* { 
+  font: var(--default-font);
+}
+
+h1 { font-size: 3rem }
+h2 { font-size: 2rem }
+h3 { font-size: 1.5rem }
+h4 { font-size: 1.3rem }
+h5 { font-size: 1.2rem }
+h6 { font-size: 1rem }
+
+.info,
+span.text-title,
+button.show-text-button {
+  font: var(--condensed-font);
+  font-size: small;
+}
+
+span.text-title,
+button.show-text-button {
+  background:none;
+  border:none;
+  text-decoration:underline;
+  color:#555;
+}
+
+main {
+  flex:1;
+  display:grid;
+  grid-template: 
+     "drop-file-view text-view concordance" auto
+    / 1fr 2fr 3fr;
+}
+
+main > [class$="view"] {
+  max-height: 100vh;
+  overflow:auto;
+}
+
+.file-drop-view {
+  border-right: 1px solid;
+  padding: 1em;
+}
+
+.concordance-view {
+  padding: 0 2em;  
+  grid-area: concordance;
+  border-left: 1px solid;
+}
+
+.text-view {
+  padding: 0 2em;
+  grid-area: .text-view;
+}
+
+.text-view .metadata-table {
+  margin-bottom: 2em;
+}
+
+.text-view .metadata-table th {
+  color:#666;
+  font-family: Fira Sans Condensed;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size:small;
+  text-align: right;
+  padding: 0 1em;
+  border-bottom: 1px solid #eee;
+  border-right: 1px solid #eee;
+}
+
+section, header {
+  /*! padding: 1em; */
+}
+
+section.query {
+  grid-area: query;
+  display:grid;
+  grid-template-rows: repeat(3,1fr);
+  grid-template-areas: 
+    "header header" 
+    "search search" 
+    "options stats";
+
+  border-bottom: 3px double lightgray;
+}
+
+.query {}
+
+.text-view {
+  /*! grid-area: text-view; */
+}
+
+.text-view img {
+  width: 100%;
+}
+
+.drop-file-view {
+  grid-area: drop-file-view;
+}
+
+
+.concordance {
+  /*! grid-area: concordance; */
+}
+
+
+
+* {
+  font-size: var(--base-font-size);
+}
+
+.sentence {
+  font-family: var(--base-font-family);
+  margin-bottom: 5em;
+}
+
+.words { 
+  /* display:flex;  */
+  display: none;
+  flex-wrap: wrap; 
+  margin: 1em; 
+}
+
+.word { 
+  margin: 1em; 
+}
+
+.word p { 
+  margin: 0; 
+}
+
+.token {  
+  font-family: serif; 
+  background:yellow;
+}  
+
+.gloss { 
+  font-size: 80%; 
+}
+
+.transcription, .token {
+}
+
+.translation, .gloss {
+  font-weight: normal;
+}
+
+.hit-view {
+  display:grid; 
+}
+
+#overlay {
+  background-color: black;
+  z-index: 1000;
+  grid-column-start:  drop-file-view-start;
+  grid-column-end: text-view-end;
+  grid-row-start: 1;
+  grid-row: -1;
+}
+
+details {
+  font: var(--condensed-font);
+  font-size: .8rem;
+}
+
+details summary button {
+  background:none;
+  border:none;
+}
+
+details summary button:before {
+  content:'[';
+}
+
+details summary button:after {
+  content:']';
+}
+
+/* sentences */
+
+.sentence-view {
+  margin-bottom: 1em;
+  display:grid;
+  /*! grid-template-rows: 
+    auto
+    auto
+    auto; */
+  grid-template-columns: 1fr 20%;
+  grid-template-areas: 
+    "transcription sidebar"
+    "glosses sidebar"
+    "translation .";
+    
+}
+
+.sentence-view .transcription {
+  grid-area: transcription;
+  line-height: 1em;
+  padding: 0;
+}
+
+
+.sentence-view .glosses {
+  grid-area: glosses;
+  font-family: Fira Mono;
+  font-size: .8rem;
+  color:#666;
+  margin-top: .5rem;
+  font-style:normal;
+}
+
+.sentence-view .translation {
+  grid-area: translation;
+  font-style: italic;
+}
+
+.sentence-view footer {
+  grid-area: sidebar;
+}
+
+.sentence-view p {
+  line-height: 1;
+  margin:.1em;
+}
+
+.concordance-view .hit-view mark {
+  font-weight:bold;
+  background:transparent;
+}
+
+.text-view .sentence-view mark {
+  background:yellow
+}
+
+.text-view .sentence-view .glosses {
+  display:none;
+}
