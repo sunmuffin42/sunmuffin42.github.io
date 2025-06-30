@@ -210,8 +210,9 @@ class TextDropView {
       let fileList = dropEvent.dataTransfer.files
       let fileArray = Array.from(fileList)
       fileArray.forEach(file => this.add(file))
-    })    
+    }
+  )
+  window.addEventListener('onload', this.loadFiles())
 }
 }
 
-window.onload = this.loadFiles();
