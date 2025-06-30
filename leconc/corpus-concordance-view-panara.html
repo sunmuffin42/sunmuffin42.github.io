@@ -44,7 +44,7 @@ let textList =
   ["pnr_txt_kjanse2a_leconc.json", "pnr_txt_koka_contact_leconc.json", "pnr_txt_seak-ipp-hista_leconc.json", "pnr_txt_seakja-snake_leconc.json", "poka2017_leconc.json", "sokren_elic_20230619_leconc.json", "sokren_elic_20240621_leconc.json", "sokriti_contact_leconc.json", "sykja_leconc.json", "turen_leconc.json", "Causative_Elicitation_leconc.json", "karansa_leconc.json", "pnr_20240806-2_kjârasâ_MJL_KP_SA_story_2-AT4041.json", "pnr_20240814_pâtti_MJL_KP_SA_jopy-hä-kja_1-shurebeta54_2-AT4041_ch1.json", "pnr_krenpy_MJL_ERD_JCJ_story_20230619_shurebeta54.json", "pnr_paripoa1a_leconc.json", "pnr_txt_aka-hunting_leconc.json", "pnr_txt_jôôtu_hist_leconc.json"].map(el => "https://sunnyananth.com/leconc/corpus/JSON/"+el);
 
 textList.forEach(textName => {
-  newText = new Text($.getJSON(textName, newCorpus.add(newText)));
+  $.getJSON(textName, newText => newCorpus.add(new Text(newText)))
 });
 
 let corpusConcordanceView = new CorpusConcordanceView(newCorpus, document.querySelector('main'));
