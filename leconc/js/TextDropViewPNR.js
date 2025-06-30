@@ -185,37 +185,15 @@ class TextDropView {
 
   async loadFiles() {
     try {
-    const response = await fetch('./corpus/JSON/');
-    const fileNames = await response.json(); // Directory listing from server
-
-    for (const fileName of fileNames) {
-      const fileResponse = await fetch(`./corpus/JSON/${fileName}`);
-      const fileContent = await fileResponse.json(); // Assuming JSON files
-      fileArray.forEach(file => this.add(file))
+    let fileArray = ["pnr_txt_kjanse2a_leconc.json", "pnr_txt_koka_contact_leconc.json", "pnr_txt_seak-ipp-hista_leconc.json", "pnr_txt_seakja-snake_leconc.json", "poka2017_leconc.json", "sokren_elic_20230619_leconc.json", "sokren_elic_20240621_leconc.json", "sokriti_contact_leconc.json", "sykja_leconc.json", "turen_leconc.json", "Causative_Elicitation_leconc.json", "karansa_leconc.json", "pnr_20240806-2_kjârasâ_MJL_KP_SA_story_2-AT4041.json", "pnr_20240814_pâtti_MJL_KP_SA_jopy-hä-kja_1-shurebeta54_2-AT4041_ch1.json", "pnr_krenpy_MJL_ERD_JCJ_story_20230619_shurebeta54.json", "pnr_paripoa1a_leconc.json", "pnr_txt_aka-hunting_leconc.json", "pnr_txt_jôôtu_hist_leconc.json"].map(el => "https://sunnyananth.com/leconc/corpus/JSON/"+el)
+    fileArray.forEach(textName => {
+    $.getJSON(textName, newText => this.add(newText))
+})
+      // fileArray.forEach(file => this.add(file))
     }
-  } catch (error) {
+   catch (error) {
     console.error('Error loading files:', error);
   }
-// let fileArray = [
-//   "corpus/JSON/Causative_Elicitation_leconc.json",
-//   "corpus/JSON/karansa_leconc.json",
-//   "corpus/JSON/pnr_20240806-2_kjârasâ_MJL_KP_SA_story_2-AT4041.json",
-//   "corpus/JSON/pnr_20240814_pâtti_MJL_KP_SA_jopy-hä-kja_1-shurebeta54_2-AT4041_ch1.json",
-//   "corpus/JSON/pnr_krenpy_MJL_ERD_JCJ_story_20230619_shurebeta54.json",
-//   "corpus/JSON/pnr_paripoa1a_leconc.json",
-//   "corpus/JSON/pnr_txt_aka-hunting_leconc.json",
-//   "corpus/JSON/pnr_txt_jôôtu_hist_leconc.json",
-//   "corpus/JSON/pnr_txt_kjanse2a_leconc.json",
-//   "corpus/JSON/pnr_txt_koka_contact_leconc.json",
-//   "corpus/JSON/pnr_txt_seak-ipp-hista_leconc.json",
-//   "corpus/JSON/pnr_txt_seakja-snake_leconc.json",
-//   "corpus/JSON/poka2017_leconc.json",
-//   "corpus/JSON/sokren_elic_20230619_leconc.json",
-//   "corpus/JSON/sokren_elic_20240621_leconc.json",
-//   "corpus/JSON/sokriti_contact_leconc.json",
-//   "corpus/JSON/sykja_leconc.json",
-//   "corpus/JSON/turen_leconc.json"
-// ]
 }
 
   listen(){
@@ -232,14 +210,8 @@ class TextDropView {
       let fileList = dropEvent.dataTransfer.files
       let fileArray = Array.from(fileList)
       fileArray.forEach(file => this.add(file))
-    })
-    // default panãra files
-    // for Panãra corpus
-    document.body.addEventListener('load', loadEvent => {
-        
-    })
-    
+    })    
 }
 }
 
-window.onload = this.loadFiles;
+window.onload = this.loadFiles();
