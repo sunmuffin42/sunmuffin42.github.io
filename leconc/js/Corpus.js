@@ -12,7 +12,7 @@ class Corpus {
 
   add(text){
     text = new Text(text, text.metadata)
-    this.texts.push(text)    
+    this.texts.push(text)
   }
 
   search(query, tier){
