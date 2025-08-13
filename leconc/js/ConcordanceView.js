@@ -26,6 +26,8 @@ class ConcordanceView {
           <option value=transcription>Transcription</option>
           <option value=translation>Translation</option>
         </select>
+
+        <button name=search>Search</button>
       </div>   
     </section>
   </header>
@@ -139,6 +141,12 @@ class ConcordanceView {
   listen(){
     this.el.addEventListener('keyup', keyupEvent => {
       if(this.query && keyupEvent.key == 'Enter'){
+        this.search()
+      }
+    })
+
+    this.el.querySelector('button').addEventListener('click', keyupEvent => {
+      if(this.query){
         this.search()
       }
     })
