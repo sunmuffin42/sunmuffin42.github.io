@@ -1,0 +1,20 @@
+body {
+  margin:0;
+  flex: 1;
+  display:flex;
+}
+
+main {
+  flex:1;
+  display:grid;
+  grid-template: 
+     "tokenize-input div transcription-output" auto
+    / 1fr .1fr 1fr;
+}
+
+#tokenize-input{
+	height:300px;
+}
+#transcription-output{
+	height: 300px;
+}

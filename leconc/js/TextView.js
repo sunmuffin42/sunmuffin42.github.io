@@ -15,16 +15,9 @@ class TextView {
     return this.el.querySelector('.sentences')
   }
 
-  highlight(query){
-    this.sentenceViews.forEach(sentenceView => {
-      sentenceView.highlight(query)
-    })
-    this.render()
-  }
-  
   render(){
     this.el.innerHTML = `
-<header>
+<header id=header>
   <h2>Text View</h2>
 </header>
 <div class=text-metadata></div>
@@ -36,10 +29,14 @@ class TextView {
 
     this.el.querySelector('.text-metadata').innerHTML = this.metadataView.el.outerHTML
 
+    let sentenceCount = 1
     this.sentenceViews.forEach(sentenceView => {
       sentenceView.render()
+      sentenceView.el.id = sentenceCount
+      sentenceCount ++
       this.sentencesDIV.appendChild(sentenceView.el)
     })
+    sentenceCount = 0
 
     return this.el;
   }

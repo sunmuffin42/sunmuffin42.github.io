@@ -244,15 +244,24 @@ details summary button:after {
   margin:.1em;
 }
 
-.concordance-view .hit-view mark {
+/* .concordance-view .hit-view mark {
+  font-weight:bold;
+  background:transparent;
+} */
+
+mark {
   font-weight:bold;
   background:transparent;
 }
 
-.text-view .sentence-view mark {
+/* .text-view .sentence-view mark {
   background:yellow
-}
+} */
 
 .text-view .sentence-view .glosses {
   display:none;
+}
+
+.hit-view:hover {
+  background-color: gold;
 }

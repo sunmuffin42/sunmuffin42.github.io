@@ -16,10 +16,16 @@ class SentenceView {
     }
   }
 
-  highlight(query){
-    let p = this.el.querySelector('p.transcription')
+  highlight(query,tier){
+    let p
+    if (tier == 'transcription'){
+      p = this.el.querySelector('p.transcription')
+    }
+    else {
+      p = this.el.querySelector('p.translation')
+    }
     let transcription = p.textContent
-    p.innerHTML = transcription.replace(new RegExp('(' + query + ')', 'g'), `<mark>$1</mark>`)
+    p.innerHTML = transcription.replace(new RegExp('(' + query + ')', 'gi'), `<mark>$1</mark>`)
   }
 
   get wordsOL(){
@@ -36,7 +42,9 @@ class SentenceView {
         <p class=citation>${this.sentence.metadata.lineNumber+1}</p>
       </footer>
     `
-
+    if (this.sentence.transcription[0] == "*") {
+      this.el.querySelector(`.transcription`).style.color = `red`
+    }
     if(this.wordViews){
       this.wordViews.forEach(wordView => this.wordsOL.appendChild(wordView.render().el))
     }

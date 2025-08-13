@@ -23,19 +23,22 @@ class Text {
     })
   }
 
-  search(query){ // query is a string to match the transcription tier for now
+  search(query, tier){ // query is a string to match the transcription tier for now
     // return this.sentences.filter(sentence => sentence.matches(query))
     query = query.normalize("NFC")
     let hits = this.sentences
       .filter((sentence,i) => {
         Object.assign(sentence.metadata, this.metadata)
         sentence.metadata.title = this.metadata.title
-        sentence.metadata.lineNumber = i 
-        return sentence.transcription.normalize("NFC").match(new RegExp(query, 'ig')) // @@ normalization shouldn’t happen here // sunny note: why? I'm gonna normalize both now but hopefully will see what's wrong
+        sentence.metadata.lineNumber = i
+        if (tier == "transcription") {
+        return sentence.transcription.normalize("NFC").match(new RegExp(query, 'ig'))} // @@ normalization shouldn’t happen here // sunny note: why? I'm gonna normalize both now but hopefully will see what's wrong
+        else {return sentence.translation.normalize("NFC").match(new RegExp(query, 'ig'))} // @@ normalization shouldn’t happen here // sunny note: why? I'm gonna normalize both now but hopefully will see what's wrong}
       })
 
     return hits
   }
+
 
   get transcriptions(){
     return this.sentences.map(sentence => sentence.transcription)

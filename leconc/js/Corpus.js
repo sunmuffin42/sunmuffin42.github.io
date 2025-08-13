@@ -15,9 +15,9 @@ class Corpus {
     this.texts.push(text)    
   }
 
-  search(query){
+  search(query, tier){
     return this.texts.reduce((sentences, text) => {
-      let hits = text.search(query)
+      let hits = text.search(query, tier)
       hits.forEach(hit => hit.text = text)
       sentences.push(...hits)
       return sentences

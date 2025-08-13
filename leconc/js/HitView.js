@@ -30,7 +30,8 @@ class HitView extends SentenceView {
       let showTextEvent = new CustomEvent('show-text-request', {
         bubbles: true,
         detail: { 
-         text: this.sentence.text // @@ this might be a horrible idea
+         text: this.sentence.text,
+         line : this.sentence.metadata.lineNumber+1
         }
       })
       this.el.dispatchEvent(showTextEvent)

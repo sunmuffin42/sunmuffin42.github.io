@@ -32,10 +32,18 @@ class CorpusConcordanceView {
   }
 
   showText(text){
-    //this.textView.text = text
     this.textView = new TextView(text, this.el.querySelector('.text-view'))
     this.textView.render()
-    this.textView.highlight(this.concordanceView.query)
+  }
+
+  showTextWithHit(text, line){
+    this.textView = new TextView(text, this.el.querySelector('.text-view'))
+    this.textView.render()
+    let sentence = document.getElementById(`${String(line)}`)
+    let transcription = sentence.querySelector(`.transcription`)
+    let query = this.concordanceView.query
+    transcription.innerHTML = transcription.textContent.replace(new RegExp('(' + query + ')', 'g'), `<mark>$1</mark>`)
+    sentence.style = "background:gold"
   }
 
   render(){
@@ -48,7 +56,16 @@ class CorpusConcordanceView {
 
     this.el.addEventListener('show-text-request', showTextRequest => {
       let text = showTextRequest.detail.text
-      this.showText(text)
+      if (showTextRequest.detail.line) {
+        let line = showTextRequest.detail.line
+        this.showTextWithHit(text, line)
+        document.getElementById(line-1).scrollIntoView()
+      }
+      else {
+        this.showText(text)
+        document.getElementById(`header`).scrollIntoView()
+      }
+      
     })
   }
 }

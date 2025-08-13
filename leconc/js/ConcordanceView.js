@@ -20,30 +20,37 @@ class ConcordanceView {
          <p>Number of results: <span class=results-count>0</span></p>
       </div>
 
-      <!-- 
-      <div class="filters">
-        <p>Filter texts by…
-        <select id= name=text-filter>
-          <option value=genre>Genre</option>
-          <option value=author>Author</option>
-        </select></p>
-      </div>
-      
-      <div class="filter">
-        <p>Choose among:
-        <select name=filter-values>
-          <option value=genre>Horror</option>
-          <option value=author>Romance</option>
-        </select></p>
-      </div> 
-      -->
-    
+      <div class="search-tier">
+        <span>Search by...</span>
+        <select id="tier-selector" name="tier-selection">
+          <option value=transcription>Transcription</option>
+          <option value=translation>Translation</option>
+        </select>
+      </div>   
     </section>
   </header>
-
-  <div class=concordance>
- …results will be here…
-  </div>
+    <section>
+      <div class=concordance>
+        …results will be here…
+      </div>
+    </section>
+      <!-- 
+        <div class="filters">
+          <p>Filter texts by…
+          <select id= name=text-filter>
+            <option value=genre>Genre</option>
+            <option value=author>Author</option>
+          </select></p>
+        </div>
+        
+        <div class="filter">
+          <p>Choose among:
+          <select name=filter-values>
+            <option value=genre>Horror</option>
+            <option value=author>Romance</option>
+          </select></p>
+        </div>
+      -->
 
 `
   }
@@ -84,7 +91,7 @@ class ConcordanceView {
   }
 
   highlightQuery(query, sentenceView){
-    sentenceView.highlight(query)
+    sentenceView.highlight(query,this.el.querySelector("#tier-selector").value)
   }
 
   groupByText(hits){
@@ -99,7 +106,7 @@ class ConcordanceView {
   }
 
   search(){
-    this.hits = this.corpus.search(this.query)
+    this.hits = this.corpus.search(this.query, this.el.querySelector("#tier-selector").value)
     this.hitViews = this.hits.map(hit => {
       let sentenceView = new HitView(hit)
       return sentenceView
