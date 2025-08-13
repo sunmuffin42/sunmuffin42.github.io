@@ -26,8 +26,9 @@ class ConcordanceView {
           <option value=transcription>Transcription</option>
           <option value=translation>Translation</option>
         </select>
-
+        <div>
         <button name=search>Search</button>
+        <div>
       </div>   
     </section>
   </header>
