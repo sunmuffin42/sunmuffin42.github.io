@@ -1,0 +1,899 @@
+{
+    "metadata": {
+        "title": "Pysy number elicitation",
+        "speaker": "Pysy",
+        "type": "elicitation",
+        "linguists": "Myriam Lapierre, Jessa Jeter, Sunkulp Ananthanarayan, Ella De Falco",
+        "date": "2025/08/19,23,28"
+    },
+    "sentences": [
+        {
+            "transcription": "inkjë hë rêsânpün pyti swasïrä/swasïrä nakjôô",
+            "translation": "eu vi um porco"
+        },
+        {
+            "transcription": "inkjë rapan hatyttä rasânpürïnsïn pyti swasïrä",
+            "translation": "cada vez quando eu vou para o mato eu sempre vejo um porco"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä rêsânpün pytira swasïrä",
+            "translation": "eu fui a caçar e eu vi dois porcos"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä rêsânpün pytira swasïrära",
+            "translation": "eu fui a caçar e eu vi dois porcos"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä rêmësânpün pytira swasïrära",
+            "translation": "eu fui a caçar e eu vi dois porcos"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä rêmësânpün pytira swasïrä",
+            "translation": "eu fui a caçar e eu vi dois porcos"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä rêmësânpün swasïrä",
+            "translation": "eu fui a caçar e eu vi dois porcos"
+        },
+        {
+            "transcription": "rêmësânpün pytira swasïrä",
+            "translation": "eu e (por exemplo Sêwâ) vi um porco"
+        },
+        {
+            "transcription": "rêmësânpün swasïrä",
+            "translation": "eu e (por exemplo Sêwâ) vi dois porcos"
+        },
+        {
+            "transcription": "inkjë rapamëswasêrimä ramësânpün insïn pytira swasïrä(ra)",
+            "translation": "quando eu saiu pra caçar eu sempre vejo dois porco"
+        },
+        {
+            "transcription": "inkjë rapamëswasêrimä ramësânpün pytira swasïrä(ra)",
+            "translation": "quando eu saiu pra caçar eu sempre vejo dois porco"
+        },
+        {
+            "transcription": "inkjë rakwyy swasêrimä rêsânpün nöpjö swasïrä",
+            "translation": "eu fui caçar e eu vi três porcos"
+        },
+        {
+            "transcription": "inkjë rakwyy swasêrimä rêsânpün swasïrä",
+            "translation": "could be any number (asked 1, 2, 3, 20)"
+        },
+        {
+            "transcription": "rapan inkjë swasêrimä rapürïnsïn swasïrä",
+            "translation": "(did we get a back-translation?)"
+        },
+        {
+            "transcription": "rapan inkjë swasêrimä rasânpürïnsïn nöpjo swasïrä",
+            "translation": "works as above for 3"
+        },
+        {
+            "transcription": "rapan inkjë swasêrimä rapürïnsïn swasïrä",
+            "translation": "eu sempre vejo porco (underspecified for number)"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä rêsânpün inkjêtinkjâ swasïrä",
+            "translation": "eu fui caçar e eu vi monte de porco"
+        },
+        {
+            "transcription": "inkjêtaja",
+            "translation": "4 (says he uses it)"
+        },
+        {
+            "transcription": "rapamëinkjë swasêrimä rasânpürï nöpjö swasïrä",
+            "translation": "quando eu saiu pra caçar eu sempre vejo porco (não tem número pra saber quantos)"
+        },
+        {
+            "transcription": "rapamëinkjë swasêrimä rasânpürïnsïn swasïrä",
+            "translation": "quando eu saiu pra caçar eu sempre vejo porco (não tem número pra saber quantos; sânpürïnsïn = definite, the very same pigs)"
+        },
+        {
+            "transcription": "o Sêwâ vai pro rio. eu vi ele banhar o próximo dia",
+            "translation": "mära rêsânpürïnsïn - eu sempre vejo ele"
+        },
+        {
+            "transcription": "se é que um dia e Sêwâ, Kypakjän, then Sôpôha",
+            "translation": "inkjë rapan "
+        },
+        {
+            "transcription": "mära rasânpürïnsïn",
+            "translation": "eu sempre vejo aquele mesmo cara"
+        },
+        {
+            "transcription": "mära rasânpürïnsïn inpy/inkjên",
+            "translation": "eu sempre vejo aquele mesmo cara"
+        },
+        {
+            "transcription": "inkjë hë raranpürïnsïn inpyhara",
+            "translation": "eu sempre vejo (qualquer) homem (different men every time)"
+        },
+        {
+            "transcription": "eu vi swasïränkjêti",
+            "translation": "eu vi muitos porcos {is inkjêti at the same morphological spot as mëra?}"
+        },
+        {
+            "transcription": "nöpjö swasïrämëra",
+            "translation": "(acceptable too for a few porcos)"
+        },
+        {
+            "transcription": "nöpjö",
+            "translation": "poucos; esp quando vc não contou"
+        },
+        {
+            "transcription": "inkjë rakwyy swasêrimä, rêsânpün inkjêpytinsi swasïrä",
+            "translation": "eu fui caçar e eu vi muitos porcos"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä, rêpïri pyti swasïrä",
+            "translation": "eu fui caçar e eu matei um porco"
+        },
+        {
+            "transcription": "inkjëra jymërakwyy swasêrimä, rêmëpïri pyti swasïrä",
+            "translation": "nós dois fuimos pra caçar, y matamos um porco"
+        },
+        {
+            "transcription": "rapan inkjë swasêrimä raparïsïn pÿn swasïrä",
+            "translation": "quando caço eu sempre mato um porco"
+        },
+        {
+            "transcription": "rapan inkjë swasêrimä raparïnsïn pyti swasïrä",
+            "translation": "quando caço eu sempre mato um porco"
+        },
+        {
+            "transcription": "inkjëra ramëpansïn swasêrimä ramëparïnsïn pyti swasïrä",
+            "translation": "cada vez nós dois sempre caça, a gente mata um porco"
+        },
+        {
+            "transcription": "inkjëra ramëpansïn swasêrimä ramëparïnsïn pÿn swasïrä",
+            "translation": "cada vez nós dois sempre caça, a gente mata um porco"
+        },
+        {
+            "transcription": "inkjë jyrakwyy swasêrimä rêpïri pyti swasïrä. mämänpên jytü pyrakwyy mämänpên rêpypïri pyti. mänpên rêpyhimën.",
+            "translation": "eu fui caçar, e matei um porco. eu fui mais pra frente, e eu matei mais um. depois voltei"
+        },
+        {
+            "transcription": "jytüpyrakwyy",
+            "translation": "eu fui de novo"
+        },
+        {
+            "transcription": "mänpên rêpyhimën",
+            "translation": "e voltei"
+        },
+        {
+            "transcription": "inkjë hë rêmëpïri pytira swasïra. ÿhë, hüwätün",
+            "translation": "eu matei dois porcos. primeiro, segundo"
+        },
+        {
+            "transcription": "inkjë rakwyy swasêrimä rêmëpïri pytira swasïrära",
+            "translation": "eu fui caçar e eu matei dois porcos"
+        },
+        {
+            "transcription": "rêpari swasïrä nöpjö",
+            "translation": "eu fui caçar, eu matei três porcos"
+        },
+        {
+            "transcription": "%rêpïri swasïrä nöpjö",
+            "translation": "eu fui caçar eu matei três porcos"
+        },
+        {
+            "transcription": "swasêriamä rapammë mäpari nöpjö swasïrä",
+            "translation": "cada vez eu caço eu sempre mato três swasïrä"
+        },
+        {
+            "transcription": "inkjë rakwyy swasêrimä rêpari inkjêti swasïrä",
+            "translation": "eu fui caçar e eu matei muitos porcos"
+        },
+        {
+            "transcription": "swasêrimä rapammë raparïnsïn inkjêti swasïrä",
+            "translation": "cada vez quando eu for caçar eu sempre mato muito porco"
+        },
+        {
+            "transcription": "inkjë rakwyy swasêrimä rêpari nöpjö swasïrä",
+            "translation": "eu fui caçar eu matei quatro porco"
+        },
+        {
+            "transcription": "*inkjë rakwyy swasêrimä rêpïri nöpjö swasïrä",
+            "translation": "pïri needs to be one or two"
+        },
+        {
+            "transcription": "inkjë rakwyy swasêrimä rêpari nöpjö swasïrä",
+            "translation": "eu fui caçar e matei 5-6"
+        },
+        {
+            "transcription": "*inkjë rakwyy swasêrimä rêpari nöpjö swasïrämëra",
+            "translation": "eu fui caçar e matei 5-6 porco"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêsünswâri pyti teppää",
+            "translation": "eu fui a pescar, eu peguei um peixinho"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêmësünswâri pytira teppäära",
+            "translation": "eu fui a pescar, eu peguei dois peixinhos"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêsapôpô inkjêti teppää (prompt: 20)",
+            "translation": "eu fui a pescar, eu peguei muitos peixinhos"
+        },
+        {
+            "transcription": "*inkjë jyrakwyy tessuu rêsapôpô pyti teppäära",
+            "translation": "eu fui a pescar, eu peguei um peixinho"
+        },
+        {
+            "transcription": "inkjë jyrakwyy rêsapôpô nöpjö teppää",
+            "translation": "eu fui a pescar, eu peguei três peixinhos"
+        },
+        {
+            "transcription": "*inkjë jyrakwyy rêsapôpô nöpjö teppäämëra",
+            "translation": "eu fui a pescar, eu peguei três peixinhos"
+        },
+        {
+            "transcription": "*inkjë jyrakwyy rêsapôpô inkjêti teppäämëra",
+            "translation": "eu fui a pescar, eu peguei muitos peixinhos"
+        },
+        {
+            "transcription": "rapamë tessuu inkjë rêsapôpô ïnsïn pyti teppää",
+            "translation": "cada vez quando eu fui pescar, eu sempre peguei um peixinho (both pan and pôpô are PLAC here)"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêsünswâri pyti tepinnä",
+            "translation": "eu fui pescar e peguei um peixe grande"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêmësünswâri pytira tepinnä",
+            "translation": "eu fui pescar e peguei does peixes grande"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêmësünswâri pytira tepinnära",
+            "translation": "eu fui pescar e peguei dois peixes grande"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêsapôpô nöpjö tepinnä",
+            "translation": "eu fui pescar e peguei tres peixes grandes"
+        },
+        {
+            "transcription": "inkjë rakwyy tessuu rêsapôpô inkjêppytinsi tepinnä",
+            "translation": "eu fui pescar e peguei muitos peixes grandes"
+        },
+        {
+            "transcription": "*inkjë rakwyy tessuu rêsapôpô inkjêppytinsi tepinnämëra",
+            "translation": "eu fui pescar e peguei muitos peixes grandes"
+        },
+        {
+            "transcription": "tessuu rapamë rasapôpô ïnsïn pyti tepinnä",
+            "translation": "cada vez quando eu fui pescar, eu sempre pego um peixe grande"
+        },
+        {
+            "transcription": "inkjë jysuhorämmöri tessuu jymärarikjati (primeiro), rêsünswâri pyti tepinnä; jytüpysuhorammöri jypymärariti, rêpysünswâri pyti tepinnä",
+            "translation": "eu fui a pescar, primeiro eu parei e peguei um peixe; depois eu fui de novo e parei de novo, e peguei um peixi mais"
+        },
+        {
+            "transcription": "jysuhorammöri tessuu jymärarati rêsapôpô inkjêti tepi, jytü(n?)pysuhorammöri jypymärariti rêsapôpô inkjêti tepi",
+            "translation": "eu fui a pescar, primeiro eu parei e peguei muitos peixes; depois eu fui de novo e parei de novo, e peguei de novo muitos peixes"
+        },
+        {
+            "transcription": "pyti jyppôô inkjên, rêranswâri pârankô ho",
+            "translation": "uma mulher veio (no posto), e eu vacinei ela"
+        },
+        {
+            "transcription": "jymëppôô pytira inkjênnä, rêmëranswâri kâjâräsura ho",
+            "translation": "chegaram duas meninas, eu vacinei (elas) {this might actually be rä}"
+        },
+        {
+            "transcription": "kâjâräsuri",
+            "translation": "needle/syringe, nail (is the use with -a instead of -i for the use with ho INST like...a thing?)"
+        },
+        {
+            "transcription": "jyrappôô nöpjö inkjara râranpôpô kâjâräsura ho",
+            "translation": "3 women"
+        },
+        {
+            "transcription": "jyrappôô inkjêti inkjara râranpôpô kâjâräsura ho",
+            "translation": "4 women"
+        },
+        {
+            "transcription": "jyrappôô inkjêppytinsi inkjara raranpôpô",
+            "translation": "muitas (prompt: 20)"
+        },
+        {
+            "transcription": "hakünköö rapôô inkjara rarapôpô",
+            "translation": "cada ano mulheres chegam e eu vacino elas"
+        },
+        {
+            "transcription": "hakünköö inkjên rasapôpô ïnsïn",
+            "translation": "cada ano uma mulher (em particular) chega e eu vacino ela {if there's a woman, i will vaccinate her?}"
+        },
+        {
+            "transcription": "hakünköö (pytira) inkjênnä ramësapôpô ïnsïn",
+            "translation": "cada ano eu vacino quelas duas mulheres"
+        },
+        {
+            "transcription": "inkjë jyratoo pôttä rêsânpün issypää",
+            "translation": "eu sai fora e vi um fogo pequeno"
+        },
+        {
+            "transcription": "inkjë jyratoo pôttä rêsânpün issypää pyti",
+            "translation": "eu sai fora e vi um fogo pequeno"
+        },
+        {
+            "transcription": "inkjë jyratoo rêsâpün pytira issypää ra",
+            "translation": "eu sai fora e vi dois fogos pequenos"
+        },
+        {
+            "transcription": "kjorinpê",
+            "translation": "arroz"
+        },
+        {
+            "transcription": "pyti kjorinpê",
+            "translation": "um pacote arroz (doesn't work to describe a plate of rice)"
+        },
+        {
+            "transcription": "inkjë jyrakwyy rêkukrëë kiti kjorinpe",
+            "translation": "eu fui e eu comi poquinho arroz"
+        },
+        {
+            "transcription": "inkjë jyrakwyy sörïnkwattä rêkukrëë wy kjorinpe",
+            "translation": "eu fui na cozinha e eu comi muito arroz"
+        },
+        {
+            "transcription": "*inkjë jyrakwyy sörïnkwattä rêkukrëë wy kjorinpemëra",
+            "translation": "eu fui na cozinha e eu comi muito arroz"
+        },
+        {
+            "transcription": "*inkjë jyrakwyy sörïnkwattä rêkukrëë inkjêti kjorinpe",
+            "translation": "eu fui na cozinha e eu comi muito arroz"
+        },
+        {
+            "transcription": "*inkjë jyrakwyy sörïnkwattä rêkukrëë inkjêppytinsi kjorinpe",
+            "translation": "eu fui na cozinha e eu comi muito arroz"
+        },
+        {
+            "transcription": "rêkukrëë wy kjorinpe",
+            "translation": "eu comi muitos pratos"
+        },
+        {
+            "transcription": "rêkukrëë wy pyti kjorinpe",
+            "translation": "eu comi muito arroz (at once/in one sitting; prato grande/cheio)"
+        },
+        {
+            "transcription": "rêkukrëë wy kjorinpe pyti",
+            "translation": "eu comi muito arroz (at once/in one sitting)"
+        },
+        {
+            "transcription": "inkjë rappamë söjönkwattä rakurïn kiti kjorinpe",
+            "translation": "cada vez q eu vou pra cozinha, eu como um pouco arroz"
+        },
+        {
+            "transcription": "inkjë rappamë söjönkwattä rakurïn wy kjorinpe",
+            "translation": "cada vez q eu vou pra cozinha, eu como muito arroz"
+        },
+        {
+            "transcription": "inkjë rappamë söjönkwattä rakurïn wy kjorinpe pyti",
+            "translation": "cada vez q eu vou pra cozinha, eu como um prato cheio de arroz"
+        },
+        {
+            "transcription": "Kjêpyti jyhopôô sö aluno ho NSPT tä",
+            "translation": "Kjêpyti touxe o aluno dela para NSPT (as always, this is plural)"
+        },
+        {
+            "transcription": "Kjêpytimëra jyrapôô NSPT tä",
+            "translation": "São Kjêpyti vieram pra NSPT (não tenho nome e não sabe quem é {this is singleton right?})"
+        },
+        {
+            "transcription": "Kjêpytimëra kappôjn NSPT tä",
+            "translation": "Kjêpyti et al vão chegar a NSPT {this is geminate right? myriam thinks short, i think it's long, pysy thinks it's long}"
+        },
+        {
+            "transcription": "Kjêpytimëra kammörïn (pa ttä) KTK tä",
+            "translation": "{only myriam gave pa ttä} Kjêpyti (et al) vão para KTK"
+        },
+        {
+            "transcription": "pattä",
+            "translation": "pra lá (pattä means something like over to that place; generally actually followed by the place's name)"
+        },
+        {
+            "transcription": "Kjêpytimëra rêsanpäpë Pysy ja pên",
+            "translation": "{i think i got the spelling wrong}"
+        },
+        {
+            "transcription": "Pêkjä më Pârakrissan më jymëraswâ kwâsittä",
+            "translation": "Pê & Pâ foram a Kwâsi"
+        },
+        {
+            "transcription": "Pêkjä më Pârakrissan më jymërakwyy kwâsittä",
+            "translation": "Pê & Pâ foram a Kwâsi"
+        },
+        {
+            "transcription": "Pêkjära jymëkwyy kwâsittä",
+            "translation": "Pê & Pâ foram pra Kwâsi"
+        },
+        {
+            "transcription": "Pêkjä jykwyy kwâsitta",
+            "translation": "Pê went to Kwâsi"
+        },
+        {
+            "transcription": "Pêkjämëra jyrappa kwâsittä",
+            "translation": "Pê et al foram pra kwâsi"
+        },
+        {
+            "transcription": "Kjêpytimëra pyrapôô pjo NSPT tä",
+            "translation": "Kjêpyti não vieram para NSPT"
+        },
+        {
+            "transcription": "Pêkjära mëkwyy pjo kwâsitta",
+            "translation": "Pê+1 não foram pra Kwasi"
+        },
+        {
+            "transcription": "Kjêpyti më sö alunos (hë) rêkuri sö hanka",
+            "translation": "Kjêpyti e os alunos dela comeram comida ruim {K took out the hë; he gave without and with}"
+        },
+        {
+            "transcription": "Kjêpytimërân rêkuri sö hanka",
+            "translation": "K et al comeram comida ruim"
+        },
+        {
+            "transcription": "mamanpên jypäpäräsïränkô",
+            "translation": "then they all got diarrhea"
+        },
+        {
+            "transcription": "jypäpäratusâ, jyrasïränkô, jypäpä rasöjïï",
+            "translation": "they had tummy aches, they had diarrhea, they all vomited"
+        },
+        {
+            "transcription": "jukôpy karäkwâri pysy inkâpy",
+            "translation": "aonde vc cagou no pysy at the inkâ"
+        },
+        {
+            "transcription": "Pêkjärân timë kuri sö hanka, mämänpên...",
+            "translation": "Pê+1 comeram comida ruim (sö hanka, sönprë = food gone bad; sönprë could also mean that there's dirt/dust all over it)"
+        },
+        {
+            "transcription": "*jymëpytira sïränkô",
+            "translation": "can incorporate 'all' (päpää) but not 'two'"
+        },
+        {
+            "transcription": "*pytira jymësïränkô",
+            "translation": "os dois pegou diarrheia"
+        },
+        {
+            "transcription": "rêsânpün K ï/më sö hokjyhantê (më)",
+            "translation": "eu vi K e os seus alunos (the ï was just a nasal portuguese 'e')"
+        },
+        {
+            "transcription": "rêsânpün Kmëra",
+            "translation": "eu vi K et al"
+        },
+        {
+            "transcription": "rêraanpün Kmëra",
+            "translation": "eu vi K et al"
+        },
+        {
+            "transcription": "rêmësânpün pârakrissannä",
+            "translation": "eu vi Pâ+1"
+        },
+        {
+            "transcription": "rêsânpün pârakrissannä",
+            "translation": "eu vi Pâ+1"
+        },
+        {
+            "transcription": "pode usar tö e töra",
+            "translation": "you can use one or the other (about both of the two options being acceptable)"
+        },
+        {
+            "transcription": "karaakwâri rö hahê pjo",
+            "translation": "não pode cagar em mim"
+        },
+        {
+            "transcription": "não karaakwâri inkjë",
+            "translation": "não pode cagar em mim"
+        },
+        {
+            "transcription": "* ha kakukrëë pârasômëra",
+            "translation": "did you eat vegetables (needs PLAC kuri)"
+        },
+        {
+            "transcription": "ha kakuri pârasômëra",
+            "translation": "did you eat vegetables"
+        },
+        {
+            "transcription": "*ha katökrëë pârasôra",
+            "translation": "if it's just two kinds of veg, still not acceptable"
+        },
+        {
+            "transcription": "ha ka tökrëë pârasô?",
+            "translation": "vc comem repolho/salada? ('will you eat cabbage')"
+        },
+        {
+            "transcription": "kjorinpemëra",
+            "translation": "like a rice with various things in it"
+        },
+        {
+            "transcription": "ha ka kuri kjorinpemëra?",
+            "translation": "vc come arroz com tudo misturado"
+        },
+        {
+            "transcription": "ha ka kuri kjorinpe?",
+            "translation": "vc come arroz? (still takes PLAC)"
+        },
+        {
+            "transcription": "nasisi inpojïmëra",
+            "translation": "beef and stuff is yummy"
+        },
+        {
+            "transcription": "haswa",
+            "translation": "mortar"
+        },
+        {
+            "transcription": "kôpasâ",
+            "translation": "pestle"
+        },
+        {
+            "transcription": "*ha kakuri inpojïra?",
+            "translation": "vc comeu as carnes?"
+        },
+        {
+            "transcription": "ju kôpy pa hasaarïn haswa",
+            "translation": "aonde está o pilão"
+        },
+        {
+            "transcription": "ju kôpy pa hasaarïn haswara",
+            "translation": "aonde está o pilão e almofariz (where are the mortar and pestle), aonde estão o os dois pilões"
+        },
+        {
+            "transcription": "inkjë hë rêwajän issê kâjân",
+            "translation": "eu fiz arco e flecha"
+        },
+        {
+            "transcription": "inkjë hë rawajän issê kâjân",
+            "translation": "eu estou fazendo arco e flecha"
+        },
+        {
+            "transcription": "inkjë hë rawajän issêmëra",
+            "translation": "eu estou fazendo um monte de arcos"
+        },
+        {
+            "transcription": "inkjë hë rawajän issêmëra",
+            "translation": "i'm making bows and arrows"
+        },
+        {
+            "transcription": "inkjë hë rawajärï issê inkjêti",
+            "translation": "eu estou fazendo muitos arcos"
+        },
+        {
+            "transcription": "inkjë hë rawajän issêmëra inkjêti",
+            "translation": "eu estou fazendo muitos arcos (e flechas) (can get PL or assoc)"
+        },
+        {
+            "transcription": "inkjë hë rawajän kâjâmmëra inkjêti",
+            "translation": "eu estou fazendo muitos flechas (e arcos) (can get PL or assoc)"
+        },
+        {
+            "transcription": "kasêtönpân hatö, hatö sy më?",
+            "translation": "vc pegou o espingue e cartucho tb? (sê bc one should generally? or PLAC)"
+        },
+        {
+            "transcription": "*kasêtönpân hatömëra?",
+            "translation": "vc pegou o espingue e cartucho tb?"
+        },
+        {
+            "transcription": "kasêsanpân hatö?",
+            "translation": "vc pegou espingue (se tem muito)?"
+        },
+        {
+            "transcription": "kasênpân",
+            "translation": "vc pegou espingue (se tem um)?"
+        },
+        {
+            "transcription": "sêsanpân hatö",
+            "translation": "vai lá pegar armas"
+        },
+        {
+            "transcription": "sêsanpân hatö",
+            "translation": "carrega esse arma (if he gives it to me and heads off to hunt; sa = PLAC, perhaps...maybe for root sa that don't supplete for pluractionality)"
+        },
+        {
+            "transcription": "watoo issïn",
+            "translation": "tirar o bucho (kjytijï, swasïräjï (eg))"
+        },
+        {
+            "transcription": "sâsüra hë tiwatoo ikkjytijïn",
+            "translation": "S tirou o bucho de anta"
+        },
+        {
+            "transcription": "*issïn mëra",
+            "translation": "issïn is already in general and means 'guts' generally"
+        },
+        {
+            "transcription": "pega um issïn pra mim",
+            "translation": "grab me the small intestine"
+        },
+        {
+            "transcription": "pega um issïnpo pra mim",
+            "translation": "grab me the large intestine"
+        },
+        {
+            "transcription": "jopy hë tipïrï Kôrinkre",
+            "translation": "the jaguar killed Kô (ppl rarely use tipïri for this)"
+        },
+        {
+            "transcription": "jopy hë tikjäkwâri swasïrä/kô/ikkjyti",
+            "translation": "a onça matou o porco/kô (ikkôn)/anta; quando onça morde na cabeça e matou (this is just the general way they kill so it implies general killing)"
+        },
+        {
+            "transcription": "jopyrân timëkjäkwâri ikkjyti",
+            "translation": "as duas onças mataram a anta"
+        },
+        {
+            "transcription": "Kuupêri tikjäkwârakwa jopyhë",
+            "translation": "onça quase matou Kuupêri (also pronounced it as joppë)"
+        },
+        {
+            "transcription": "nöpjö jopy hë tipïri/tikjäkwâri ikkjyti",
+            "translation": "três onças mataram anta"
+        },
+        {
+            "transcription": "nöpjö jopy hë tipari ikkjyti",
+            "translation": "se for inkjêti ikkjyti (PL object begets PLAC)"
+        },
+        {
+            "transcription": "nöpjö jopy hë rêkjäkwâri ikkjyti",
+            "translation": "três onças matou anta (myriam gave this, but he gave back tikjäkwâri)"
+        },
+        {
+            "transcription": "nöpjö jopy hë tikjäkwâri ikkjyti",
+            "translation": "três onças matou anta"
+        },
+        {
+            "transcription": "nöpjö jopy hë tikjäkwââri ikkjyti",
+            "translation": "se for muita anta (is this a length? stress? difference? using long â to represent this but wtf)"
+        },
+        {
+            "transcription": "pyti jopy hë tikjäkwâri ikkjyti",
+            "translation": "one jaguar killed many"
+        },
+        {
+            "transcription": "pyti hë jopy hë tikjäkwâri ikkjyti",
+            "translation": "one jaguar killed many"
+        },
+        {
+            "transcription": "tipari ikkjyti",
+            "translation": "matou anta (muitos)"
+        },
+        {
+            "transcription": "tipïri ikkjyti",
+            "translation": "matou anta (só um)"
+        },
+        {
+            "transcription": "pytirân jopy hë tipari inkjêti ikkjyti",
+            "translation": "2 onças mataram muito anta"
+        },
+        {
+            "transcription": "pytirân jopy hë tikjäkwââri inkjêti ikkjyti",
+            "translation": "2 onças mataram muito anta"
+        },
+        {
+            "transcription": "pytira jopyhë tikjäkwââri inkjêti ikkjyti",
+            "translation": "2 onças mataram muito anta"
+        },
+        {
+            "transcription": "pytirân jopy hë tikjäkwâri pyti ikkjyti",
+            "translation": "2 onças mataram muito anta"
+        },
+        {
+            "transcription": "jopy hë tikjäkwâri pyti ikkjyti",
+            "translation": "uma onça matou uma anta"
+        },
+        {
+            "transcription": "tikjäkwyri",
+            "translation": "hammers a nail in"
+        },
+        {
+            "transcription": "pytirân jopy hë timëkjäkwââri pytira ikkjytira",
+            "translation": "2 onças mataram 2 antas"
+        },
+        {
+            "transcription": "%pytirân jopyrân timëkjäkwâri pytira ikkjytira",
+            "translation": "two jaguars killed two antas"
+        },
+        {
+            "transcription": "nöpjö jopymërân tikjäkwââri ikkjytimëra",
+            "translation": "três onças mataram três anta ('acho que e três, três anta')"
+        },
+        {
+            "transcription": "jopymërân tikjäkwâri ikkjyti",
+            "translation": "onças matou uma anta"
+        },
+        {
+            "transcription": "nöpjö jopy hë tikjäkwâri pyti ikkjyt",
+            "translation": "onças matou uma anta (given for 5 jaguars, backtranslated to 4)"
+        },
+        {
+            "transcription": "inkjêti jopyhë tikjäkwââri ikkjyti",
+            "translation": "seis onças mataram a anta"
+        },
+        {
+            "transcription": "inkjêppytinsi (hë) jopyhë tikjäkwââri/tipïri ikkjyti",
+            "translation": "muitas onças mataram a anta"
+        },
+        {
+            "transcription": "inkjêti jopy hë taapaari ikkjyti",
+            "translation": "dez onças mataram muitas antas"
+        },
+        {
+            "transcription": "inkjêti jopy hë taakjäkwâri ikkjyti",
+            "translation": "dez onças mataram muitas antas"
+        },
+        {
+            "transcription": "inkjêti jopyhë tikjäkwâri pyti ikkjyti",
+            "translation": "    dez onças mataram uma anta"
+        },
+        {
+            "transcription": "rêsânpün inkjë hë isswyn mÿnrasukwyy inkjë suu",
+            "translation": "eu vi um passaro voando para mim {is it mÿnnärasukwyy}"
+        },
+        {
+            "transcription": "inkjë hë rêsânpün pytira isswyn mÿnrasumëkwyy inkjë suu",
+            "translation": "eu vi dois passarinhos voando na minha direção"
+        },
+        {
+            "transcription": "inkjë hë rêsânpün pytira isswynnä mÿnrasumëkwyy inkjë suu",
+            "translation": "eu vi dois passarinhos voando na minha direção"
+        },
+        {
+            "transcription": "kjë hë rêsânpün nöpjö isswyn mÿnrasurökwyy inkjë suu",
+            "translation": "eu vi três pássaros voando na minha direção"
+        },
+        {
+            "transcription": "kjë hë rêsânpün inkjêtinkjâ isswyn mÿnrasurökwyy inkjë suu",
+            "translation": "eu vi cinco pássaros voando na direção"
+        },
+        {
+            "transcription": "inkjë hë tarasânpün isswyn mÿnnäsurökwyy inkjë suu",
+            "translation": "eu vi pássaro (deve?) voando na minha direção"
+        },
+        {
+            "transcription": "inkjë hë tarasânpün inkjêppytinsi isswyn mÿnnäsurökwyy inkjë suu",
+            "translation": "eu vi muitos pássarinhos voando na minha direção"
+        },
+        {
+            "transcription": "Tuhïkâri",
+            "translation": "abusive lesbian monkey's name"
+        },
+        {
+            "transcription": "Tuhïkârira jy më sânpân",
+            "translation": "macaco e galinha comeram"
+        },
+        {
+            "transcription": "inkjë hë rê sânpün tuhïkârira",
+            "translation": "eu vi macaco e galinha"
+        },
+        {
+            "transcription": "inkjë hë rê sânpün tuhïkâri më kôtita",
+            "translation": "eu vi macaco e galinha"
+        },
+        {
+            "transcription": "inkjë hë rê sânpün ikkônnä",
+            "translation": "eu vi macaco e galinha"
+        },
+        {
+            "transcription": "tuhïkârirân timëraanpün",
+            "translation": "macaco e galinha me viram"
+        },
+        {
+            "transcription": "ha jy raanpân Sôpôhamëra?",
+            "translation": "os macacos comeram?"
+        },
+        {
+            "transcription": "Sôpôha mërân rê raanpün inkjë",
+            "translation": "the monkeys looked at me"
+        },
+        {
+            "transcription": "sâpêri, sakô",
+            "translation": "wind"
+        },
+        {
+            "transcription": "kwaakriti mërân rê raanpün inkjë",
+            "translation": "os macacos me viram "
+        },
+        {
+            "transcription": "inkjë hë rê sânpün kwaakritimëra",
+            "translation": "i saw the monkeys"
+        },
+        {
+            "transcription": "sikjaproja",
+            "translation": "spoon"
+        },
+        {
+            "transcription": "pro",
+            "translation": "flat"
+        },
+        {
+            "transcription": "sikâkâränsêha",
+            "translation": "fork"
+        },
+        {
+            "transcription": "kâjasâpää",
+            "translation": "knife"
+        },
+        {
+            "transcription": "*Juri sikjaproja mëra",
+            "translation": "Where are the utensils?"
+        },
+        {
+            "transcription": "Juri sikjaproja më sikâkâränsêha më kâjasâpää",
+            "translation": "where are the spoon, fork, and knife"
+        },
+        {
+            "transcription": "kâjasâ pää pynswasyha",
+            "translation": "serrated knife"
+        },
+        {
+            "transcription": "kjêpyti, inkjë jyho rapôô pawkwa ho",
+            "translation": "Kj, eu trouxe banana"
+        },
+        {
+            "transcription": "juntihë pakwa?",
+            "translation": "quantas bananas?"
+        },
+        {
+            "transcription": "pyti pakwa / inkjêti pakwa / nöpjö pakwa",
+            "translation": "uma banana / muitas bananas / algumas bananas"
+        },
+        {
+            "transcription": "K, inkjë hë jy ho rapôô tepi/tepi ho",
+            "translation": "K e eu trouxe peixe"
+        },
+        {
+            "transcription": "juntihë tepi",
+            "translation": "quantos peixes?"
+        },
+        {
+            "transcription": "pyti tepi / pytira tepi / nöpjö tepi / inkjêti tepi",
+            "translation": "1/2/few/many fish"
+        },
+        {
+            "transcription": "Sêppu, inkjë jy ho rapôô pâri ho kôkjati pita hamä",
+            "translation": "S, e eu trouxe madeira no caminhão"
+        },
+        {
+            "transcription": "juntihë pâri?",
+            "translation": "quanta madeira?"
+        },
+        {
+            "transcription": "inkjêt pâri",
+            "translation": "muita madeira"
+        },
+        {
+            "transcription": "ha jy hansipjâ kjêrö?",
+            "translation": "vc é casado/vc tem mulher?"
+        },
+        {
+            "transcription": "haa, jy ransinpjâ",
+            "translation": "sim, eu sou casado/eu tenho mulher"
+        },
+        {
+            "transcription": "juntihë kansipjâ?",
+            "translation": "quantas mulheres que vc tem?"
+        },
+        {
+            "transcription": "hajïnjönkwa",
+            "translation": "banheiro"
+        },
+        {
+            "transcription": "inkjë hë rêsânpün pyti pusu (hajïnjönkwa hamä)",
+            "translation": "eu vi um mosquito no banheiro"
+        },
+        {
+            "transcription": "pusu pa hy: muriçoca",
+            "translation": "dawn/dusk mosquito"
+        },
+        {
+            "transcription": "inkjë hë rê më sânpün pytira pusu",
+            "translation": "eu vi 2 mosquitos"
+        },
+        {
+            "transcription": "%inkjë hë rê më sânpün pytira pusura",
+            "translation": "eu vi 2 mosquitos"
+        }
+    ]
+}

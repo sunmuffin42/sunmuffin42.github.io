@@ -1,0 +1,518 @@
+{
+    "metadata": {
+        "speaker": "Sôpôha",
+        "type": "elicitation",
+        "linguists": "Sunkulp Ananthanarayan",
+        "title": "Sôpôha dative elicitation"
+    },
+    "sentences": [
+        {
+            "transcription": "inkjë hë rêjïïwajäri sö",
+            "translation": "eu cozinhei para mim mesmo"
+        },
+        {
+            "transcription": "%*inkjë hë rêinkjëwajäri sö",
+            "translation": "eu cozinhei para mim mesmo"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö ka më inkjë më",
+            "translation": "eu cozinhei para eu e vc"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö japjâran",
+            "translation": "eu cozinhei para eu, vc, e eles"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö inkjëran",
+            "translation": "eu cozinhei para mi e para vc"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö mära mä inkjë mä",
+            "translation": "eu cozinhei para eu e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêmäwajäri sö mära mä inkjë mä",
+            "translation": "eu cozinhei para eu e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö mära mä më inkjë mä",
+            "translation": "eu cozinhei para eu e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö märan inkjë mä",
+            "translation": "eu cozinhei para eu e ele"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö märapjâran",
+            "translation": "eu cozinhei para eles (inkjêti)"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö mära mä inkjë mä më",
+            "translation": "eu cozinhei para eu e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö mära inkjë mä më",
+            "translation": "eu cozinhei para eu e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö mära mä inkjë më mä",
+            "translation": "eu cozinhei para eu e ele"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö mära mä inkjë mä",
+            "translation": "eu cozinhei para eu e eles"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö märapjâra mä inkjë mä",
+            "translation": "eu cozinhei para eu e eles"
+        },
+        {
+            "transcription": "%inkjë hë rêwajäri sö märapjâran inkjë mä",
+            "translation": "eu cozinhei para eu e eles"
+        },
+        {
+            "transcription": "%inkjë hë rêwajäri sö inkjë mä märapjâran",
+            "translation": "eu cozinhei para eu e eles"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö ka mä",
+            "translation": "eu cozinhei para vc"
+        },
+        {
+            "transcription": "%*inkjë hë rêkänwajäri sö ka mä",
+            "translation": "eu cozinhei para vc"
+        },
+        {
+            "transcription": "inkjë hë rêkänwajäri sö",
+            "translation": "eu cozinhei para vc"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö ka më mära mä",
+            "translation": "eu cozinhei para vc e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêkänwajäri sö ka më mära mä",
+            "translation": "eu cozinhei para vc e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö ka mära mä më",
+            "translation": "eu cozinhei para vc e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö ka mä mära mä më",
+            "translation": "eu cozinhei para vc e ele"
+        },
+        {
+            "transcription": "%*inkjë hë rêwajäri sö ka mä më mära mä",
+            "translation": "eu cozinhei para vc e ele"
+        },
+        {
+            "transcription": "inkjë hë rêwajäri sö karan",
+            "translation": "eu cozinhei para vcs dois"
+        },
+        {
+            "transcription": "inkjë hë rê wajäri sö kamëran",
+            "translation": "eu cozinhei para vcs tudos"
+        },
+        {
+            "transcription": "inkjë hë rê wajäri sö mära mä",
+            "translation": "eu cozinhei para ele"
+        },
+        {
+            "transcription": "inkjë hë rê mä wajäri sö mära mä",
+            "translation": "eu cozinhei para ele"
+        },
+        {
+            "transcription": "inkjë hë rê mä wajäri sö",
+            "translation": "eu cozinhei para ele (sakkjâri responder hahê)"
+        },
+        {
+            "transcription": "%inkjë hë rê mä më wajäri sö",
+            "translation": "eu cozinhei para eles dois"
+        },
+        {
+            "transcription": "%inkjë hë rê mä më wajäri sö märaran",
+            "translation": "eu cozinhei para eles dois"
+        },
+        {
+            "transcription": "%*inkjë hë rê mä më wajäri sö märara mä",
+            "translation": "eu cozinhei para eles dois"
+        },
+        {
+            "transcription": "%*inkjë hë rê më mä wajäri sö",
+            "translation": "eu cozinhei para eles dois"
+        },
+        {
+            "transcription": "%*inkjërân rê më mä më wajäri sö märaran",
+            "translation": "eu e ele cozinhamos para eles dois"
+        },
+        {
+            "transcription": "%*inkjërân rê më mä wajäri sö märaran",
+            "translation": "eu e ele cozinhamos para eles dois"
+        },
+        {
+            "transcription": "%inkjërân rê më wajäri sö märaran",
+            "translation": "eu e ele cozinhamos para eles dois"
+        },
+        {
+            "transcription": "%*inkjërân rê më më mä wajäri sö märaran",
+            "translation": "eu e ele cozinhamos para eles dois"
+        },
+        {
+            "transcription": "inkjë hë rê wajäri sö märapjâran",
+            "translation": "eu cozinhei para eles tudos"
+        },
+        {
+            "transcription": "%*inkjë hë rê raan wajäri sö märapjâran",
+            "translation": "eu cozinhei para eles tudos"
+        },
+        {
+            "transcription": "%inkjë hë rê ran wajäri sö märapjâran",
+            "translation": "eu cozinhei para eles"
+        },
+        {
+            "transcription": "inkjë hë rê kämmë söri karan",
+            "translation": "eu dei para vcs dois"
+        },
+        {
+            "transcription": "inkjë hë rêsöri kamëran",
+            "translation": "eu dei para vcs (muitos)"
+        },
+        {
+            "transcription": "%*inkjë hë rêkarasöri kamëran",
+            "translation": ""
+        },
+        {
+            "transcription": "inkjë hë rê rê kän söri",
+            "translation": "eu dei para vcs (muitos)"
+        },
+        {
+            "transcription": "inkjë hë rê mämë söri märaran",
+            "translation": "eu dei para eles dois"
+        },
+        {
+            "transcription": "ka hë kankjë söri",
+            "translation": "vc deu para mim"
+        },
+        {
+            "transcription": "%*ka hë ka mënkjë söri inkjëran",
+            "translation": "vc deu para mim e ele"
+        },
+        {
+            "transcription": "%*ka hë kankjëmë söri inkjëran",
+            "translation": "vc deu para mim e ele"
+        },
+        {
+            "transcription": "ka hë ka pan söri inkjëran",
+            "translation": "único vc que deu para nós (quando vc decidiu dar; nunca queria dar antes, mas agora vai dar) (39min)"
+        },
+        {
+            "transcription": "ka hë ka si söri inkjëmëran",
+            "translation": "só você que deu para nós"
+        },
+        {
+            "transcription": "ka hë ka si söri inkjëmëran",
+            "translation": "(dar depois)"
+        },
+        {
+            "transcription": "%*ka hë ka sin söri inkjëmëran",
+            "translation": "vc que deu para a gente (EXCL)"
+        },
+        {
+            "transcription": "%*ka hë ka pammë söri inkjëran",
+            "translation": "vc que deu para a gente dois (EXCL)"
+        },
+        {
+            "transcription": "%*ka hë ka më pan söri inkjëran",
+            "translation": "vc que deu para a gente dois (EXCL)"
+        },
+        {
+            "transcription": "%~ka hë ka söri jaran",
+            "translation": ""
+        },
+        {
+            "transcription": "ka hë ka ran söri japjâran",
+            "translation": "vc deu para eles"
+        },
+        {
+            "transcription": "ka hë ka söri japjâran inkjë ka märapjâra",
+            "translation": "vc deu para nós; eu, vc, e eles"
+        },
+        {
+            "transcription": "%*ka hë ka ran wajäri sö japjâran inkjë ka märapjâra",
+            "translation": ""
+        },
+        {
+            "transcription": "ka hë ka tä wajäri sö japjâran inkjë ka märapjâra",
+            "translation": "vc fez comida para nós; eu, vc, e eles"
+        },
+        {
+            "transcription": "ka hë ka tä wajäri sö inkjë mä",
+            "translation": "vc fez a comida para mim"
+        },
+        {
+            "transcription": "mära hë tiwajäri sö ka mä inkjë mä",
+            "translation": "ele fez comida para vc e mim"
+        },
+        {
+            "transcription": "mära hë tiwajäri sö japjâran, ka më inkjë mä",
+            "translation": "ela fez comida para nós, vc e eu"
+        },
+        {
+            "transcription": "%*mära hë timë wajäri sö ka më inkjë mä",
+            "translation": "ele fez comida para vc e mim"
+        },
+        {
+            "transcription": "%*mära hë ti mï wajäri sö ka më inkjë mä",
+            "translation": "ele fez comida para vc e mim"
+        },
+        {
+            "transcription": "mära hë ti pan wajäri sö",
+            "translation": "ela fez comida para nós"
+        },
+        {
+            "transcription": "%*mära hë ti pan wajäri sö ka më inkjë mä",
+            "translation": ""
+        },
+        {
+            "transcription": "%*mära hë ti pan wajäri sö mära më inkjë mä",
+            "translation": ""
+        },
+        {
+            "transcription": "%*mära hë ti pan wajäri sö inkjë më maran",
+            "translation": ""
+        },
+        {
+            "transcription": "%*mära hë ti pan wajäri sö inkjë më mära mä",
+            "translation": ""
+        },
+        {
+            "transcription": "%mära hë timä më wajäri sö ka më mära mä",
+            "translation": "ela fez comida para vc e ele"
+        },
+        {
+            "transcription": "%mära hë timä më wajäri sö märaran",
+            "translation": "ela fez comida para eles dois"
+        },
+        {
+            "transcription": "%*mära hë ti më wajäri sö ka më inkjë mä",
+            "translation": ""
+        },
+        {
+            "transcription": "mära hë ti wajäri sö ka më inkjë më märapjâran",
+            "translation": "ele fez comida para vc, eu, e eles"
+        },
+        {
+            "transcription": "%*mära hë ti ran wajäri sö ka më inkjë më märapjâran",
+            "translation": "ele fez comida para vc, eu, e eles"
+        },
+        {
+            "transcription": "%*mära hë ti ___ wajäri sö ka më inkjë më märapjâran",
+            "translation": "ele fez comida para vc, eu, e eles"
+        },
+        {
+            "transcription": "%ka hë ka si söri inkjëran",
+            "translation": "%só vc que da para nós dois"
+        },
+        {
+            "transcription": "%mära hë ti si söri inkjëran",
+            "translation": "%ele deu para nós dois"
+        },
+        {
+            "transcription": "mära hë ti pan söri",
+            "translation": "ele deu para vc e eu"
+        },
+        {
+            "transcription": "%*mära hë ti pansi söri",
+            "translation": "ele deu para vc e eu"
+        },
+        {
+            "transcription": "%mära hë ti si wajäri sö inkjëran",
+            "translation": "%ela fez comida para ele e eu"
+        },
+        {
+            "transcription": "%*mära hë ti më si wajäri sö inkjëran",
+            "translation": "%ela fez comida para ele e eu"
+        },
+        {
+            "transcription": "%*mära hë ti si më wajäri sö inkjëran",
+            "translation": "%ela fez comida para ele e eu"
+        },
+        {
+            "transcription": "mära hë ti wajäri sö ta inkjë më",
+            "translation": "ela cozinhou para ela mesmo e até para mim (like the meal is made and you're asking who made it bc it's clear it's for eg you and eg you say that i myself made it)"
+        },
+        {
+            "transcription": "%*mära hë ti wajäri sö ta inkjë mä",
+            "translation": "ela cozinhou para ela mesmo e até para mim"
+        },
+        {
+            "transcription": "%*mära hë ti wajäri sö ta inkjë më ka mä",
+            "translation": "ela cozinhou para ela mesmo e até para mim"
+        },
+        {
+            "transcription": "%*mära hë ti wajäri sö ta inkjë më ka më",
+            "translation": "ela cozinhou para ela mesmo e até para mim"
+        },
+        {
+            "transcription": "%*inkjërân rê më më wajäri sö märaran",
+            "translation": "eu e ele cozinhou para eles dois (asking after finished this part of the recording bc saw it in Bernat's diss)"
+        },
+        {
+            "transcription": "inkjërân rê mä më wajäri sö märaran",
+            "translation": "eu e ele cozinhou para eles dois "
+        },
+        {
+            "transcription": "%mära hë tinkjë wajäri sö inkjë mä",
+            "translation": "%ela fez comida para mim"
+        },
+        {
+            "transcription": "%mära hë tinkjëmë wajäri sö ka më inkjë mä",
+            "translation": "%ela fez comida para vc e eu"
+        },
+        {
+            "transcription": "%*mära hë tinkjëmë wajäri sö Kjêpyti më inkjë mä",
+            "translation": "%ela fez comida para mim e Kjêpyti"
+        },
+        {
+            "transcription": "mära hë tipa wajäri sö Kjêpyti më inkjë mä",
+            "translation": "ele fez comida para mim e Kjêpyti"
+        },
+        {
+            "transcription": "mära hë tisi wajäri sö Kjêpyti më inkjë mä",
+            "translation": "foi ele mesmo que fez comida para Kjêpyti e mim"
+        },
+        {
+            "transcription": "%*mära hë tipan wajäri sö Kjêpyti më inkjë mä",
+            "translation": "foi ele mesmo que fez comida para Kjêpyti e mim"
+        },
+        {
+            "transcription": "%*mära hë timëpan wajäri sö Kjêpyti më inkjë mä",
+            "translation": "foi ele mesmo que fez comida para Kjêpyti e mim"
+        },
+        {
+            "transcription": "%*mära hë timëran wajäri sö Kjêpyti më inkjë mä",
+            "translation": "foi ele mesmo que fez comida para Kjêpyti e mim"
+        },
+        {
+            "transcription": "%*mära hë tipammë wajäri sö Kjêpyti më inkjë mä",
+            "translation": "foi ele mesmo que fez comida para Kjêpyti e mim"
+        },
+        {
+            "transcription": "%*märarân timëwajäri sö inkjërân",
+            "translation": "elas duas fizeram comida para mim e Kjêpyti"
+        },
+        {
+            "transcription": "märarân timëwajäri sö inkjë më Kjêpyti mä",
+            "translation": "elas duas fizeram comida para mim e Kjêpyti"
+        },
+        {
+            "transcription": "%märarân timëwajäri sö inkjëran",
+            "translation": "elas duas fizeram comida para mim e Kjêpyti"
+        },
+        {
+            "transcription": "%*märarân timëmëwajäri sö inkjëran",
+            "translation": "elas duas fizeram comida para mim e Kjêpyti"
+        },
+        {
+            "transcription": "%*märarân timëmëwajäri sö japjâran, ka më inkjë mä",
+            "translation": "elas duas fizeram comida para mim e Kjêpyti"
+        },
+        {
+            "transcription": "märarân timë söri kâprëpa inkjë më ka mä",
+            "translation": "elas duas deram livros para mim e vc (colletictive)"
+        },
+        {
+            "transcription": "märarân timë söri kâprëpa japjâran",
+            "translation": "elas duas deram livros para mim e vc (colletictive)"
+        },
+        {
+            "transcription": "märarân timë söri pytira kâprëpa inkjë më ka mä",
+            "translation": "elas duas deram dois livros para mim e vc (dois para cada um) (both collective and distributive)"
+        },
+        {
+            "transcription": "%*märarân timëmë söri pytira kâprëpara japjâran",
+            "translation": "elas duas deram dois livros para mim e vc (dois para cada um)"
+        },
+        {
+            "transcription": "%*märarân timëmë söri pytira kâprëpa japjâran",
+            "translation": "elas duas deram dois livros para mim e vc (dois para cada um)"
+        },
+        {
+            "transcription": "%*märarân timëmë söri pytira kjäräsâ japjâran",
+            "translation": "elas duas deram dois cutias para nós dois "
+        },
+        {
+            "transcription": "märarân timësöri inkjëran pytira kjäräsâ",
+            "translation": "elas duas deram dois cutias para nós dois "
+        },
+        {
+            "transcription": "%*märarân timësöri inkjëran pytira kjäräsâra",
+            "translation": "elas duas deram dois cutias para nós dois "
+        },
+        {
+            "transcription": "inkjë mä söri wântwê Paasymä mä tinpârähê",
+            "translation": "eu quero que você dar esse wântwê a Paasymä para ele carregar"
+        },
+        {
+            "transcription": "%*inkjë mä söripjän wântwê Paasymä mä tinpârähê",
+            "translation": "eu quero que você dar esse wântwê a Paasymä para ele carregar"
+        },
+        {
+            "transcription": "inkjë hë kamäsöri wântwê Paasymä mä",
+            "translation": "(1) eu vou dar wântwê para P; (2) eu tô dando wântwê para P"
+        },
+        {
+            "transcription": "wêntwê hë tijäri rê mä sörähê ka mä",
+            "translation": "esse wântwê quer que eu dar ele para você"
+        },
+        {
+            "transcription": "wêntwê hë tijäri rê kän sörähê ka mä",
+            "translation": "esse wêntwê quer que eu dar para vc"
+        },
+        {
+            "transcription": "wêntwê hë tijäri rê mä sörähê",
+            "translation": "esse wêntwê quer que eu dar (não escolheu prëë mä)"
+        },
+        {
+            "transcription": "ja wântwê hë tisörähê mära mä pëkâ",
+            "translation": "esse wântwê quer dar um pëkâ para ele"
+        },
+        {
+            "transcription": "%*ja wântwê hë timäsörähê mära mä pëkâ",
+            "translation": "esse wântwê quer que eu dar para ele um pëkâ"
+        },
+        {
+            "transcription": "%*ja wântwê hë tisörähê ka mä pëkâ",
+            "translation": "esse wântwê quer que eu dar para ele um pëkâ"
+        },
+        {
+            "transcription": "ja wântwê hë tikänsörähê ka mä pëkâ",
+            "translation": "esse wântwê vai dar um pëkâ para vc"
+        },
+        {
+            "transcription": "ja wântwê hë tikänsöripjän ka mä pëkâ",
+            "translation": "esse wêntwê tá querendo dar um pëkâ para vc"
+        },
+        {
+            "transcription": "inkjë hë rê kän söripjän ka mä wântwê",
+            "translation": "eu quero dar um wântwê para vc"
+        },
+        {
+            "transcription": "ra sö kôkjatipita inkjë",
+            "translation": "eu tenho carro"
+        },
+        {
+            "transcription": "ra sö celular inkjë",
+            "translation": "eu tenho celular"
+        },
+        {
+            "transcription": "ka mä rakänsöri pjän wântwê",
+            "translation": "você quer que eu te dar esse wântwê"
+        },
+        {
+            "transcription": "ka sö kôkjatipita inkjë",
+            "translation": "eu vou ter carro (quando eu compro)"
+        }
+    ]
+}
