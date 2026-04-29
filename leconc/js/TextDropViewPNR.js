@@ -28616,7 +28616,7 @@ class TextDropViewPNR {
       "translation": "amanhã ele vai chegar na aldeia"
     },
     {
-      "transcription": "pykkôômä katipappôjn ka më inkjë krittä",
+      "transcription": "pykkôômä katipapôjn ka më inkjë krittä",
       "translation": "amanhã eu e vc vamos chegar na aldeia"
     },
     {
