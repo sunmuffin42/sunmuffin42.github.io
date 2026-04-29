@@ -1,7 +1,3 @@
-// co-authored by Patrick Hall and Sunkulp Ananthanarayan
-// part of work during Hall's postdoc and Ananthanarayan's postbac at Yale
-// working with the Chirila lab, under Claire Bowern as PI
-
 export class RecordWord extends HTMLElement {
   constructor(){
     super()
@@ -118,7 +114,7 @@ export class RecordWord extends HTMLElement {
             timeFromMax -= 500
           }
           else {
-              stopText.textContent = ""
+              stopText.textContent = "Stop"
               stopEmoji.textContent = "⏹️"
               clearInterval(decrement)
           }
@@ -141,5 +137,7 @@ export class RecordWord extends HTMLElement {
   }
 }
 
-
+// co-authored by Patrick Hall and Sunkulp Ananthanarayan
+// part of work during Hall's postdoc and Ananthanarayan's postbac at Yale
+// working with the Chirila lab, under Claire Bowern as PI
 customElements.define('record-word', RecordWord)
