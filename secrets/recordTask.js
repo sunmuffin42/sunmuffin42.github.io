@@ -1,4 +1,9 @@
-export class RecordWord extends HTMLElement {
+import { audioBufferToWav } from '../audio-buffer-to-wav.js'
+import { concatenateAudioWithSilence } from '../audio-tools.js'
+import { RecordWord } from '../record-word/RecordWord.js'
+import { default as JSZip } from 'https://esm.sh/jszip@3.10.1'
+
+export class RecordTask extends HTMLElement {
   constructor(){
     super()
     this.innerHTML = `
@@ -63,23 +68,6 @@ export class RecordWord extends HTMLElement {
     })
   }
 
-  connectedCallback() {
-    this.querySelector('.enable-microphone-button')
-    // this.querySelector('.start-recording-button')
-      .addEventListener('click', async clickEvent => {
-        // ask for permission to use mic before enabling record buttons
-
-        let stream = await navigator.mediaDevices.getUserMedia({ audio: true })
-        this.stream = stream
-        this.context = new AudioContext()
-
-        // this.passStream(stream)
-        // this.passAudioContext(this.audioContext)
-
-        this.listen()
-      })
-  }
-
   set data(word){
     this.word = word
     this.render()
@@ -89,20 +77,24 @@ export class RecordWord extends HTMLElement {
     return this.word
   }
 
-  render(){
-    Object.entries(this.word)
-      .forEach(([key,value]) => {
-        let selector = `.${key}`
-        if(this.querySelector(selector)){
-          this.querySelector(selector)
-            .textContent = value
-        }
-      })
-  }
+//   render(){
+//     Object.entries(this.word)
+//       .forEach(([key,value]) => {
+//         let selector = `.${key}`
+//         if(this.querySelector(selector)){
+//           this.querySelector(selector)
+//             .textContent = value
+//         }
+//       })
+//   }
 
   listen(){
     this.querySelector('.start-recording-button')
-      .addEventListener('click', clickEvent => {
+    // got rid of connectedCallback and made this async. Unsure if that's going to spell trouble in the future.
+      .addEventListener('click', async clickEvent => {
+        let stream = await navigator.mediaDevices.getUserMedia({ audio: true })
+        this.stream = stream
+        this.context = new AudioContext()
         if(this.mediaRecorder){
           this.mediaRecorder.start()
         }
@@ -140,9 +132,10 @@ export class RecordWord extends HTMLElement {
     })
 
     this.querySelector(".download-zip").addEventListener("click", async clickEvent => {
-      let combinedAudioBlob = await this.generateAudioDownload()
-      let combinedAudioWav = audioBufferToWav(combinedAudioBlob)
-      let JSONDownload = this.generateJSONDownload()
+    //   let combinedAudioBlob = await this.generateAudioDownload()
+    //   let combinedAudioWav = audioBufferToWav(combinedAudioBlob)
+      let combinedAudioWav = audioBufferToWav(this.blob)
+    //   let JSONDownload = this.generateJSONDownload()
       let files = [
         { name: this.audioDownloadFileName, content: combinedAudioWav },
         { name: this.jsonDownloadFileName, content: JSONDownload }
@@ -171,4 +164,4 @@ export class RecordWord extends HTMLElement {
 // co-authored by Patrick Hall and Sunkulp Ananthanarayan
 // part of work during Hall's postdoc and Ananthanarayan's postbac at Yale
 // working with the Chirila lab, under Claire Bowern as PI
-customElements.define('record-word', RecordWord)
+customElements.define('record-task', RecordTask)
