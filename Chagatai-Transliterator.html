@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Chagatai Transliterator</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;600&family=Noto+Naskh+Arabic:wght@500&family=Source+Serif+4:wght@400;600&display=swap">
+<style>
+:root{
+  --bg:#f2f4f8; --panel:#ffffff; --ink:#1b2233; --muted:#5c6679; --line:#d5dae5; --accent:#27478f; --accent-ink:#ffffff; --nast:"Noto Nastaliq Urdu","Jameel Noori Nastaleeq","Nafees Nastaleeq","Noto Naskh Arabic",serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){--bg:#10141d;--panel:#171c28;--ink:#e6e9f1;--muted:#97a0b5;--line:#2b3347;--accent:#8fa8ec;--accent-ink:#10141d;}
+}
+:root[data-theme="dark"]{--bg:#10141d;--panel:#171c28;--ink:#e6e9f1;--muted:#97a0b5;--line:#2b3347;--accent:#8fa8ec;--accent-ink:#10141d;}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Source Serif 4",Georgia,serif;line-height:1.5}
+main{max-width:960px;margin:0 auto;padding:28px 18px 40px}
+h1{font-size:1.6rem;font-weight:600;margin:0 0 4px}
+p.sub{margin:0 0 20px;color:var(--muted)}
+.bar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+select,button{font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px 12px}
+button{cursor:pointer}
+button:hover{border-color:var(--accent)}
+select:focus-visible,button:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.panes{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:700px){.panes{grid-template-columns:1fr}}
+.pane{background:var(--panel);border:1px solid var(--line);border-radius:6px;display:flex;flex-direction:column}
+.pane h2{font-size:.95rem;font-weight:600;margin:0;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted)}
+textarea,.out{flex:1;min-height:260px;width:100%;padding:14px;margin:0;border:0;background:transparent;color:var(--ink);font-size:1.15rem;resize:vertical;overflow-wrap:anywhere;white-space:pre-wrap}
+.nast{font-family:var(--nast);line-height:2.4;font-size:1.3rem;direction:rtl;text-align:right}
+.lat{font-family:"Source Serif 4",Georgia,serif;direction:ltr;text-align:left}
+.note{margin-top:14px;color:var(--muted);font-size:.9rem}
+[hidden]{display:none!important}
+.kb{margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px;direction:ltr}
+.kbt{color:var(--muted);font-size:.9rem;margin-bottom:8px}
+.kbrow{display:flex;gap:4px;margin:0 auto 4px;max-width:720px}
+.key{position:relative;flex:0 0 calc((100% - 44px)/12);height:54px;padding:0;display:flex;align-items:center;justify-content:center;font-family:var(--nast)}
+.key .c{font-size:1.15rem;line-height:1.6}
+.key .h{position:absolute;left:4px;bottom:2px;font-family:"Source Serif 4",Georgia,serif;font-size:.65rem;color:var(--muted)}
+.key.hit,.key:active{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.key .l{position:absolute;right:4px;top:2px;font-family:"Source Serif 4",Georgia,serif;font-size:.65rem;color:var(--muted)}
+.key.hit .h,.key:active .h,.key.hit .l,.key:active .l{color:var(--accent-ink)}
+.sp1{flex:0 0 calc((100% - 44px)/24 + 2px)}
+.sp2{flex:0 0 calc((100% - 44px)/12*1.25)}
+.key.space{flex:1;font-family:"Source Serif 4",Georgia,serif;font-size:.9rem;color:var(--muted)}
+.key.bksp{flex:0 0 calc((100% - 44px)/12*2)}
+
+/* mode tabs + shape-family input */
+.tabs{display:flex;gap:6px;margin-bottom:10px}
+.tab{padding:6px 12px;font-size:.9rem}
+.tab[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.fams{display:grid;grid-template-columns:repeat(auto-fill,minmax(54px,1fr));gap:6px;max-width:720px;margin:0 auto}
+.fam{height:58px;padding:0;display:flex;align-items:center;justify-content:center;font-family:var(--nast);font-size:1.3rem;line-height:1.6}
+.fam[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.members{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;max-width:720px;margin:12px auto 0;padding-top:12px;border-top:1px solid var(--line);min-height:70px}
+.members .key{flex:0 0 68px;height:66px}
+.members .key .c{font-size:1.4rem}
+.members .key .h,.members .key .l{font-size:.75rem}
+.members .empty{color:var(--muted);font-size:.9rem;align-self:center}
+.shapeact{display:flex;gap:6px;justify-content:center;max-width:720px;margin:10px auto 0}
+.shapeact .key{flex:0 0 auto;width:auto;padding:0 18px;height:40px;font-family:"Source Serif 4",Georgia,serif;font-size:.9rem;color:var(--muted)}
+.shapeact .key.space{flex:1}
+.tip{position:fixed;z-index:10;display:flex;gap:6px;padding:8px 10px;background:var(--panel);color:var(--ink);border:1px solid var(--accent);border-radius:6px;box-shadow:0 4px 14px rgba(0,0,0,.2);pointer-events:none}
+.tip .f{display:flex;flex-direction:column;align-items:center;min-width:58px;padding:0 6px}
+.tip .f+.f{border-left:1px solid var(--line)}
+.tip .n{font-size:.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.tip .g{font-family:var(--nast);font-size:1.7rem;line-height:2.2;direction:rtl}
+</style>
+</head>
+<body>
+<main>
+  <h1>Chagatai transliterator</h1>
+  <small>This project was not created by myself, it was vibe-coded! Do not credit me</small>
+  <p class="sub">Type in either script; the other side updates as you go.</p>
+  <div class="bar">
+    <label for="dir">Direction</label>
+    <select id="dir">
+      <option value="c2l">Chagatai → Latin</option>
+      <option value="l2c">Latin → Chagatai</option>
+    </select>
+    <button id="swap" type="button">Swap text</button>
+  </div>
+  <div class="panes">
+    <section class="pane"><h2 id="inLabel">Chagatai</h2><textarea id="inp" spellcheck="false"></textarea></section>
+    <section class="pane"><h2 id="outLabel">Latin</h2><div id="out" class="out" aria-live="polite"></div></section>
+  </div>
+  <section id="kb" class="kb" aria-label="Chagatai on-screen input">
+    <div class="tabs" role="group" aria-label="Input layout">
+      <button type="button" class="tab" id="tabKb" aria-pressed="true">Persian keyboard</button>
+      <button type="button" class="tab" id="tabShape" aria-pressed="false">By letter shape</button>
+    </div>
+    <div id="kbPane">
+      <div class="kbt">Persian keyboard (standard layout). Small letters show the QWERTY key (left) and the transliteration (top right); click a key to insert it.</div>
+      <div id="kbRows"></div>
+    </div>
+    <div id="shapePane" hidden>
+      <div class="kbt">Pick a shape family (letters that differ only by dots), then pick the exact letter. Bottom left shows the Persian keyboard key, top right the transliteration.</div>
+      <div id="fams" class="fams"></div>
+      <div id="members" class="members" aria-live="polite"></div>
+      <div id="shapeAct" class="shapeact"></div>
+    </div>
+  </section>
+  <p class="note">Characters without a mapping, including Latin vowels other than a, pass through unchanged. In Latin input, ' gives ء and ` gives ع.</p>
+</main>
+<script>
+const PAIRS = [
+  ["ا","a"],["آ","ā"],["ء","ʾ"],["ب","b"],["پ","p"],["ت","t"],["ث","ṯ"],["ن","n"],["ی","y"],
+  ["ج","j"],["چ","č"],["ح","ḥ"],["خ","x"],["د","d"],["ذ","ẕ"],["ر","r"],["ز","z"],["ژ","ž"],
+  ["س","s"],["ش","š"],["ص","ṣ"],["ض","ḍ"],["ط","ṭ"],["ظ","ẓ"],["ع","ʿ"],["غ","ġ"],["ف","f"],
+  ["ق","q"],["ک","k"],["گ","g"],["ڭ","ŋ"],["ل","l"],["م","m"],["ه","h"],["ہ","h"],["و","w"]
+];
+const C2L = new Map(PAIRS.map(([c,l]) => [c, l.normalize("NFC")]));
+C2L.set("ي","y"); C2L.set("ك","k"); C2L.set("لا","la");
+const L2C = new Map(PAIRS.map(([c,l]) => [l.normalize("NFC"), c]));
+L2C.set("'","ء"); L2C.set("`","ع");
+
+const inp = document.getElementById("inp"), out = document.getElementById("out"),
+      dir = document.getElementById("dir"), swap = document.getElementById("swap"),
+      inLabel = document.getElementById("inLabel"), outLabel = document.getElementById("outLabel");
+
+function convert(text, map, lower){
+  let s = text.normalize("NFC");
+  if (lower) s = s.toLowerCase();
+  let r = "";
+  for (const ch of s) r += map.has(ch) ? map.get(ch) : ch;
+  return r;
+}
+function setFonts(){
+  const c2l = dir.value === "c2l";
+  inp.className = c2l ? "nast" : "lat";
+  out.className = "out " + (c2l ? "lat" : "nast");
+  inp.dir = c2l ? "rtl" : "ltr";
+  inLabel.textContent = c2l ? "Chagatai" : "Latin";
+  kb.hidden = !c2l;
+  outLabel.textContent = c2l ? "Latin" : "Chagatai";
+}
+function render(){
+  out.textContent = dir.value === "c2l"
+    ? convert(inp.value, C2L, false)
+    : convert(inp.value, L2C, true);
+}
+inp.addEventListener("keyup", render);
+inp.addEventListener("input", render);
+dir.addEventListener("change", () => { setFonts(); render(); });
+swap.addEventListener("click", () => {
+  const result = out.textContent;
+  dir.value = dir.value === "c2l" ? "l2c" : "c2l";
+  inp.value = result; setFonts(); render();
+});
+const ROWS = [
+  [["ض","q"],["ص","w"],["ث","e"],["ق","r"],["ف","t"],["غ","y"],["ع","u"],["ه","i"],["خ","o"],["ح","p"],["ج","["],["چ","]"]],
+  [["ش","a"],["س","s"],["ی","d"],["ب","f"],["ل","g"],["ا","h"],["ت","j"],["ن","k"],["م","l"],["ک",";"],["گ","'"]],
+  [["ظ","z"],["ط","x"],["ز","c"],["ر","v"],["ذ","b"],["د","n"],["پ","m"],["و",","]],
+  [["آ","⇧H"],["ژ","⇧C"],["ء",""],["ك","⇧Z"],["ي","⇧D"],["ْ","⇧Q"],["ة","⇧J"], ["ي","⇧D"],["ڭ",""]]
+];
+const kb = document.getElementById("kb"), kbRows = document.getElementById("kbRows"), keyEls = new Map(), KEYHINT = new Map();
+function ins(t){ inp.setRangeText(t, inp.selectionStart, inp.selectionEnd, "end"); render(); }
+function back(){ let s = inp.selectionStart; const e = inp.selectionEnd; if (s === e && s > 0) s--; inp.setRangeText("", s, e, "end"); render(); }
+function mkKey(cls, fn){ const b = document.createElement("button"); b.type = "button"; b.className = cls; b.addEventListener("mousedown", ev => ev.preventDefault()); b.addEventListener("click", fn); return b; }
+ROWS.forEach((row, i) => {
+  const d = document.createElement("div"); d.className = "kbrow";
+  if (i === 1 || i === 2){ const sp = document.createElement("span"); sp.className = "sp" + i; d.appendChild(sp); }
+  row.forEach(([ch, hint]) => {
+    const b = mkKey("key", () => ins(ch));
+    b.innerHTML = '<span class="c">' + ch + '</span>' + (hint ? '<span class="h">' + hint + '</span>' : '') + (C2L.get(ch) ? '<span class="l">' + C2L.get(ch) + '</span>' : '');
+    b.setAttribute("aria-label", ch + (hint ? " (" + hint + ")" : ""));
+    keyEls.set(ch, b); if (hint && !KEYHINT.has(ch)) KEYHINT.set(ch, hint); d.appendChild(b);
+  });
+  kbRows.appendChild(d);
+});
+{
+  const d = document.createElement("div"); d.className = "kbrow";
+  const sp = mkKey("key space", () => ins(" ")); sp.textContent = "space";
+  const bk = mkKey("key bksp", back); bk.textContent = "⌫"; bk.setAttribute("aria-label", "Backspace");
+  d.append(sp, bk); kbRows.appendChild(d);
+}
+inp.addEventListener("input", ev => {
+  const k = keyEls.get(ev.data);
+  if (k){ k.classList.add("hit"); setTimeout(() => k.classList.remove("hit"), 180); }
+});
+
+/* ---- Shape-family input ---- */
+// [label glyph, family name, members]
+const FAMILIES = [
+  ["ٮ", "b / p / t / ṯ / n / y", ["ب","پ","ت","ث","ن","ی","ي"]],
+  ["ح", "j / č / ḥ / x",          ["ج","چ","ح","خ"]],
+  ["د", "d / ẕ",                  ["د","ذ"]],
+  ["ر", "r / z / ž",              ["ر","ز","ژ"]],
+  ["س", "s / š",                  ["س","ش"]],
+  ["ص", "ṣ / ḍ",                  ["ص","ض"]],
+  ["ط", "ṭ / ẓ",                  ["ط","ظ"]],
+  ["ع", "ʿ / ġ",                  ["ع","غ"]],
+  ["ف", "f / q",                  ["ف","ق"]],
+  ["ک", "k / g / ŋ",              ["ک","گ","ڭ","ك"]],
+  ["ل", "l",                      ["ل","لا"]],
+  ["م", "m",                      ["م"]],
+  ["ه", "h",                      ["ه","ہ","ة"]],
+  ["و", "w",                      ["و"]],
+  ["ا", "a / ā / ʾ",              ["ا","آ","ء"]]
+];
+const famsEl = document.getElementById("fams"), membersEl = document.getElementById("members"),
+      shapeAct = document.getElementById("shapeAct"),
+      kbPane = document.getElementById("kbPane"), shapePane = document.getElementById("shapePane"),
+      tabKb = document.getElementById("tabKb"), tabShape = document.getElementById("tabShape");
+const tip = document.createElement("div");
+tip.className = "tip"; tip.setAttribute("role", "tooltip"); tip.hidden = true;
+document.body.appendChild(tip);
+const RJ = new Set(["ا","آ","د","ذ","ر","ز","ژ","و","ة","لا"]); // join only to the right
+function formsOf(ch){
+  const J = "\u200D";
+  if (ch === "ء") return [["isolated", ch]];
+  const f = [["isolated", ch]];
+  if (!RJ.has(ch)) f.push(["initial", ch + J], ["medial", J + ch + J]);
+  f.push(["final", J + ch]);
+  return f;
+}
+function hideTip(){ tip.hidden = true; }
+function showTip(el, ch){
+  tip.textContent = "";
+  formsOf(ch).forEach(([n, g]) => {
+    const c = document.createElement("div"); c.className = "f";
+    const a = document.createElement("span"); a.className = "n"; a.textContent = n;
+    const b = document.createElement("span"); b.className = "g"; b.textContent = g;
+    c.append(a, b); tip.appendChild(c);
+  });
+  tip.hidden = false;
+  const r = el.getBoundingClientRect(), w = tip.offsetWidth, h = tip.offsetHeight;
+  const left = Math.max(8, Math.min(r.left + r.width / 2 - w / 2, window.innerWidth - w - 8));
+  let top = r.top - h - 8; if (top < 8) top = r.bottom + 8;
+  tip.style.left = left + "px"; tip.style.top = top + "px";
+}
+function attachTip(el, ch){
+  el.addEventListener("mouseenter", () => showTip(el, ch));
+  el.addEventListener("mouseleave", hideTip);
+  el.addEventListener("focus", () => showTip(el, ch));
+  el.addEventListener("blur", hideTip);
+}
+const famBtns = [];
+function showFamily(i){
+  famBtns.forEach((b, j) => b.setAttribute("aria-pressed", String(i === j)));
+  hideTip(); membersEl.textContent = "";
+  FAMILIES[i][2].forEach(ch => {
+    const b = mkKey("key", () => { ins(ch); b.classList.add("hit"); setTimeout(() => b.classList.remove("hit"), 180); });
+    const lat = C2L.get(ch) || "";
+    const kh = KEYHINT.get(ch) || "";
+    b.innerHTML = '<span class="c">' + ch + '</span>' + (kh ? '<span class="h">' + kh + '</span>' : '') + (lat ? '<span class="l">' + lat + '</span>' : '');
+    b.setAttribute("aria-label", ch + (lat ? " (" + lat + ")" : ""));
+    attachTip(b, ch); membersEl.appendChild(b);
+  });
+}
+FAMILIES.forEach(([glyph, name], i) => {
+  const b = mkKey("fam", () => showFamily(i));
+  b.textContent = glyph; b.title = name; b.setAttribute("aria-label", "Shape family " + name);
+  b.setAttribute("aria-pressed", "false");
+  famBtns.push(b); famsEl.appendChild(b);
+});
+{
+  const sp = mkKey("key space", () => ins(" ")); sp.textContent = "space";
+  const bk = mkKey("key bksp", back); bk.textContent = "⌫"; bk.setAttribute("aria-label", "Backspace");
+  shapeAct.append(sp, bk);
+}
+const hint = document.createElement("span"); hint.className = "empty"; hint.textContent = "Choose a shape above.";
+membersEl.appendChild(hint);
+function setMode(shape){
+  kbPane.hidden = shape; shapePane.hidden = !shape;
+  tabKb.setAttribute("aria-pressed", String(!shape));
+  tabShape.setAttribute("aria-pressed", String(shape));
+}
+tabKb.addEventListener("click", () => setMode(false));
+tabShape.addEventListener("click", () => setMode(true));
+
+setFonts(); render();
+</script>
+</body>
+</html>
