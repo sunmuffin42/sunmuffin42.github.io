@@ -6261,7 +6261,7 @@ class TextDropViewPNR {
     "title": "Women work",
     "speakers": "Kâransâ",
     "linguists": "Myriam Lapierre",
-    "Indigenous researchers": "Sôpôha (transcription, translation",
+    "Indigenous researcher": "Sôpôha (transcription, translation",
     "type": "narrative"
   },
   "sentences": [
@@ -14994,7 +14994,7 @@ class TextDropViewPNR {
   "metadata": {
     "title": "Tititi hakriti",
     "speakers": "Kreenpy",
-    "non-Indigenous researchers": "Jo\u00e3o Paulo Den\u00f3frio",
+    "non-Indigenous researcher": "Jo\u00e3o Paulo Den\u00f3frio",
     "date": "2019/01/15",
     "type": "narrative"
   },
@@ -28585,15 +28585,15 @@ class TextDropViewPNR {
     },
     {
       "transcription": "inkjë jyrapôô krittä kôkjatipita hamä",
-      "translation": "eu cheguei na aldei no carro"
+      "translation": "eu cheguei na aldeia no carro"
     },
     {
       "transcription": "%inkjë rapôjn",
       "translation": "eu sempre chego na aldeia."
     },
     {
-      "transcription": "inkjë rapan Negro rï",
-      "translation": "eu estou no Negro"
+      "transcription": "inkjë rapan Nego rï",
+      "translation": "eu estou no Nego"
     },
     {
       "transcription": "jyrapôô mörï",
@@ -38410,7 +38410,7 @@ class TextDropViewPNR {
   "metadata": {
     "title": "Kj\u00e4r\u00e4s\u00e2 h\u00eb tim\u00e4s\u00f6n s\u00e2ti",
     "speakers": "Sykj\u00e4",
-    "linguists": "Myriam Lapierre, Sunkulp Ananthanarayan, Jessamine Jeter",
+    "linguists": ["Myriam Lapierre", "Sunkulp Ananthanarayan", "Jessamine Jeter"],
     "Indigenous researcher": "Tepakriti (recording technician), Pukkjora (transcription and translation), Zebra Kayapo (transcription and translation), S\u00f4p\u00f4ha (review)",
     "type": "narrative"
   },
@@ -40031,7 +40031,17608 @@ class TextDropViewPNR {
       ]
     }
   ]
-}]
+},{
+  "metadata": {
+    "file": "Hakââ_Inkjên-pyti_20230624.json",
+    "title": "Inkjên pyti",
+    "recording": {
+      "speakers": "Hakââ",
+      "linguists": "Myriam Lapierre, Ella De Falco, Jessamine Jeter",
+      "type": "Intergenerational narrative",
+      "date": "2026/06/23"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "indigenous_researcher": [
+        "Tummäsyri",
+        "Kôtiti",
+        "Wytyn"
+      ],
+      "date_completed": "2026/07/26"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 20624.150651889067,
+      "stop": 22844.44977293623,
+      "transcription": "swankja ka kän sü swankja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 23643.165816570436,
+      "stop": 27502.38897709381,
+      "transcription": "[inkjara pa rö] inkjara pa rö tän kja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 29843.148396334036,
+      "stop": 33132.070286363996,
+      "transcription": "hüwähättä pëjn [ka] te hüwähä tä pitin ka päjakriti ha",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 33647.06211337852,
+      "stop": 34522.77934901376,
+      "transcription": "swankja ka känsü",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 36101.57369282118,
+      "stop": 38259.02251879527,
+      "transcription": "[rappa] rappa tijää pyhankjâra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 38396.35090347443,
+      "stop": 39757.6931515983,
+      "transcription": "pyhankjâra rênkjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 41198.640129501044,
+      "stop": 44010.82260477626,
+      "transcription": "nën rêpïnnïn kêti tijää inpyharân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 44805.9429312891,
+      "stop": 47879.570406923216,
+      "transcription": "inpyhara, inkjara inkjon rênkjää inkjara",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 48533.8560081165,
+      "stop": 50029.32049738243,
+      "transcription": "hï twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 50732.931082986746,
+      "stop": 59940.41823921116,
+      "transcription": "mämä rênnïn rênkjää pyti twatün swankja twatün rênnïn rênkjää rênnïn [rê mähokre] rê mähokrekââ pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 60595.12120980036,
+      "stop": 64027.37580777481,
+      "transcription": "inpyharân rêpïnnïn tijäri tokkö",
+      "translation": "",
+      "notes": "Note: toti köö",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 64359.96539252298,
+      "stop": 67799.48262406052,
+      "transcription": "inpyharân [rêpïn rêpïn] rêpïräkwâri",
+      "translation": "",
+      "notes": "Note: poop in the butt",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 68102.84294928126,
+      "stop": 74455.50613891277,
+      "transcription": "inpyharân rê mähokrekââ pjojanka rê mähokrekââ pjo ha",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 76012.9247964146,
+      "stop": 78471.39045881007,
+      "transcription": "ha karêju mähokrekââ pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 79429.67162580407,
+      "stop": 81464.87543038595,
+      "transcription": "katirê jïn ja kjâri hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 82216.4632602752,
+      "stop": 85591.01530296262,
+      "transcription": "kati kin jakjâri hän mämän rê kännänkjêtahê",
+      "translation": "",
+      "notes": "Note: so that there are many woman for y'all",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 86856.86535435771,
+      "stop": 88106.62130707176,
+      "transcription": "jynkjä sâkô rênkjää",
+      "translation": "",
+      "notes": "Note: ela pediu dividir corpo inteiro para virar mulher",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 88413.20507422481,
+      "stop": 89895.51476197627,
+      "transcription": "swankja rênkjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 90217.32085159021,
+      "stop": 92666.15695819189,
+      "transcription": "inkjara twatün rênkjää inkjara twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 92964.89720526656,
+      "stop": 94453.25713664152,
+      "transcription": "inkjara parö tän kja",
+      "translation": "",
+      "notes": "Note: the time without women",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 95018.96059475995,
+      "stop": 97898.87655953426,
+      "transcription": "jynkjä sâkô katirên kin raakjâri hään",
+      "translation": "",
+      "notes": "Note: raakjârijä - divide",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 98607.74840985761,
+      "stop": 101619.23695165105,
+      "transcription": "karênkjë krekââ pjo karê rarïn jân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 102281.92937804548,
+      "stop": 104686.9375885055,
+      "transcription": "tijää rênkjäri jïïpê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 105139.18743557176,
+      "stop": 106972.57050615434,
+      "transcription": "jynkjä sâkô rênkjäri jynkjä sâkô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 109007.04564086057,
+      "stop": 112224.47393190651,
+      "transcription": "mänpên rên nën kin hakjâri rênkjäri twatün",
+      "translation": "",
+      "notes": "Note: rên - divide",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 112585.33135412757,
+      "stop": 114877.19771794871,
+      "transcription": "swankja panära twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 114877.19771794871,
+      "stop": 119192.44220478828,
+      "transcription": "rê hakjâri rênkjää rênkin hä kjâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 119192.44220478828,
+      "stop": 121482.36358158788,
+      "transcription": "rênkïn hön kêti rênkjää rênkïn hön kêti ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 122106.98874628558,
+      "stop": 124030.38027557558,
+      "transcription": "rênkïn sapu rênkjäri [rê]",
+      "translation": "",
+      "notes": "Note: sapu - put stuff in for cooking?",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 124330.74266573839,
+      "stop": 126923.4519117206,
+      "transcription": "rê sapu ho tâtapjâra pê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 127305.9130515506,
+      "stop": 131964.05281248974,
+      "transcription": "mänpjâra pê kin rapê ty rênkjää mämänpjâra pê rapê kjo rênkjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 132503.16707917923,
+      "stop": 141340.78011683654,
+      "transcription": "kappê rê sïjïn sapu hapjâra mämänpjâra rêsï ra, rê sï mä tïri jysïmä kôti mämä jysïmä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 141721.14929425938,
+      "stop": 143087.7406074967,
+      "transcription": "jy sï mäppa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 143797.77378574753,
+      "stop": 145115.20713807704,
+      "transcription": "ja swankja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 145432.28171712407,
+      "stop": 147575.5688127049,
+      "transcription": "jysï rappa mämänpên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 148118.47008037398,
+      "stop": 153692.98284732047,
+      "transcription": "jy päpää jy pyransipjâ rênkjäri inpyhara",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 154257.08224110535,
+      "stop": 157039.42282848785,
+      "transcription": "mämän rênkin hakjâramä rênkjää twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 158175.94020229368,
+      "stop": 160603.85371972594,
+      "transcription": "ja rênsün swankjarân twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 163506.38312070028,
+      "stop": 164550.28491044234,
+      "transcription": "ja rênsün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 165435.71721429285,
+      "stop": 168080.82965249402,
+      "transcription": "inkjara parötän kja rênkïn hakjâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 170147.59811828926,
+      "stop": 174262.59162494977,
+      "transcription": "ra pê kjo rênkjä rênkïn pre ho tâtapjâra pê rapê kjo rênkjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 174462.74492778385,
+      "stop": 179383.2961386433,
+      "transcription": "ka pê rênkïnpre japjâra mämänpjâra sï raantïri rênkjää, mämänpjâra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 179383.2961386433,
+      "stop": 182287.25185131247,
+      "transcription": "jy rakkôti rênkjäri märapjâra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 182287.25185131247,
+      "stop": 185584.0899346017,
+      "transcription": "rê py sapjôri rênkjää [paraná] (panära)",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 185972.7863887898,
+      "stop": 195319.45139925115,
+      "transcription": "rê jïn kjêtän rê jïn kjêtän swankjarân panärân rê [k](j)ïrïnpe türên kïrïnpe rê ra sün inkjâ jaakri swankjara panära",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 195319.45139925115,
+      "stop": 201727.41448172662,
+      "transcription": "tijärï rênkjää twatün hë rêkïn hakjâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 201727.41448172662,
+      "stop": 206580.06738715942,
+      "transcription": "jy päpää py raan târi jy päpää py rankjênti rênkjäri twatün rêhakkjâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 206580.06738715942,
+      "stop": 209912.65024442752,
+      "transcription": "pên mämänpên jy py raantâri jy pyraankjêti rênkjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 210309.62562771214,
+      "stop": 212664.9705448109,
+      "transcription": "ja rên sün swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 213077.1416405694,
+      "stop": 215004.64300531126,
+      "transcription": "twatün inpyharân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 216452.36852609363,
+      "stop": 221180.70139337803,
+      "transcription": "ha ka tün kjararö ha ka jy rê pja pïnnïn pyharân",
+      "translation": "",
+      "notes": "Note: unclear what this says",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 221180.70139337803,
+      "stop": 223850.69931967687,
+      "transcription": "ha ka jy rê pja pïnnïn pyharân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 223850.69931967687,
+      "stop": 226064.89997208054,
+      "transcription": "ja rêssün, rên sün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 226064.89997208054,
+      "stop": 234040.54773500923,
+      "transcription": "swankja topytüräpjârân jannäsossün mämän ra kän sün tä rênkjärï swankjarân tä rênkjärï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 236192.81537105227,
+      "stop": 238969.03624488396,
+      "transcription": "mä rê ho jyypjoräswa ja twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 239248.90572941833,
+      "stop": 243616.95606995132,
+      "transcription": "[rê py] rê py päpää sapjôri jy py ra kin jy py rakôti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "start": 243616.95606995132,
+      "stop": 245988.99786395248,
+      "transcription": "päpää py säntââ jypynkjêti",
+      "translation": "",
+      "notes": "Note: säntâti - have a lot of \"\"kids\"\"",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 58,
+      "start": 246750.02113051075,
+      "stop": 248557.82544813844,
+      "transcription": "ja rên sün swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "start": 249402.93722263913,
+      "stop": 250042.28265204406,
+      "transcription": "ja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "start": 251137.27712833896,
+      "stop": 254348.7018714417,
+      "transcription": "ja rênkjäri, swankjara swankjara",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "start": 255122.7909772065,
+      "stop": 260678.4935043388,
+      "transcription": "[i...] ra parötän inkjara parötän kja rê kja pja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "Kôtâti_Pëkwân_20230623.json",
+    "title": "Pëkwân",
+    "recording": {
+      "speakers": "Kôtâti",
+      "linguists": "Myriam Lapierre, Ella De Falco, Jessamine Jeter",
+      "type": "Intergenerational narrative",
+      "date": "2023/06/23"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "indigenous_researcher": [
+        "Kôtiti",
+        "Wytyn",
+        "Kôpyn"
+      ],
+      "date_completed": "2026/07/24"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 12419.922976678221,
+      "stop": 14962.182320272623,
+      "transcription": "haa ka kän sü kjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 14962.182320272623,
+      "stop": 20636.63557150363,
+      "transcription": "swankjara ti raanpârä pëkwân hë tepi hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 20636.63557150363,
+      "stop": 23522.00139577164,
+      "transcription": "ti tä raanpâ pëkwân hë",
+      "translation": "",
+      "notes": "Pëëntwê: ti tä raanpân pëkwân hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 24962.967033668916,
+      "stop": 29697.871860956802,
+      "transcription": "rê jïn mä sokkjapôpô jïn tä sossü ra mïjörï",
+      "translation": "",
+      "notes": "Pëëntwê: pjörï",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 29697.871860956802,
+      "stop": 32143.314394451663,
+      "transcription": "kâjân ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 32143.314394451663,
+      "stop": 33139.73937460947,
+      "transcription": "tepi suu",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 33139.73937460947,
+      "stop": 35126.304547670166,
+      "transcription": "kypy tänpârïn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 36838.03718262278,
+      "stop": 39099.77303908814,
+      "transcription": "ti jämä krâ tu",
+      "translation": "",
+      "notes": "Note: on the thigh",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 39099.77303908814,
+      "stop": 41263.917137329794,
+      "transcription": "ti jïn sikkârankjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 41263.917137329794,
+      "stop": 43927.331132967316,
+      "transcription": "ti jänpakkârankjâ",
+      "translation": "",
+      "notes": "Note: vai pegar na barriga",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 43927.331132967316,
+      "stop": 46712.429579571006,
+      "transcription": "tijää sakrekkwâ rankjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 48981.04008688609,
+      "stop": 51802.6190279461,
+      "transcription": "swankjara, tepi hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 52428.669443387866,
+      "stop": 55557.60549628658,
+      "transcription": "swankjara hüwähärï kjara",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 56829.86191434992,
+      "stop": 59890.77761827259,
+      "transcription": "ja rê sotinpa ja tinkjësün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 59890.77761827259,
+      "stop": 67166.44978358113,
+      "transcription": "topytün hë kjë topjâpjâ pinkjâ hë tinkjë sokksün rê sotinpari tâti inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 68064.14990665203,
+      "stop": 72301.14635245927,
+      "transcription": "ja rakänsün mämä rakänsossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 72301.14635245927,
+      "stop": 74475.29535338994,
+      "transcription": "tepi hä ti tänpân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 75004.9316787216,
+      "stop": 80098.9569510671,
+      "transcription": "mämänpên [tijïn] tijïn tä sünpjöräkkwa kâjân hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 80098.9569510671,
+      "stop": 82432.46813043299,
+      "transcription": "tippyjïteppyrä hê",
+      "translation": "",
+      "notes": "Pëëntwê: tippyjïnsêppyra hê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 83170.2785085459,
+      "stop": 85869.59382972911,
+      "transcription": "ti tari tä sapjön",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 86750.15849259333,
+      "stop": 88393.21999244398,
+      "transcription": "pëkwân hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 89727.45182643442,
+      "stop": 90431.62104065613,
+      "transcription": "pan",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 91450.81332439807,
+      "stop": 96167.24721674522,
+      "transcription": "ti tä sappjön jy pênti pâritêê hä",
+      "translation": "",
+      "notes": "Pëëntwê: titi pâripää/kitiPëëntwê: titi pâripää/kiti\nNote: ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 96234.53530493857,
+      "stop": 100922.51789132823,
+      "transcription": "pâtakômä têê hä jy pênti tippê sapjön",
+      "translation": "",
+      "notes": "Note: pëkwân pê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 101835.57036747664,
+      "stop": 104094.0681824322,
+      "transcription": "ti jän honkjoti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 104949.65161401418,
+      "stop": 107753.50186116487,
+      "transcription": "sï tâti hä pëkwân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 107805.46404148352,
+      "stop": 109675.79150963039,
+      "transcription": "ti sapjön tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 109720.90649722457,
+      "stop": 114104.75231666474,
+      "transcription": "ti sikkârankjâ ti mä krâttu hankjâ tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 114447.17379117265,
+      "stop": 117282.92019941291,
+      "transcription": "ti sakrekkwârankjâ tijää",
+      "translation": "",
+      "notes": "Pëëntwê: ti sakrekwârankjâ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 117282.92019941291,
+      "stop": 119686.62816596446,
+      "transcription": "tintekkwârankjâ tijää",
+      "translation": "",
+      "notes": "Note: on the cheeks",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 119686.62816596446,
+      "stop": 122997.38298973929,
+      "transcription": "ti jï pï rä hê ti sikkââ tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 123266.13546515124,
+      "stop": 124904.95421442571,
+      "transcription": "swankja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 125638.20331566533,
+      "stop": 129231.33533279116,
+      "transcription": "tepi hä tïn tänpâräkkwa",
+      "translation": "",
+      "notes": "Note: tïn is a hortative \"\"go on...\"\"",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 131046.93467585731,
+      "stop": 134822.3578171726,
+      "transcription": "mämän pên ti sikkârankjâ tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 135246.67601012476,
+      "stop": 137277.31794428988,
+      "transcription": "ti mä pepeti tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 137277.31794428988,
+      "stop": 139398.3231085302,
+      "transcription": "ti mä tysânsi",
+      "translation": "",
+      "notes": "Note: out of breath",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 140631.625015034,
+      "stop": 143523.0308604026,
+      "transcription": "ti mä krekjärä têê tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 145490.21482220606,
+      "stop": 152184.07454596768,
+      "transcription": "tepi hä ti pê tänpâräkkwa prëë hë pjo ti tänpari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 153342.2953680763,
+      "stop": 157874.73015948024,
+      "transcription": "pëkwân hë ti raanpân män hë rankwajä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 157974.04516656496,
+      "stop": 161519.33174641363,
+      "transcription": "hate tinpân ti sapjö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 162117.89805173286,
+      "stop": 168848.5436398719,
+      "transcription": "honkjôjô pâtakômä têê hä kukarijamä",
+      "translation": "",
+      "notes": "Pëëntwê: hojôjôPëëntwê: hojôjô\nNote: ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 168848.5436398719,
+      "stop": 172078.5848616883,
+      "transcription": "kypy pan ja sêrämë kjën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 172078.5848616883,
+      "stop": 176301.73503463832,
+      "transcription": "ti mä krekjäränka tinsêramën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 176612.8854694494,
+      "stop": 178680.98078220358,
+      "transcription": "ti sakre kwâra hê",
+      "translation": "",
+      "notes": "Note: gonna smack ur face",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 179320.04913360032,
+      "stop": 181229.35705821723,
+      "transcription": "kypy sê san pappoti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 181229.35705821723,
+      "stop": 188824.61444880153,
+      "transcription": "tirä mën tijäri kjën ja tinkjë sü kjë topjâpjâ pinkjâ hë tijää sê rä mën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 189404.31660867986,
+      "stop": 191917.44574876284,
+      "transcription": "ti mä pepeti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 192873.5668670009,
+      "stop": 195607.8513714112,
+      "transcription": "ti mä sakre kwârankjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 195607.8513714112,
+      "stop": 205647.97828949618,
+      "transcription": "ti wajää tijäri ja tinkjë sürïnsï [inkjë jünpjâ] kjë topjâpjâ pinkjâ hë tinkjë tä sossün ra sotinpari tâti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 207029.98459336645,
+      "stop": 210259.05695681155,
+      "transcription": "mämänpên ti sapôpô tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 211465.20204335864,
+      "stop": 221732.40706775463,
+      "transcription": "ti sakrekkwâri kjën ho ti parinto kâkkwâri ti pari mën tijää tintee tijäri tijïn sê rä mën paa ho tijää kjën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 222140.46913489784,
+      "stop": 224624.75413207238,
+      "transcription": "pên ti sênpân tijää [ti]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 225621.3954105676,
+      "stop": 228852.73059925903,
+      "transcription": "pên ti pan ho sakrekkwââ tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 228852.73059925903,
+      "stop": 237126.89440509258,
+      "transcription": "pên jy pakwyy tijää nänpjuu tijää pëkwân ti parintee tijää ti mä tysâkjärämä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 237644.03885971144,
+      "stop": 247473.23655009622,
+      "transcription": "tintee tijäri mämänpên sôrïmöö tijäri rööjän kukarïïttä jysôrïn röö tijää jy röö",
+      "translation": "",
+      "notes": "Pëëntwê: PN: kukarïjä - sand",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 248516.26985422903,
+      "stop": 258100.92381904714,
+      "transcription": "pên nöö jyppytâti tijää mämä swankja swankja tepi hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "start": 258100.92381904714,
+      "stop": 262163.90512883937,
+      "transcription": "ti ra pê tänpâräkkwa jysuppôô tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 58,
+      "start": 262163.90512883937,
+      "stop": 266646.32598726463,
+      "transcription": "hïkôti rï ho sotijnkjêti re",
+      "translation": "",
+      "notes": "Note: hurt",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "start": 266646.32598726463,
+      "stop": 268280.193009185,
+      "transcription": "ti pênpâräkkwa pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "start": 268280.193009185,
+      "stop": 270699.54810587346,
+      "transcription": "twatün kôtannäri pê tapja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "start": 270699.54810587346,
+      "stop": 272317.35069956444,
+      "transcription": "pëkwân hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 62,
+      "start": 273362.47215212183,
+      "stop": 277873.9246880329,
+      "transcription": "mämämpên tijää horönpre mërïnkjââ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "start": 279251.0282757576,
+      "stop": 284349.8208587967,
+      "transcription": "tinto mä kjên tinto mä soti tijäri ränpjuu",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 64,
+      "start": 284349.8208587967,
+      "stop": 288488.08817754727,
+      "transcription": "tiränpjuu kâri tijää jakôpy rähä jahä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 65,
+      "start": 289076.7135627282,
+      "stop": 293132.4910354292,
+      "transcription": "(mä)märämä tiwaränka pytinsi tijää",
+      "translation": "",
+      "notes": "Note: hoharänka",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 66,
+      "start": 294320.9774429868,
+      "stop": 298302.5227156883,
+      "transcription": "ja tinkjë sokksürinkjë topjâpjâpinkjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 67,
+      "start": 298302.5227156883,
+      "stop": 304563.53987342113,
+      "transcription": "rêrakösotinpari rêraköpëënpari rapëë pa köö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 68,
+      "start": 306647.1848332764,
+      "stop": 312530.6819358059,
+      "transcription": "pên kypy sâpïri kukarï pên jyswattämöri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 69,
+      "start": 313337.27098627953,
+      "stop": 320089.89449434384,
+      "transcription": "jy mÿnpykö sâpïrakkwa tijää pëkwân mämänpên tijää sapôpô tijää sünswâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 70,
+      "start": 320421.8590348751,
+      "stop": 324585.23564623797,
+      "transcription": "timä krâ hommöri tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 71,
+      "start": 324585.23564623797,
+      "stop": 328113.2141447013,
+      "transcription": "jon pjö tijää pëkwân kâjân ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 72,
+      "start": 330242.0126138279,
+      "stop": 332744.2761536243,
+      "transcription": "mÿn py ti su sa tö tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 73,
+      "start": 332744.2761536243,
+      "stop": 338699.6656736094,
+      "transcription": "mÿn py kö më kwyy tijää hï mörï too mä tijää mämän swankja tepi hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "start": 339508.49472474284,
+      "stop": 342469.2524284582,
+      "transcription": "nën ti tö turi [kêti] (pjo) tijää tepi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 75,
+      "start": 342469.2524284582,
+      "stop": 345449.8890010036,
+      "transcription": "nën ti tö pyri [kêti] (pjo) tijää tepi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 76,
+      "start": 346252.51716536016,
+      "stop": 350999.0267414651,
+      "transcription": "sïmämä mörï tijää sïmämä sôrïmörï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 77,
+      "start": 350999.0267414651,
+      "stop": 356499.37942731247,
+      "transcription": "pên tijää möri hüwähä kypyrööjakkwan hatâti mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "start": 357595.41604486085,
+      "stop": 361766.7740138596,
+      "transcription": "mämänpên kypy mö kypy kwy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 79,
+      "start": 361766.7740138596,
+      "stop": 367026.89610958664,
+      "transcription": "pên ti tä mÿn py kö më kô soso",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 80,
+      "start": 368459.6288777239,
+      "stop": 371301.6012878237,
+      "transcription": "py, kö më sâpïrä hê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "start": 371301.6012878237,
+      "stop": 375655.24788663624,
+      "transcription": "py, kö më swattä mörä hê ti kö më inkô soso tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 82,
+      "start": 376598.9683582957,
+      "stop": 378465.90888964286,
+      "transcription": "pëkwân hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "start": 379174.0238003919,
+      "stop": 381709.37513925845,
+      "transcription": "mämänpên py sapynto sän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 84,
+      "start": 381709.37513925845,
+      "stop": 384293.9385109751,
+      "transcription": "[tä] më mÿn py kö më kwyy tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 85,
+      "start": 384293.9385109751,
+      "stop": 389311.0308543295,
+      "transcription": "inkrensi pin pëkwârïnpynsi",
+      "translation": "",
+      "notes": "Note: pin = chill walkin around with his shlong out; also given that \"\"it's that one\"\"",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 86,
+      "start": 389311.0308543295,
+      "stop": 392382.1029798525,
+      "transcription": "ja hamä ramänpynsin [ka] jahä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 87,
+      "start": 392382.1029798525,
+      "stop": 396049.9028624753,
+      "transcription": "inpy pää pjo rê mänpy pää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "start": 396049.9028624753,
+      "stop": 398157.8473866487,
+      "transcription": "mämärämä ra mänkre tün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 89,
+      "start": 399816.5396201912,
+      "stop": 404978.0554123904,
+      "transcription": "mÿn py kö më kwyy tijärï pên kypy sê py su sakrâ issê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 90,
+      "start": 407191.4419349688,
+      "stop": 412711.2111817345,
+      "transcription": "pên ti më py sünswâ tijää [mä] ti py sünswârinpe pÿn pjö tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "start": 413480.7434438456,
+      "stop": 418043.4305335463,
+      "transcription": "ta py mënpân ta pa më pïrï pïttä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 92,
+      "start": 418043.4305335463,
+      "stop": 422384.11228307796,
+      "transcription": "ja tinkjësossürïn kjë topjâpjâ pinkjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "start": 422384.11228307796,
+      "stop": 424688.71610086306,
+      "transcription": "rê sotinpari ja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 94,
+      "start": 425227.8810729057,
+      "stop": 428310.54111910117,
+      "transcription": "ja hamä rê sotinpari kjë topjâpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 95,
+      "start": 428310.54111910117,
+      "stop": 430949.9249469995,
+      "transcription": "pëë tinkjë sossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "start": 430949.9249469995,
+      "stop": 434156.2869096197,
+      "transcription": "ka mä sossürä hê hatânpjâ mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "start": 434156.2869096197,
+      "stop": 436662.9046457307,
+      "transcription": "hatörähä hatânpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 98,
+      "start": 436662.9046457307,
+      "stop": 441270.6383539185,
+      "transcription": "tinkjë järï kjë topjâpjâ pinkjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 99,
+      "start": 442162.3763111801,
+      "stop": 445028.6491709192,
+      "transcription": "rê sossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 100,
+      "start": 445721.1799675544,
+      "stop": 455852.85692826257,
+      "transcription": "mämän ka rê sossün inkjëmërârä rïn kän ran kwyn pê kän sossün inkjë tânpjâhapjâra ra ran sossüränkjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 101,
+      "start": 455852.85692826257,
+      "stop": 459918.9090493062,
+      "transcription": "mämän [ra] ra ran sossüränkjâ kjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 102,
+      "start": 460559.92261040414,
+      "stop": 463282.97351112985,
+      "transcription": "sö topjâpjâ pëë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "start": 466614.76220248576,
+      "stop": 469962.069831441,
+      "transcription": "ra ran sossürankjâ pëkwân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 104,
+      "start": 469962.069831441,
+      "stop": 473064.23058967607,
+      "transcription": "ti sossün inkjë topjâpjâ pinkjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 105,
+      "start": 473064.23058967607,
+      "stop": 475687.8370755175,
+      "transcription": "teppää ti tänpân tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 106,
+      "start": 476378.9919003107,
+      "stop": 478456.52101096546,
+      "transcription": "mämä ra kän sürï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 107,
+      "start": 478456.52101096546,
+      "stop": 486049.5073459472,
+      "transcription": "pëkwân, pëkwân topytün, pëkwân twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "start": 486803.23564100266,
+      "stop": 490682.3467945218,
+      "transcription": "ja hamä ra kän sossün inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 109,
+      "start": 492838.90137472417,
+      "stop": 500423.9456851436,
+      "transcription": "rênkwy pê sotinpara hê kjë tânpjâ hapjârân [ra]raran sossürökrïhankjân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 110,
+      "start": 500423.9456851436,
+      "stop": 501961.2769908574,
+      "transcription": "ränsoppëë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 111,
+      "start": 502863.690675074,
+      "stop": 508957.97112317145,
+      "transcription": "ra ran sossüränkjân rarapê soppëënparirö rasossünparirö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 112,
+      "start": 509646.2799642165,
+      "stop": 515235.97316621395,
+      "transcription": "ja hamä ra sossü kjë hë mära tepajïjo pëkwân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 113,
+      "start": 515953.8618724226,
+      "stop": 520906.3461812631,
+      "transcription": "pëkwân junpa, sunpa kinnö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 114,
+      "start": 521777.4843734866,
+      "stop": 526197.6169488034,
+      "transcription": "ra sossürï inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 115,
+      "start": 527342.315063076,
+      "stop": 530869.9603471309,
+      "transcription": "pëkwân sikâkâjy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "start": 531621.396036245,
+      "stop": 534201.3157215987,
+      "transcription": "ja hamä ra pê sokjün pan",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 117,
+      "start": 540965.4407540527,
+      "stop": 545268.5589081893,
+      "transcription": "pên kankjân känsottö sü inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 118,
+      "start": 545268.5589081893,
+      "stop": 548525.005664899,
+      "transcription": "jy ranswanka inkjë pëë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 119,
+      "start": 549054.045110351,
+      "stop": 551064.481227418,
+      "transcription": "ja hamä ka kän sün kitin",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 120,
+      "start": 551980.8662809725,
+      "stop": 555494.8580210016,
+      "transcription": "mämä ra kän ho möri kitin [hï]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 121,
+      "start": 557687.5637765643,
+      "stop": 562670.9462448773,
+      "transcription": "ka sotomörï kitin sokkiti ho sotanka pää ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 122,
+      "start": 566566.549317673,
+      "stop": 572307.3980598924,
+      "transcription": "sotaprëppää ka kän sossü tânpjâ ka kän sossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 123,
+      "start": 574407.092176804,
+      "stop": 580865.5470118008,
+      "transcription": "paa rê ranparamä inkjëmërân ra sossü inkjëmërân ratwatümäntwê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 124,
+      "start": 580865.5470118008,
+      "stop": 582977.8429863459,
+      "transcription": "ra kän sossü",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 125,
+      "start": 584110.9321091438,
+      "stop": 586666.7630089328,
+      "transcription": "ra kän pëjn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 126,
+      "start": 589269.1524003608,
+      "stop": 591380.4909697516,
+      "transcription": "rê sokkwajän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 127,
+      "start": 595761.8043938931,
+      "stop": 598599.7169648963,
+      "transcription": "ra sossün inkjëmërân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 128,
+      "start": 605571.6414288259,
+      "stop": 611204.7269236784,
+      "transcription": "mä ka kän sossü sokkiti ka kän sokkwajä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 129,
+      "start": 611204.7269236784,
+      "stop": 614291.8613993672,
+      "transcription": "mämän rê kän sün täjïn pëkwân nänka",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 130,
+      "start": 616056.9802005674,
+      "stop": 618377.7720189258,
+      "transcription": "tepajïjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 131,
+      "start": 620756.6968790597,
+      "stop": 627048.9845555944,
+      "transcription": "tepakriti, mämän ra kän sün inkjë hë, kiti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 132,
+      "start": 629019.9592105717,
+      "stop": 635898.8896598809,
+      "transcription": "sotinkjêppjo rê känsotiwypjän inkjë hë mämän ra kän sün inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 133,
+      "start": 637158.3510693406,
+      "stop": 642912.3569048636,
+      "transcription": "kikkakän sü inkjë hë mära pëkwân rê kän kjän inkjë hë mämän rê kän sürï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 134,
+      "start": 643514.8517943524,
+      "stop": 647596.7990520648,
+      "transcription": "pyti pyti rê sün inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 135,
+      "start": 648499.034078982,
+      "stop": 650751.9020732576,
+      "transcription": "ja ra kän sürï",
+      "translation": "",
+      "notes": "Note: Wytyn disagrees, says it should be sürïn",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 136,
+      "start": 654757.0222925586,
+      "stop": 659046.6686825549,
+      "transcription": "haa rapëë jyypjo mämän rê kän sü kiti ka mä sürï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "Kjäkânpo_Hön_20260727.json",
+    "title": "Hön",
+    "recording": {
+      "speakers": "Kjäkânpo",
+      "linguists": "Myriam Lapierre",
+      "type": "Procedural",
+      "date": "2026/07/27"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "indigenous_researcher": [
+        "Tepakriti"
+      ],
+      "date_completed": "2026/07/28"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 16912.60646916398,
+      "stop": 19231.603014922213,
+      "transcription": "haa jy surakwyjn surakwyynsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 19231.603014922213,
+      "stop": 22200.596726892876,
+      "transcription": "surakwyynsi kypy rakin sokkjânpürïnsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 22200.596726892876,
+      "stop": 23747.434782228225,
+      "transcription": "topyja hamä kypy rasânpün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 23747.434782228225,
+      "stop": 25682.432971466384,
+      "transcription": "kypa hamä krï tatjïn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 26411.471946560963,
+      "stop": 27292.462611838626,
+      "transcription": "kypa hamä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 28689.652921473105,
+      "stop": 30779.444732131753,
+      "transcription": "kypa hamä rakrï hön",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 30779.444732131753,
+      "stop": 33189.65535511679,
+      "transcription": "nën nö sêjä kêti kypa hamä krï hön",
+      "translation": "",
+      "notes": "Note: ippa pjo, sïïnko",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 33189.65535511679,
+      "stop": 34941.969907617684,
+      "transcription": "mämän rê ho pë pjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 35580.526848432724,
+      "stop": 40569.392592505064,
+      "transcription": "su rakwyynsi su rakwyy [su ra] suhoratoo [su ra] suhoratopansi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 43108.58728456954,
+      "stop": 46377.01825413838,
+      "transcription": "[nën nën] rê parinsi sê rassênsi",
+      "translation": "",
+      "notes": "Note: someone stays and waits and tyhe other will go run",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 46377.01825413838,
+      "stop": 49074.674711738684,
+      "transcription": "rê pari rê sê rassê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 49074.674711738684,
+      "stop": 51257.10627451074,
+      "transcription": "rê pari rê kin sânpün tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 54201.768221315295,
+      "stop": 59601.34858457489,
+      "transcription": "[tukâ] tukâ pää rê pari pan [pan] tukânsi rê pari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 59601.34858457489,
+      "stop": 62002.575421333895,
+      "transcription": "rê hopëë rê ho pë pjân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 62002.575421333895,
+      "stop": 65255.820004030014,
+      "transcription": "[ko] (innë) pëë pë hä rênkjäri swankjarân",
+      "translation": "",
+      "notes": "Note: ko  = kjänkrâha pëë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 65255.820004030014,
+      "stop": 69403.17246236796,
+      "transcription": "pë hä mïpari [rê mä] rêrankjäri hön mä",
+      "translation": "",
+      "notes": "Note: as though fighting against branco",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 70177.14585744884,
+      "stop": 71862.3077193026,
+      "transcription": "pë hä mïpari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 74351.27758270058,
+      "stop": 77809.42733178158,
+      "transcription": "paa, rêsokkjânpün (pjo) inkjëmërân tajïn kjon",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 78869.45342944242,
+      "stop": 81696.35362115149,
+      "transcription": "ta rênsün sitenpeharân rênsün hön",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 81696.35362115149,
+      "stop": 84478.74029226296,
+      "transcription": "sitepinpeharân rênsossün hön",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 84478.74029226296,
+      "stop": 86876.27551511339,
+      "transcription": "pë hä [rê ho] rê hoppë pjân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 88032.05503440044,
+      "stop": 91204.77020101763,
+      "transcription": "rênkjä jan rê tajïn sürïnsi kypy rappa hön",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 91204.77020101763,
+      "stop": 92465.44967301715,
+      "transcription": "kypy rapparin",
+      "translation": "",
+      "notes": "Note: matar",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 92761.86250865267,
+      "stop": 94210.99192731518,
+      "transcription": "pjasânnä pôônsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 94210.99192731518,
+      "stop": 95736.97515785009,
+      "transcription": "pjasânnä pôô tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 96219.41778949338,
+      "stop": 96933.00424565295,
+      "transcription": "mämän hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 100044.13196433352,
+      "stop": 102903.96691555766,
+      "transcription": "mära hä ranpjaa [ra] rarönkwyjn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 103469.96558082204,
+      "stop": 105122.19268316074,
+      "transcription": "pjasânnä pôônsi tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 106508.51542674519,
+      "stop": 109609.87194774642,
+      "transcription": "pên wätünkja hamä py su rakwyy tö tö suu tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 109609.87194774642,
+      "stop": 110903.4800472824,
+      "transcription": "hön tö suu tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 113116.22272797022,
+      "stop": 114955.08013422758,
+      "transcription": "py su rakwyy su rasênsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 115085.6059848169,
+      "stop": 117314.1913786691,
+      "transcription": "nën nën kêti py wajärï tö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 117951.54868954944,
+      "stop": 120553.39469123897,
+      "transcription": "hön tö rênkjân rê pypari tö tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 121598.17254397573,
+      "stop": 124694.04597806165,
+      "transcription": "ta rênsokkwajäri swankjarân tajïn hön tijää ta ippë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 124694.04597806165,
+      "stop": 126626.21853627835,
+      "transcription": "pë, pë hä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 127072.06900390622,
+      "stop": 127873.48148543928,
+      "transcription": "pë hä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 128615.98750257693,
+      "stop": 132623.0499102422,
+      "transcription": "pë hä kypy rawajän swankjarân jattä rênsokkwajärï swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 133995.9562232961,
+      "stop": 135961.0635410278,
+      "transcription": "ta rênsokkwajärä pên swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 136524.0615270163,
+      "stop": 138422.69631608037,
+      "transcription": "su ratoo pan swankjara tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 138422.69631608037,
+      "stop": 140442.07592922248,
+      "transcription": "su ratoo pa hamä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 140442.07592922248,
+      "stop": 143940.00256109904,
+      "transcription": "mära sê rassê rêsokkwajäri rê pari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 144997.17064195863,
+      "stop": 147786.78488510862,
+      "transcription": "kypy rasupjâ kypy rasanpân söpää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 147786.78488510862,
+      "stop": 149437.93336973057,
+      "transcription": "söpää kypy rasanpârï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 149855.14802018844,
+      "stop": 153376.63824348044,
+      "transcription": "kypy roo pôônsi söpää ho tärênsokkwajärï swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 153376.63824348044,
+      "stop": 156159.1971978408,
+      "transcription": "swankjarân rênsossün mära, ja, hön",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 156623.55095556963,
+      "stop": 161202.78930440225,
+      "transcription": "swankjarân kypy raparin swankjarân kypy roopan [sw] hön ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 161202.78930440225,
+      "stop": 163706.0172944532,
+      "transcription": "ja rê sossün nërakösotinpari inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 164704.37171788557,
+      "stop": 167429.21311550733,
+      "transcription": "tä tijärï tän prïtän rê rakö sotinpari inkjë hé",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 167429.21311550733,
+      "stop": 168132.43054031962,
+      "transcription": "[rêrakö]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 168132.43054031962,
+      "stop": 169789.51218842305,
+      "transcription": "rê raköstoinpari ho kri inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 169789.51218842305,
+      "stop": 171477.82312925172,
+      "transcription": "rê sossürïnsi sitepinpeharân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 171749.88660678515,
+      "stop": 173427.67360079385,
+      "transcription": "swankjarân, swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 173427.67360079385,
+      "stop": 177611.57571662948,
+      "transcription": "ja rênsossürïnsi ja [rênso] [rênkjësokja] rênkjësossün kjë mä ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 177611.57571662948,
+      "stop": 178821.21775968955,
+      "transcription": "rênkjësokkjarën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 178821.21775968955,
+      "stop": 181580.74120941322,
+      "transcription": "rê rakönpari [ja hë] ja rêsokkwajärï topytümärân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 181720.41495368292,
+      "stop": 182656.25262069434,
+      "transcription": "kanpari?",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "Kreenpy_kwatoti_20260721.json",
+    "title": "Kwatoti",
+    "recording": {
+      "speakers": "Kreenpy",
+      "linguists": ["Myriam Lapierre"],
+      "Indigenous researcher": ["Tepakriti"],
+      "type": "Intergenerational",
+      "date": "2026/07/21"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "indigenous_researcher": [
+        "Jösï"
+      ],
+      "date_completed": "2026/08/??"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 28654.436434817235,
+      "stop": 30322.07851916849,
+      "transcription": "kjë hë kaa sün",
+      "translation": "",
+      "notes": "Note: how confident are we about V length on ka",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 31738.107865183585,
+      "stop": 32846.105580257165,
+      "transcription": "kjë hë kaa sün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 33230.16574396137,
+      "stop": 34226.24956098331,
+      "transcription": "ja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 35596.47938126469,
+      "stop": 37063.43918451518,
+      "transcription": "ja rê sün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 37063.43918451518,
+      "stop": 40154.714964375125,
+      "transcription": "mämän köö ka mä sün inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 41020.20480694884,
+      "stop": 43067.36434831268,
+      "transcription": "kwatoti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 44096.17162563672,
+      "stop": 46844.304083887786,
+      "transcription": "pimmä sün insipjâ mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 47704.5890273403,
+      "stop": 48150.66270172308,
+      "transcription": "\"\"py\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 49298.51165530178,
+      "stop": 52127.6213643089,
+      "transcription": "mï sânpün nänpen, wühähä ho sä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 52625.6813642854,
+      "stop": 55933.13540776811,
+      "transcription": "têê hamä, hï têê hamä pâri têê hamä  ho sä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 55933.13540776811,
+      "stop": 58178.77191483248,
+      "transcription": "kati mï sö pô kati mÿn po pakwy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 58599.34571251646,
+      "stop": 63707.606987298284,
+      "transcription": "\"\"hïn, sa, näpjâ jy köräkwyy inkjë nänpen suu\"\" tijää\t",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 63707.606987298284,
+      "stop": 67943.35136713646,
+      "transcription": "\"\"hê, jan kati py më wapôô\"\" timäjää tijää näpjâ hë",
+      "translation": "",
+      "notes": "Note: nänpen ho",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 68276.80349015517,
+      "stop": 71450.82000766168,
+      "transcription": "\"\"hê më rakwyy, hê\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 73337.66115048916,
+      "stop": 76143.67575292244,
+      "transcription": "mämänpên jy hokwyy inpinpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 77032.17937246968,
+      "stop": 82635.34357013667,
+      "transcription": "su ho kwyy jy su hopôô tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 82635.34357013667,
+      "stop": 87824.32215659136,
+      "transcription": "\"\"ja hamä\"\" \"\"ha ja hamä?\"\" \"\"haa, ja hamä ho sä\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 87824.32215659136,
+      "stop": 89881.90135507422,
+      "transcription": "jan ka mä syrin",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 89881.90135507422,
+      "stop": 93791.62336840332,
+      "transcription": "\"\"hê, ty kati mä tö sy\"\"",
+      "translation": "",
+      "notes": "Note: ty - pôssô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 93791.62336840332,
+      "stop": 95400.62626762385,
+      "transcription": "\"\"hïn\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 95400.62626762385,
+      "stop": 99188.30826415546,
+      "transcription": "ti mä sakjên",
+      "translation": "",
+      "notes": "Note: cut tree to get honey",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 99188.30826415546,
+      "stop": 102060.78638037824,
+      "transcription": "ti sapassyri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 104062.52030382585,
+      "stop": 105648.69420699414,
+      "transcription": "jy hommörï tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 105648.69420699414,
+      "stop": 109174.6856237353,
+      "transcription": "jattä kati pê hakwy jattä kati pê hatë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 109174.6856237353,
+      "stop": 109820.0587748391,
+      "transcription": "\"\"hïn\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 111399.52464464575,
+      "stop": 112408.8300238156,
+      "transcription": "mämänpên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 113592.82287245715,
+      "stop": 116684.4217687075,
+      "transcription": "jy pê kwyy tijää jy pê tën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 116684.4217687075,
+      "stop": 119557.89021879031,
+      "transcription": "hommörï jy ho tën tijään",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 119907.69405290534,
+      "stop": 121467.98930107692,
+      "transcription": "jy ho tën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 122746.63813435045,
+      "stop": 124661.40356382866,
+      "transcription": "jy su ho kwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 124661.40356382866,
+      "stop": 126873.16744679447,
+      "transcription": "\"\"ha sapôssôrämä horö?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 126873.16744679447,
+      "stop": 128809.0405538924,
+      "transcription": "\"\"paa, sapôssôrämä jy ho tën\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 130736.4281903358,
+      "stop": 132864.72846131676,
+      "transcription": "\"\"sa ränpôrïn\"\"",
+      "translation": "",
+      "notes": "Note: syrin",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 132864.72846131676,
+      "stop": 133562.90103698248,
+      "transcription": "\"\"hïn\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 134389.56844189746,
+      "stop": 135785.91359322888,
+      "transcription": "tinpôri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 136178.12553046306,
+      "stop": 137135.29761000478,
+      "transcription": "pykjäpôha",
+      "translation": "",
+      "notes": "Note: nänpen issi",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 138003.2650245445,
+      "stop": 141077.47652707258,
+      "transcription": "\"\"pjän nänpen?\"\" \"\"pykjäpôha\"\" \"\"hê\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 142047.67369251858,
+      "stop": 144052.10463555885,
+      "transcription": "tinpôri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 145766.49160668658,
+      "stop": 147461.24922987513,
+      "transcription": "ti mä kâkwâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 148341.3903122978,
+      "stop": 151201.64570292828,
+      "transcription": "ti mä kâkwâri, \"\"sa kän sän\"\" tijää",
+      "translation": "",
+      "notes": "Note: kän = inpinpjâ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 151292.2038927837,
+      "stop": 152485.85378021217,
+      "transcription": "insipjâ pôssô ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 153113.56930357794,
+      "stop": 155973.82469420848,
+      "transcription": "nänsi ka kukre kâ ka mä suty",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 156482.35779280902,
+      "stop": 159950.69897514835,
+      "transcription": "\"\"hê, jahä ka mä saswâri\"\" timäjää tijää insipjâ hë",
+      "translation": "",
+      "notes": "Note: put the banana leaves on the ground to make a mattress",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 161034.44814136229,
+      "stop": 163742.68208406557,
+      "transcription": "pên tinpôri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 164777.6873515948,
+      "stop": 168705.79338442205,
+      "transcription": "ti py mä tä wajän ti mä swakre pää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 169791.77579812042,
+      "stop": 171604.79532181978,
+      "transcription": "ti mä swakrensi pjo tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 172417.00586249624,
+      "stop": 174539.30518729723,
+      "transcription": "jy kö mä sâpên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 174539.30518729723,
+      "stop": 178938.53665289754,
+      "transcription": "ti kjari tijää inpinpjâ hë, ti kjari kö mä sâpên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 180386.64479571444,
+      "stop": 183233.0973024143,
+      "transcription": "\"\"haa, surasâ ti hï ka hë\"\"",
+      "translation": "",
+      "notes": "Note: insipjâ tirakô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 183233.0973024143,
+      "stop": 185539.73414217838,
+      "transcription": "ka sisêha papää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 185539.73414217838,
+      "stop": 188879.7126353138,
+      "transcription": "\"\"hïn\"\" tijää ti pê swanka pjo tijää, \"\"hïn\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 188879.7126353138,
+      "stop": 192595.38435342308,
+      "transcription": "\"\"kjë kaa kö sâ pên kjë hë ka ho pôjn\"\" \"\"hê\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 193668.23472759253,
+      "stop": 197920.49026507957,
+      "transcription": "jy kö sâ pên tijää insipjâ jy kö sâ pên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 198955.5604027793,
+      "stop": 203238.71373690505,
+      "transcription": "jy kö sâ pên, ti py pê sê watoo tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 204627.83751226874,
+      "stop": 207560.23898630633,
+      "transcription": "\"\"ha jy ha su pôô pa suu?\"\" \"\"haa\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 207560.23898630633,
+      "stop": 212094.25550281652,
+      "transcription": "\"\"hüwähä kre pää mämännï jy ra kjaritakkwa\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "start": 212562.51007236776,
+      "stop": 215261.45165461855,
+      "transcription": "ka pariti tapja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 58,
+      "start": 216022.23707304188,
+      "stop": 219458.8979930184,
+      "transcription": "\"\"py kö jy pê nä py kö sâpêrä pôn\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "start": 219821.27921047725,
+      "stop": 221706.04942951005,
+      "transcription": "jy py kö pammöri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "start": 221706.04942951005,
+      "stop": 225691.4289411745,
+      "transcription": "jy py kö pa sââ jy tün sêsââ pytinsi tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "start": 226943.74812533052,
+      "stop": 230741.28020031247,
+      "transcription": "pên ti mÿn kupyri tijää nänpen sê",
+      "translation": "",
+      "notes": "Note: nänpen sê = honeycomb",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 62,
+      "start": 230741.28020031247,
+      "stop": 234143.69778222105,
+      "transcription": "ti kupyri ti mÿn ho wajä rankjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "start": 234513.16022421396,
+      "stop": 236757.8909161452,
+      "transcription": "kati mÿn su pêri hän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 64,
+      "start": 237578.3928083796,
+      "stop": 241236.4724544898,
+      "transcription": "ti wajä rankjâ ti jï krâränkjâ tijää mämän hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 65,
+      "start": 241855.49686155358,
+      "stop": 243985.84612641277,
+      "transcription": "insipjâ ti jï krâränkjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 66,
+      "start": 243985.84612641277,
+      "stop": 247859.96985083545,
+      "transcription": "pên ti tâti tijää pârikresi pää hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 67,
+      "start": 249015.1749411733,
+      "stop": 250435.13984997995,
+      "transcription": "pên titi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 68,
+      "start": 250435.13984997995,
+      "stop": 252577.31056331095,
+      "transcription": "ti jï krâränkjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 69,
+      "start": 253487.0536179976,
+      "stop": 257299.9223546081,
+      "transcription": "rappa tojahênpe jy rapariti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 70,
+      "start": 258238.448994777,
+      "stop": 259030.3432994407,
+      "transcription": "\"\"mä\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 71,
+      "start": 261048.91347089267,
+      "stop": 266450.8067000458,
+      "transcription": "ka py kän tä mä sakjä hä ka py kän mä kâ kwâri tikjari tijää inpinpjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 72,
+      "start": 266903.08400952525,
+      "stop": 269836.3155667866,
+      "transcription": "\"\"hê ratä sakjêräpô\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 73,
+      "start": 269836.3155667866,
+      "stop": 272899.6625533331,
+      "transcription": "\"\"jy rapa kââ pjo\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "start": 272899.6625533331,
+      "stop": 276195.0566893424,
+      "transcription": "ti mÿn jï krâränkjâ tijää nën hatoo kêti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 75,
+      "start": 276195.0566893424,
+      "stop": 279095.36325574573,
+      "transcription": "tijää, ti mä sakjên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 76,
+      "start": 279095.36325574573,
+      "stop": 286011.26986180915,
+      "transcription": "ti mä sakjên ja hamä ti summën tijää ti pa kjäsyri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 77,
+      "start": 286665.28473575343,
+      "stop": 288702.5576684199,
+      "transcription": "ti su sarïn tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "start": 289833.5804872669,
+      "stop": 296382.5244555851,
+      "transcription": "ti kjäsyri tijäri, pa to ränsêri tijää ja \"\"kaa!\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 79,
+      "start": 296548.33572747395,
+      "stop": 298716.56717644416,
+      "transcription": "\"\"wâ!\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 80,
+      "start": 300757.4254330281,
+      "stop": 302980.96890875767,
+      "transcription": "\"\"aa! juttä?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "start": 303666.77582823887,
+      "stop": 306543.00121973,
+      "transcription": "\"\"juttä kaa hon kjënsipjâ\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 82,
+      "start": 306752.5793679481,
+      "stop": 308923.4706220802,
+      "transcription": "ka täröwan [män] mämänpên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "start": 310043.2850474725,
+      "stop": 312636.63486401504,
+      "transcription": "ti tä röwan ti tä pïï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 84,
+      "start": 313039.2880573552,
+      "stop": 317106.1320878424,
+      "transcription": "ti pïri pa kjäsyri hä nöjän ti tä pïri",
+      "translation": "",
+      "notes": "Note: nöjän - left to die",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 85,
+      "start": 318189.9241154426,
+      "stop": 320133.2272081786,
+      "transcription": "pên tippjâri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 86,
+      "start": 320133.2272081786,
+      "stop": 325762.3449019843,
+      "transcription": "tippjâri, \"\"hüwähä sän\"\" tijää, \"\"pa nänpên kre hamä sän\"\" tijää, \"\"pa\"\"",
+      "translation": "",
+      "notes": "Note: inpinpjâ hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 87,
+      "start": 326621.95683703065,
+      "stop": 328241.96256984427,
+      "transcription": "tippjâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "start": 329036.6823633,
+      "stop": 330748.38653381995,
+      "transcription": "tisïrï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 89,
+      "start": 331779.8628685984,
+      "stop": 334301.56990552513,
+      "transcription": "jy sê ton nïn",
+      "translation": "",
+      "notes": "Note: ton - make fire (with jââ (rubbing stick))",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 90,
+      "start": 335444.8683947191,
+      "stop": 337902.7413791457,
+      "transcription": "sê ton nïn pâtiti hahê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "start": 338687.8760313138,
+      "stop": 340569.6995915204,
+      "transcription": "paa jamä karan saswâ",
+      "translation": "",
+      "notes": "Note: paa = grill, paa jamä = on the grill",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 92,
+      "start": 341101.27454530314,
+      "stop": 343990.7412175353,
+      "transcription": "ka ho sârin ka ho pôjn tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "start": 344726.88835223275,
+      "stop": 349865.20091024373,
+      "transcription": "ti mä too ti mä kjââ tijää pï ti mä too",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 94,
+      "start": 349865.20091024373,
+      "stop": 351821.70800967095,
+      "transcription": "ti mä paa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 95,
+      "start": 351821.70800967095,
+      "stop": 354667.6172316799,
+      "transcription": "ti sê hakjâri tijää insipjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "start": 355672.0181446827,
+      "stop": 358963.57225728885,
+      "transcription": "ti sê hakjââ, ti sê mänpe",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "start": 358963.57225728885,
+      "stop": 361066.43016990175,
+      "transcription": "hï te tinnën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 98,
+      "start": 361066.43016990175,
+      "stop": 364390.11634907295,
+      "transcription": "pa tinnën, kjä timmën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 99,
+      "start": 365408.1507055981,
+      "stop": 368468.3173411061,
+      "transcription": "su kjê hï krâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 100,
+      "start": 368468.3173411061,
+      "stop": 373241.1992173544,
+      "transcription": "ja tinsün kwâsi, tinsün tijää",
+      "translation": "",
+      "notes": "Note: tinsün = assado",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 101,
+      "start": 373241.1992173544,
+      "stop": 376533.37145111384,
+      "transcription": "pên ti sê mänpe tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 102,
+      "start": 376533.37145111384,
+      "stop": 380027.44231105945,
+      "transcription": "ti mänpe ti saswâri tijää paa jamä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "start": 380627.57511813665,
+      "stop": 384796.6473290796,
+      "transcription": "ti saswâri torërë",
+      "translation": "",
+      "notes": "Note: flip over meat to grill both sides = torërë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 104,
+      "start": 385590.80214294675,
+      "stop": 389088.38695197395,
+      "transcription": "ti wajää tijää kwatoti hë, insipjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 105,
+      "start": 390612.6201562893,
+      "stop": 394127.44906161574,
+      "transcription": "ti wajärï to sâri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 106,
+      "start": 394127.44906161574,
+      "stop": 397456.3320714581,
+      "transcription": "to sâri ti sê pari tijää ti sa pu hahê",
+      "translation": "",
+      "notes": "Note: but the body in the banana leaf",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 107,
+      "start": 398670.31805476657,
+      "stop": 404481.705926094,
+      "transcription": "ti sê pari ti röpu pjöpjö ho ta syri ti sê sa swâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "start": 405584.772346171,
+      "stop": 408637.8031710028,
+      "transcription": "tijïn mä suty tijïn mä räpe",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 109,
+      "start": 409372.0180879811,
+      "stop": 412086.6618792516,
+      "transcription": "tinkjân tijää, pyttenpê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 110,
+      "start": 412785.6235009942,
+      "stop": 414377.1093267161,
+      "transcription": "tinkjân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 111,
+      "start": 415362.7359925179,
+      "stop": 416485.8939580665,
+      "transcription": "ti mänpe",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 112,
+      "start": 417131.70630595053,
+      "stop": 420016.27436507156,
+      "transcription": "ti turi tijää ti turi ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 113,
+      "start": 420426.0838910151,
+      "stop": 424396.7110308763,
+      "transcription": "jy ho kwyy, ho kwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 114,
+      "start": 425212.3807116393,
+      "stop": 429237.8291335105,
+      "transcription": "hü! jy hoppôô tijää, pyttenpê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 115,
+      "start": 430354.99416093,
+      "stop": 432030.9590680904,
+      "transcription": "jy hoppôô ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "start": 433065.3866923301,
+      "stop": 437537.23698199634,
+      "transcription": "ti turi tijää ti mä tuu tijää näpjâ syypjâ tö hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 117,
+      "start": 438501.7073175628,
+      "stop": 441203.61335948016,
+      "transcription": "näpjâ mä jy su ho kwyy timä sari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 118,
+      "start": 442095.8100750103,
+      "stop": 448535.77493741526,
+      "transcription": "juri krii kjë syypjâ? ju raakö kwyyjamä krii ti sa py sakkjâramä krii",
+      "translation": "",
+      "notes": "Note: not sure who says what",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 119,
+      "start": 449498.9667163127,
+      "stop": 456376.47764486837,
+      "transcription": "tijää näpjâ hë \"\"juri kjë jö pää?\"\" tijää, \"\"juri kwyy?\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 120,
+      "start": 456734.3032153489,
+      "stop": 458993.67144003307,
+      "transcription": "\"\"ha jy pyppôô rö hä?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 121,
+      "start": 459497.82798603695,
+      "stop": 461327.7295233844,
+      "transcription": "\"\"ha jy pyppôô rö swasïrä?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 122,
+      "start": 461788.9670133529,
+      "stop": 463657.0059492716,
+      "transcription": "köö pê ratën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 123,
+      "start": 463802.60604605085,
+      "stop": 467399.5746354262,
+      "transcription": "rênsô rinteri mün intiti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 124,
+      "start": 467399.5746354262,
+      "stop": 473391.0959466783,
+      "transcription": "immün rênsô rinteri mära \"\"py mä ra kâjân kjâ\"\"",
+      "translation": "",
+      "notes": "Note: inpinpjâ hë tiraakjâri",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 125,
+      "start": 473953.9669748491,
+      "stop": 478027.8816755229,
+      "transcription": "kâja ja kêti mära hä juttä nö kwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 126,
+      "start": 478027.8816755229,
+      "stop": 480000.3455164116,
+      "transcription": "mära kâjankjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 127,
+      "start": 480204.8890833457,
+      "stop": 486285.36274306325,
+      "transcription": "kypy rêpy hasuttoo, kjôn, mämärämä mörämä sa py rantoo mä pô hakkwa, ra ritankjâ",
+      "translation": "",
+      "notes": "Note: raritankjâ = wait, looking around the village (eyes)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 128,
+      "start": 486693.901832414,
+      "stop": 488559.3629962744,
+      "transcription": "mÿn tä räsukwyy japê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 129,
+      "start": 489739.4028477587,
+      "stop": 491322.13196077547,
+      "transcription": "sapyraritankjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 130,
+      "start": 492043.3737991444,
+      "stop": 494261.72692394874,
+      "transcription": "hüwähä rênsên teri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 131,
+      "start": 495461.96963941056,
+      "stop": 500536.8322673875,
+      "transcription": "mämärämä rê pjy hamä wajärï inkjë hë pâtiti, pâtiti köö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 132,
+      "start": 500536.8322673875,
+      "stop": 509644.5220197914,
+      "transcription": "pê kö ratën jân rênsôrïn teri \"\"ja hamä kypy juttä kwyjn?\"\", \"\"märahä\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 133,
+      "start": 509644.5220197914,
+      "stop": 513978.6604765352,
+      "transcription": "\"\"juttä kwyy ra kââ pankjâ? juttä ra jönkreerö\"\"",
+      "translation": "",
+      "notes": "Note: throat sore from calling out",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 134,
+      "start": 514631.6794946794,
+      "stop": 517575.72794263944,
+      "transcription": "pâtiti köö pê ratën jân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 135,
+      "start": 517575.72794263944,
+      "stop": 519797.48033272993,
+      "transcription": "kypy py pôô, inkjon",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 136,
+      "start": 520599.2275948157,
+      "stop": 524512.2489568663,
+      "transcription": "timäjää tijää sökrippjâ hë, sökrippjâ inkjên mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 137,
+      "start": 524512.2489568663,
+      "stop": 525846.0997732427,
+      "transcription": "ti mä sün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 138,
+      "start": 526990.1604493436,
+      "stop": 530549.1554913869,
+      "transcription": "inkwyy tijää näpjâ, inkwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 139,
+      "start": 530847.1348541367,
+      "stop": 534832.5447755065,
+      "transcription": "tippôn tijää, mämän, ti rappôn",
+      "translation": "",
+      "notes": "Note: tied her up in the pôssô (pôn)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 140,
+      "start": 534832.5447755065,
+      "stop": 537467.2995929559,
+      "transcription": "ti ran sakre tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 141,
+      "start": 538359.8926886194,
+      "stop": 541619.6514866449,
+      "transcription": "pâtiti ti ran sakre",
+      "translation": "",
+      "notes": "Note: divide the body (sakre) for syypjâhapjâran",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 142,
+      "start": 542435.2816593412,
+      "stop": 545780.6783513807,
+      "transcription": "ti kukrëë tijää näpjâ hë, kiti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 143,
+      "start": 546230.4553728079,
+      "stop": 549186.4408096896,
+      "transcription": "kiti ti kukrëë tijää näpjâ më sünpjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 144,
+      "start": 549357.5116196147,
+      "stop": 551649.7278715677,
+      "transcription": "kwârân rê sânpün kâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 145,
+      "start": 552353.1948156628,
+      "stop": 557388.9903653205,
+      "transcription": "pan hïkâ hamä rê sânpün ti ho rakrï tijärï, rê kuri pjo tijää kwârân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 146,
+      "start": 557933.5277386887,
+      "stop": 558844.8196758076,
+      "transcription": "ja hamä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 147,
+      "start": 558844.8196758076,
+      "stop": 562804.2494835203,
+      "transcription": "näpjâ më sünpjâ hë ti më kukrëë tijää kwârân rê kuri tijää",
+      "translation": "",
+      "notes": "Note: some ate and some didn't",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 148,
+      "start": 563375.0545684316,
+      "stop": 564274.2883003205,
+      "transcription": "ja hamä",
+      "translation": "",
+      "notes": "Note: in this [plate or whatever] where the body is",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 149,
+      "start": 564274.2883003205,
+      "stop": 568714.1043083901,
+      "transcription": "\"\"py, sa, py wühähä kati mä pa kââ kwy\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 150,
+      "start": 568714.1043083901,
+      "stop": 572942.63699522,
+      "transcription": "kati sa pa kââ pan issy kati më tö py",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 151,
+      "start": 573519.4215508659,
+      "stop": 581356.7573696146,
+      "transcription": "timäjää tijää syypjâ tö pên sa py kwyy tijää mëmë kââ kwyjankjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 152,
+      "start": 581356.7573696146,
+      "stop": 585646.0171865808,
+      "transcription": "jy mä më kââ pytira tijää sö haprëpi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 153,
+      "start": 586802.7174679574,
+      "stop": 591227.952152454,
+      "transcription": "sö haprëpi kypy swakkjara jy mä më kââ tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 154,
+      "start": 591227.952152454,
+      "stop": 597655.6214004165,
+      "transcription": "\"\"juri ka hakwyy mÿn py hakwyy kjâ\"\" timëjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 155,
+      "start": 597655.6214004165,
+      "stop": 602032.884004662,
+      "transcription": "jy mä kââ tijää näpjâ mä \"\"hôô!\"\" tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 156,
+      "start": 605011.7189024715,
+      "stop": 608862.2263638477,
+      "transcription": "më rakwyy tijäri haprëpi hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 157,
+      "start": 608975.530001865,
+      "stop": 613199.0027042085,
+      "transcription": "jankjâ ti mä më sün tijää nën wätün py mämë tö kââ pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 158,
+      "start": 613961.4426352711,
+      "stop": 622928.4350368446,
+      "transcription": "tä më tö kââ rö mämänpên mä më kââ paankjâ jy tä më jöteri inkjâ, jy py mënkwyy kwyy tijää",
+      "translation": "",
+      "notes": "Note: just walking (paankjâ); jöteri = post krekjä till midnight ish",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 159,
+      "start": 623751.9919585303,
+      "stop": 627513.3583752697,
+      "transcription": "mënkwyy sünpjâ më näpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 160,
+      "start": 628215.2237509931,
+      "stop": 630077.6478990874,
+      "transcription": "jy py mëppôô tijää ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 161,
+      "start": 630643.0711333929,
+      "stop": 634253.403318288,
+      "transcription": "pên sê jïï mämänpên jy kââ tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 162,
+      "start": 635114.2295999572,
+      "stop": 641034.6760693786,
+      "transcription": "kjy hä sê ju jï re issy mä \"\"ju kôppa pjyn inkôttä raswâra hê?\"\"",
+      "translation": "",
+      "notes": "Note: kwatoti, krippjâ tisakkjâri",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 163,
+      "start": 641417.7591233692,
+      "stop": 643250.1987177643,
+      "transcription": "jy ränkjo watoo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 164,
+      "start": 643250.1987177643,
+      "stop": 645068.5619938709,
+      "transcription": "tijää tijää, kwatoti hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 165,
+      "start": 645816.392181364,
+      "stop": 653137.7119389357,
+      "transcription": "ja kôpy hë, mä hÿhë rö ka mämän...mämän sa pôssô ja kôpa rappan",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 166,
+      "start": 653137.7119389357,
+      "stop": 655496.4045626973,
+      "transcription": "\"\"hïn, sê swâri re\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 167,
+      "start": 655734.38454744,
+      "stop": 659525.4685950945,
+      "transcription": "jy rankjo watoo ka tijää kwatoti hë",
+      "translation": "",
+      "notes": "Note: ka similar to ta here",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 168,
+      "start": 660016.04375448,
+      "stop": 661539.3789817573,
+      "transcription": "pên jy kwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 169,
+      "start": 661539.3789817573,
+      "stop": 664531.0757120166,
+      "transcription": "kwyy kwatoti inkôttä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 170,
+      "start": 666044.0002433446,
+      "stop": 668812.7649469769,
+      "transcription": "ti têpi më pÿn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 171,
+      "start": 670037.5498669727,
+      "stop": 672970.9994600405,
+      "transcription": "jy kââ kwyy kwatoti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 172,
+      "start": 674423.8335044453,
+      "stop": 681911.8495709604,
+      "transcription": "ti syypjâ krëë [kâjanka] rêmäjari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 173,
+      "start": 681911.8495709604,
+      "stop": 687417.0294784581,
+      "transcription": "mämän tänta tippïrï \"\"ha karê kuri?\"\"",
+      "translation": "",
+      "notes": "Note: kwatoti krippjâ hë timä sakkjâri",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 174,
+      "start": 687417.0294784581,
+      "stop": 692943.507968845,
+      "transcription": "rê kuri inkjëmërân hë krï inkjëmërankjö",
+      "translation": "",
+      "notes": "Note: inkjëmërankjö = kjëmëran jö",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 175,
+      "start": 692943.507968845,
+      "stop": 698764.2403628118,
+      "transcription": "kâpäpää ka ti röwan hä rêmäjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 176,
+      "start": 698764.2403628118,
+      "stop": 702480.6017676431,
+      "transcription": "jynpjö tijää kwatoti tâti jy krï tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 177,
+      "start": 702990.1462605883,
+      "stop": 706126.3673420108,
+      "transcription": "kââ krï tijää mämän kââ krï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 178,
+      "start": 706203.7044988303,
+      "stop": 708635.3784410086,
+      "transcription": "rôrôrôrôrôrô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 179,
+      "start": 709033.7883164936,
+      "stop": 711152.6743242011,
+      "transcription": "jahä inkwyy tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 180,
+      "start": 711152.6743242011,
+      "stop": 717262.0434841784,
+      "transcription": "tä inkwyy tijää insipjâ hä, näpjâ hä, ïnsünpjâ hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 181,
+      "start": 717942.0368912726,
+      "stop": 720007.1130692203,
+      "transcription": "ka köö më santori",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 182,
+      "start": 720259.9923007361,
+      "stop": 725725.3947154649,
+      "transcription": "\"\"pjärähê ka köö më jahä sïjankjâ ka rê röwannö kwatoti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 183,
+      "start": 726104.9615091295,
+      "stop": 729525.2554514079,
+      "transcription": "mämärämä sökkrë intokoti ka kwatoti",
+      "translation": "",
+      "notes": "Note: sökkrëntokoti = sternum; speaking to frog",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 184,
+      "start": 730593.0964469587,
+      "stop": 733295.3542360289,
+      "transcription": "\"\"pjärähê kööpjâ pytinsi?\"\"",
+      "translation": "",
+      "notes": "Note: PN: tikaapjâ, kanpannö, nänka, hasââ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 185,
+      "start": 733850.462749945,
+      "stop": 735237.0874710854,
+      "transcription": "rêmäjää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 186,
+      "start": 735386.1960812649,
+      "stop": 739604.7633545753,
+      "transcription": "raasâ, rankwyy, nä rê wajärï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 187,
+      "start": 740586.5183559525,
+      "stop": 743932.0256196561,
+      "transcription": "nä rê wajärï kwatoti. ja rê sün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 188,
+      "start": 743932.0256196561,
+      "stop": 747375.9514247247,
+      "transcription": "ja katirên tün nänsossün",
+      "translation": "",
+      "notes": "Note: you'll tell this story in the future",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 189,
+      "start": 747375.9514247247,
+      "stop": 751457.1874394515,
+      "transcription": "rê ha tânpjâ mä rê kö päänpy mä",
+      "translation": "",
+      "notes": "Note: kö = ka jö",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 190,
+      "start": 752109.5414985941,
+      "stop": 756169.6707328302,
+      "transcription": "syypjâ mä rê wätün sotinpara hê swan",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 191,
+      "start": 756445.1611966353,
+      "stop": 759630.8845363626,
+      "transcription": "katirê rankjä mämän ra rêkän sêsossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 192,
+      "start": 759919.1353122435,
+      "stop": 762020.9028891311,
+      "transcription": "rê ran sün inkjëmëran ja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 193,
+      "start": 762773.3875771526,
+      "stop": 763984.2824774169,
+      "transcription": "ja rê sün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "Kakkrêê_kôkjatakriti_20260714.json",
+    "title": "Kôkjatakriti",
+    "recording": {
+      "speakers": "Kakkrêê",
+      "linguists": ["Myriam Lapierre"],
+      "Indigenous researcher": ["Tepakriti"],
+      "type": "Intergenerational",
+      "date": "2026/07/14"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "indigenous_researcher": [
+        "Patën"
+      ],
+      "date_completed": "2026/07/17"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 33297.401388936654,
+      "stop": 38262.19150140594,
+      "transcription": "kôkjatakriti rê ho jôti surakwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 38529.42721684952,
+      "stop": 40231.81770041598,
+      "transcription": "rê su târi mä",
+      "translation": "",
+      "notes": "Note: distance b/w",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 40600.51224112779,
+      "stop": 45262.33560090703,
+      "transcription": "kjë kapja sê turi kjënkô hahê rêjää [--] rê jïsotijïkô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 45424.029270260486,
+      "stop": 46687.23767811677,
+      "transcription": "tö hë tö hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 46687.23767811677,
+      "stop": 48874.08009148466,
+      "transcription": "tö hë [ti] rê ho pïräsârankjâ rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 49551.12312954739,
+      "stop": 50664.32472825099,
+      "transcription": "kôkjatakriti ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 51054.18325108643,
+      "stop": 53019.442735373326,
+      "transcription": "nën kôkjati rêmärö sênkjôn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 53787.52327587482,
+      "stop": 54660.2177632723,
+      "transcription": "rênhojôti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 55400.63637652581,
+      "stop": 56308.022097549234,
+      "transcription": "rê sê ho jôti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 56449.01735607818,
+      "stop": 58404.72301422967,
+      "transcription": "tirapari inkôkô pên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 58404.72301422967,
+      "stop": 62230.35685476702,
+      "transcription": "\"\"hü ha ti ra tönteri kôkjatakriti?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 62230.35685476702,
+      "stop": 66066.3633578536,
+      "transcription": "ti päpää ra pïri kwâra [jyra] jyrappôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 66066.3633578536,
+      "stop": 67981.05444014701,
+      "transcription": "kwâra jyrappôô re",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 68387.20200613202,
+      "stop": 69144.12213404546,
+      "transcription": "tijäri sê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 70003.73663531558,
+      "stop": 73421.99053164264,
+      "transcription": "pjärähê [ti rên]  ti rêjä sê soto jôôti kôkjatinkjôn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 73431.12673343284,
+      "stop": 76200.07896384757,
+      "transcription": "toori hä ti kypa wasswyrä mänpe rêjï ippë hë",
+      "translation": "",
+      "notes": "Note: short jïï sit",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 76547.51527020056,
+      "stop": 78496.85392650226,
+      "transcription": "ti rê sânpünnö tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 78956.18030669139,
+      "stop": 80449.91068839883,
+      "transcription": "ti kypa wasswyn tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 80799.11978291688,
+      "stop": 82125.73367812698,
+      "transcription": "kypamänpjaa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 82532.85923844007,
+      "stop": 84702.46069744193,
+      "transcription": "inpjaa tijää kôkjatakriti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 86415.0376256995,
+      "stop": 88612.1387695535,
+      "transcription": "ja ti sürïnsï näpjâpjâ pinkjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 88685.55351646776,
+      "stop": 90030.04164874251,
+      "transcription": "pjarähê tijïnkjêti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 90424.72651212418,
+      "stop": 91630.49235408995,
+      "transcription": "nën sï kêti",
+      "translation": "",
+      "notes": "Note: Pakre wy hamä rapëë misturado kjänkrâha pëë panära pëë köö",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 91630.49235408995,
+      "stop": 92143.02044031663,
+      "transcription": "sï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 92283.65750410948,
+      "stop": 94219.14009731395,
+      "transcription": "sïï kôkjatakriti ippë hë tijää",
+      "translation": "",
+      "notes": "Note: maybe has py or ti at beginning",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 95193.92065975045,
+      "stop": 96064.90442474803,
+      "transcription": "sïï rösê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 97925.1164912547,
+      "stop": 98789.86503008517,
+      "transcription": "ippë tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 99996.37829381191,
+      "stop": 102716.8304538083,
+      "transcription": "mämän hë ti raasâri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 103057.22918172281,
+      "stop": 105916.24091931432,
+      "transcription": "ja tisossürïnsï rêsotanpari inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 110058.64678564388,
+      "stop": 112086.91288766525,
+      "transcription": "japjâra ti sossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "Paakjê_Pâtiti-më-jopy_20240906.json",
+    "title": "Pâtiti më jopy",
+    "recording": {
+      "speakers": "Paakjê",
+      "linguists": ["Myriam Lapierre", "Sunkulp Ananthanarayan", "Jessamine Jeter"],
+      "Indigenous researcher": ["Tepakriti"],
+      "type": "Intergenerational",
+      "date": "2024/09/06"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "indigenous_researcher": [
+        "?Need to listen to session recordings"
+      ],
+      "date_completed": "2026/07/21?"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 60003.49487306305,
+      "stop": 63743.57569118965,
+      "transcription": "haa. tijää tijää swankjarân rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 64507.99540250244,
+      "stop": 67404.99622216001,
+      "transcription": "topytümärân rê sossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 68900.83488158399,
+      "stop": 70934.42896149172,
+      "transcription": "rê sokkwajäri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 72922.442484436,
+      "stop": 74114.54935886468,
+      "transcription": "pên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 74799.1452058081,
+      "stop": 76958.9623665377,
+      "transcription": "kypy pï tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 78063.05391350425,
+      "stop": 80865.25585830901,
+      "transcription": "pjän tapja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 81893.87591413711,
+      "stop": 83870.05564386882,
+      "transcription": "ti pïri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 85826.34276278295,
+      "stop": 92618.04609306737,
+      "transcription": "pjasân horö kwyy tijää kukre köö tijää ti rakjâra män kjy tijää ha jypôô rö jattä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 92828.68234383668,
+      "stop": 97070.14908650638,
+      "transcription": "timäjäri kukre köö kjon pôô pjo rêmäjää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 97502.11445913062,
+      "stop": 98962.70751409479,
+      "transcription": "kukre köö tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 99478.00670825299,
+      "stop": 100846.2021490345,
+      "transcription": "mänpên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 101886.12487826904,
+      "stop": 106337.20706950035,
+      "transcription": "ho rökwyy tijää sâpara ho tijää mämän pâtiti tijää ti horökwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 108421.99158767326,
+      "stop": 115817.13185587942,
+      "transcription": "pêkwa tijää immün pêkwa tijää mämän [titi] ti pê pïrä pêkwa tijää immün tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 116151.0934976008,
+      "stop": 124470.32993418457,
+      "transcription": "hüwähä pyppa jy pyhorökwyy kukre köö tijää jümä sâ horökwyy tijää sâpara ho ja hamä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 124719.53199062847,
+      "stop": 127256.83109040793,
+      "transcription": "pÿnkwânsi tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 127691.04978725327,
+      "stop": 131678.23408690668,
+      "transcription": "mänpên [tjy] jy ränka",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 131847.13788130504,
+      "stop": 133980.06608597518,
+      "transcription": "ikkwa tijää mämän",
+      "translation": "",
+      "notes": "Note: ikkwa = swanka",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 134262.37024049193,
+      "stop": 135724.53595545812,
+      "transcription": "ikkwa tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 136641.41521232165,
+      "stop": 139377.54709478316,
+      "transcription": "py tâti tijää jy py kin tijää",
+      "translation": "",
+      "notes": "Note: jopy jy py kin",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 139867.0535251126,
+      "stop": 141985.50484151577,
+      "transcription": "mämän tijää pâtiti",
+      "translation": "",
+      "notes": "Note: tamanduá madeira",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 143023.02483393758,
+      "stop": 144557.57499023876,
+      "transcription": "mänpên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 146397.0585014307,
+      "stop": 148869.12822744256,
+      "transcription": "[jy] jy ra su rappôô tijää",
+      "translation": "",
+      "notes": "Note: kri tö suu",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 148869.12822744256,
+      "stop": 150467.78127064885,
+      "transcription": "ikkôn mëra tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 151033.42302335787,
+      "stop": 156497.851692137,
+      "transcription": "ikkôn mëra tijää mämän ra sokkuri prïharân tijää sokkwa rasokkuri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 157806.92055300734,
+      "stop": 161146.74620894773,
+      "transcription": "[ti] ti sokkuri jy rakö pôô tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 161869.69562924135,
+      "stop": 166214.7757400391,
+      "transcription": "hakwyti tijää rênkö sôri tijää hakwyti tijää",
+      "translation": "",
+      "notes": "Note: jabuti ascende arvore para pegar inaja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 166571.91449319993,
+      "stop": 169633.97247082452,
+      "transcription": "ikkôn mërân tijää rênkö sôri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 171048.86212848136,
+      "stop": 176273.53988727924,
+      "transcription": "päpää py pê rawâ tijää ikkônmëra tijää py [pä] pê rawâ ikkônmëra tijää",
+      "translation": "",
+      "notes": "Note: the monkeys left the jabuti alone up there",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 176808.83189693597,
+      "stop": 178908.61883416047,
+      "transcription": "kââri tijää hakwyti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 179056.6040289356,
+      "stop": 182178.18365191357,
+      "transcription": "mÿn rê py pja py roo ra wâ hä tijää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 182178.18365191357,
+      "stop": 184651.60006556124,
+      "transcription": "hakwyti hë rê pjapy raho rawâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 185264.59210683207,
+      "stop": 188794.66979800558,
+      "transcription": "ka rê ransôrïnte tijää tijää hakwyti hë",
+      "translation": "",
+      "notes": "Note: y'all left him up alone",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 189689.83379930267,
+      "stop": 197015.3778363013,
+      "transcription": "pên py ho rawâ pê rakö tijää pê rapê tijää jynti tijää hakwyti jö sâswâri",
+      "translation": "",
+      "notes": "Note: SXA hears raa for both raakö & raapê; jabuti goes down",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 197290.78246163003,
+      "stop": 200713.05699387094,
+      "transcription": "\"\"jysuppôô\"\" tijää pâtiti \"\"jysuppôô\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 201381.34279618677,
+      "stop": 206895.9924310413,
+      "transcription": "kati pja py ranpân tijää tijää pâtiti tijää pja py ranpân ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 208613.7203941105,
+      "stop": 215374.6847967874,
+      "transcription": "jattä kati pê janto tâti ka ko pjytirö ti timäjää \"\"inkjon\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 215745.47305271152,
+      "stop": 219394.9545430667,
+      "transcription": "ka rankwarahê pjo timä järi pâtiti hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 220241.07500399172,
+      "stop": 224686.70102071002,
+      "transcription": "\"\"Hê. Katirê raanpân kin\"\" ti sün kja hakwyti hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 225032.73782600136,
+      "stop": 228298.68588645427,
+      "transcription": "ti ho rösô [ti] tinto kâkwâri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 228381.75249665903,
+      "stop": 230410.19140735222,
+      "transcription": "rê ko kin wajärähê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 230896.12406916052,
+      "stop": 234990.6652124961,
+      "transcription": "rê hanto kâkwâ(ri) timäjäri tijää hakwyti hë tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 235915.78011680863,
+      "stop": 238331.61319612226,
+      "transcription": "intokâkwâri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 239888.26428638387,
+      "stop": 244526.2333607009,
+      "transcription": "mänpên (ho)kwa tijää hokwa tijää into ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 244983.01781514983,
+      "stop": 247576.34600727662,
+      "transcription": "hokwa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 248279.4196919492,
+      "stop": 252579.18028755332,
+      "transcription": "timä ränka kwa tijää pâtiti mä into hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 252708.64419988362,
+      "stop": 254718.19288555763,
+      "transcription": "ti mä ränka hakkwa tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 255726.8355786614,
+      "stop": 258241.5780679965,
+      "transcription": "mämänpên \"\"jysuppôô\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 259401.42991935482,
+      "stop": 263123.0242729914,
+      "transcription": "krôkrôka tijää \"\"jysuppôô. pjän ho katikwan?\"\" timëjää.",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 263597.66061620676,
+      "stop": 268128.8756452498,
+      "transcription": "rantomä kâkwâri hä tijää tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 269311.804075938,
+      "stop": 270924.3040564523,
+      "transcription": "pêkwa tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 270924.3040564523,
+      "stop": 273086.3152035106,
+      "transcription": "pên sê sapyrökwyy tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 273086.3152035106,
+      "stop": 274599.7230064514,
+      "transcription": "pan japê tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 275108.49601406016,
+      "stop": 276840.71811564587,
+      "transcription": "nänpôn kypy japê tijää",
+      "translation": "",
+      "notes": "Note: getting the new eyes ready",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 278453.0585794547,
+      "stop": 279853.5088611285,
+      "transcription": "pên sâ pyrökwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 280004.8278992367,
+      "stop": 282732.7296171244,
+      "transcription": "ti sêppyri tijää ti mä ho sakre hakkwa tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 283339.80488491885,
+      "stop": 286586.8680783956,
+      "transcription": "\"\"suppôô pjo.\"\" tijää tijää. \"\"py sê sâ pyrö kwyy\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "start": 288574.483285773,
+      "stop": 294828.6784113137,
+      "transcription": "pên ti py mä sasâri pên ti pa su hoppôô kin tijää pên ti pyhonto tijää jopy hë tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 58,
+      "start": 296369.99556841684,
+      "stop": 298118.5174190627,
+      "transcription": "krôkrôka hë tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "start": 298269.9045922788,
+      "stop": 299004.1323823769,
+      "transcription": "pên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "start": 299169.71569824364,
+      "stop": 301395.1071445202,
+      "transcription": "(jy) py kin tijää pâtiti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "start": 301739.0469669555,
+      "stop": 304335.33698761155,
+      "transcription": "jy py too tijää mänpên tintê tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 62,
+      "start": 304830.63914197683,
+      "stop": 307518.8044773895,
+      "transcription": "nën happajahê pjo kypamä tijää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "start": 307518.8044773895,
+      "stop": 310033.0413222493,
+      "transcription": "immün kati kïkwan tijää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 64,
+      "start": 310033.0413222493,
+      "stop": 312215.4857514671,
+      "transcription": "tintê tijää krôkrôka immün tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 65,
+      "start": 316074.375404301,
+      "stop": 317778.4235880828,
+      "transcription": "tintê tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 66,
+      "start": 320135.46897992626,
+      "stop": 322313.3464701727,
+      "transcription": "mänpên mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 67,
+      "start": 325240.14381257223,
+      "stop": 329246.639609127,
+      "transcription": "timäjää tijää, pâtiti hë tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 68,
+      "start": 330776.7625662851,
+      "stop": 332526.9686247801,
+      "transcription": "hakwyti mä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 69,
+      "start": 333557.59965006245,
+      "stop": 336868.2303872156,
+      "transcription": "rê sossün topytümärân rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 70,
+      "start": 336868.2303872156,
+      "stop": 344236.10633433075,
+      "transcription": "rê rakö sotinpari kiti prïtän rênpapapërïn kin tijää prïtän [rên] ranpari tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 71,
+      "start": 344991.8443739033,
+      "stop": 347524.3376581527,
+      "transcription": "ja rê sossün rêjäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 72,
+      "start": 347524.3376581527,
+      "stop": 350394.0204014035,
+      "transcription": "mämän ra käntä sün kiti rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 73,
+      "start": 352611.6258760117,
+      "stop": 356522.3747948021,
+      "transcription": "pâtiti hä kja ikkôn hä kja hakwytä kja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "start": 358410.907119561,
+      "stop": 361307.5009013294,
+      "transcription": "swankjarân tijää swankja pytinsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 75,
+      "start": 361977.38930094877,
+      "stop": 365207.4039496833,
+      "transcription": "ta pê tintajïn tijää swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 76,
+      "start": 365207.4039496833,
+      "stop": 368542.0561501545,
+      "transcription": "rêjïnkjêttän tijää swankjarân tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 77,
+      "start": 369588.35077719344,
+      "stop": 374735.5354109834,
+      "transcription": "pên mära tajïn, mämä rê sossun",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "start": 377286.13455515436,
+      "stop": 378668.44189945154,
+      "transcription": "nänsô tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 79,
+      "start": 380981.99269483896,
+      "stop": 383961.9416933488,
+      "transcription": "pan rê kurapên tijäri swankjarân tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 80,
+      "start": 384527.6363432169,
+      "stop": 386132.22426549153,
+      "transcription": "pimmä kreti tijää",
+      "translation": "",
+      "notes": "Note: kreti given as like wooden bench",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "start": 386990.0941490037,
+      "stop": 389726.9237653508,
+      "transcription": "kâtâtakritakreti rê kuri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 82,
+      "start": 391067.13308198954,
+      "stop": 397155.5428160332,
+      "transcription": "mämänpên sê tä sara tijää twatün hä tijää twatün hä sê sara tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "start": 398348.14104741847,
+      "stop": 401015.5079831477,
+      "transcription": "mä sara tijää mösy tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 84,
+      "start": 401210.0034888779,
+      "stop": 402765.96753471997,
+      "transcription": "inkôjamä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 85,
+      "start": 403777.0988464013,
+      "stop": 409295.9088214972,
+      "transcription": "swâri tijää twatün tijää tintênnën tijää nänsô tintênnën tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 86,
+      "start": 409578.94914147916,
+      "stop": 411068.4404073203,
+      "transcription": "tintênnën tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 87,
+      "start": 411472.12890979304,
+      "stop": 414290.807448739,
+      "transcription": "pjärähê ka jïntê ti raarëri timäjää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "start": 414290.807448739,
+      "stop": 418647.66253494343,
+      "transcription": "ja hahê ra käntä sarakkwa ja kajïntäkjârhê tijää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 89,
+      "start": 419591.2111703339,
+      "stop": 421584.41894349264,
+      "transcription": "pên ti mä tä sün tijää mösy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 90,
+      "start": 421584.41894349264,
+      "stop": 423257.29122998595,
+      "transcription": "topjön tijää",
+      "translation": "",
+      "notes": "Note: bring together",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "start": 423638.933360296,
+      "stop": 426971.4923884344,
+      "transcription": "ti rapê tä hopjön [ti] ti raapê tä wy tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 92,
+      "start": 427515.94186963927,
+      "stop": 430421.3849463865,
+      "transcription": "pên tinkan mösy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "start": 430975.06076447805,
+      "stop": 434365.6231934227,
+      "transcription": "mämänpên tintäwatän tijää inkô kran",
+      "translation": "",
+      "notes": "Note: inkô kran < kônpy kran",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 94,
+      "start": 434568.2389618341,
+      "stop": 436033.20520896564,
+      "transcription": "pên titäwatän tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 95,
+      "start": 436925.47804909584,
+      "stop": 440930.5398339708,
+      "transcription": "ti tä wapô tijää inkô kran tijää pên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "start": 441475.2970708084,
+      "stop": 444831.9984437876,
+      "transcription": "rasossu ho pan swankjara inkwa suu tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "start": 445041.98752368515,
+      "stop": 447276.3984837853,
+      "transcription": "jommöri tijää kwassu tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 98,
+      "start": 448871.2200833428,
+      "stop": 453158.7572078953,
+      "transcription": "tissu tijää kjäpo tisu tijää timmïri",
+      "translation": "",
+      "notes": "Note: tisu is something you do to corn",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 99,
+      "start": 453782.62540997914,
+      "stop": 457408.46501341416,
+      "transcription": "mänpên jy ho rappôô tijää inkwa ho tijää jy ho rappôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 100,
+      "start": 458473.3746398766,
+      "stop": 461837.1787761727,
+      "transcription": "mänpên rênnën inkwa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 101,
+      "start": 461837.1787761727,
+      "stop": 467808.6501028983,
+      "transcription": "ti kwân tijää kjäpo rasokkurönpja ti mä kupôn tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 102,
+      "start": 467920.2225546845,
+      "stop": 469517.42983919097,
+      "transcription": "söpää mä tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "start": 470223.895167856,
+      "stop": 473765.2144864449,
+      "transcription": "ti kuroten tijää inkâttä tijää ti kuroten",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 104,
+      "start": 475181.3035941414,
+      "stop": 480262.01273897407,
+      "transcription": "pjäränprâ kasikuri sö kja timäjää kjäpo tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 105,
+      "start": 480501.8324623151,
+      "stop": 484240.48900722235,
+      "transcription": "pjän kränprâ kasiko kurönpja timäjäri tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 106,
+      "start": 485033.76275809185,
+      "stop": 487522.4247603885,
+      "transcription": "kjäpo timäjäri tijäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 107,
+      "start": 487522.4247603885,
+      "stop": 490744.1108433617,
+      "transcription": "tu py kupyri pysantoo tijää prï tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "start": 491407.17657449667,
+      "stop": 496871.93135972845,
+      "transcription": "pyransâpên ti pyrankupôn ti pyransöri jupên [kasitä kasitä]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 109,
+      "start": 496871.93135972845,
+      "stop": 500732.3849568251,
+      "transcription": "ka si tänkjâri mära kjäpo kranprâ rêmäjää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 110,
+      "start": 501330.10394482245,
+      "stop": 503955.9582976121,
+      "transcription": "mämänpên ti ran tä sün tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 111,
+      "start": 503955.9582976121,
+      "stop": 508359.28805577965,
+      "transcription": "mämänpên päpää sânnämmöri ti mämä rêtänkjân tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 112,
+      "start": 508359.28805577965,
+      "stop": 512372.88746525766,
+      "transcription": "märê ti tä hoppu tijää mösy tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 113,
+      "start": 512372.88746525766,
+      "stop": 515169.5279375599,
+      "transcription": "mämänpên jypan rajö mösy tijää ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 114,
+      "start": 515169.5279375599,
+      "stop": 517809.485256665,
+      "transcription": "pên nëntêri tijää pïräkreti tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 115,
+      "start": 518009.568448308,
+      "stop": 520162.7349553029,
+      "transcription": "pên jy ho rapôô tijää mösy ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "start": 520936.56425008626,
+      "stop": 526244.3482533267,
+      "transcription": "pên rêjïnsokkre jy ho rapoti pimmä rê jïnsokkuri ra mä mösy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 117,
+      "start": 526713.7013314692,
+      "stop": 528730.8158094408,
+      "transcription": "nänsô jö mösy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 118,
+      "start": 529926.07707746,
+      "stop": 532900.3573427494,
+      "transcription": "ja rê sossün rêjää swankjarân rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 119,
+      "start": 533913.3411794545,
+      "stop": 536097.4778753472,
+      "transcription": " tânpjâ tânpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "Turën_Prïhara-ikkôn_20240826.json",
+    "title": "Prïhara ikkôn",
+    "recordin g": {
+      "speakers": "Turën",
+      "linguists": [
+        "Myriam Lapierre",
+        "Ella De Falco"
+      ],
+      "Indigenous researcher": [
+        "Krenkjon"
+      ],
+      "type": "Intergenerational",
+      "date": "2024/08/26"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "Indigenous_researcher": [
+        "Wytyn",
+        "Pretti"
+      ],
+      "date_completed": "2026/07/20"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 54730.71786604287,
+      "stop": 62936.45028885713,
+      "transcription": "haa japên kjë ka kän sürin prïhara ikkôn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 63841.90209133684,
+      "stop": 68549.76775305966,
+      "transcription": "hê märähä mä juttä kati pammö(rin)",
+      "translation": "",
+      "notes": "Pëëntwê: maybe long paa; S. likes adding rïn",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 69361.54187112465,
+      "stop": 70524.6616228444,
+      "transcription": "[hatyn hä]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 70676.97492366485,
+      "stop": 73474.00099327664,
+      "transcription": "hatyttä ränkjâ nëjää hakwyssân",
+      "translation": "",
+      "notes": "Pëëntwê: alternative given of sânnänkjâ hakwyssân",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 73837.05031568055,
+      "stop": 75914.04987232298,
+      "transcription": "hakwyssân nämmörïnkjää",
+      "translation": "",
+      "notes": "Pëëntwê: hakwyssân sârämmöri rêjää; kamm",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 76601.88089819881,
+      "stop": 79632.85126645575,
+      "transcription": "rê kukre inkjarân ",
+      "translation": "",
+      "notes": "Pëëntwê: preference for subj before v",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 79632.85126645575,
+      "stop": 82555.73375109395,
+      "transcription": "rê mänpe rê mähoräpyri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 83944.22138255755,
+      "stop": 86105.97905493219,
+      "transcription": "mä pyrën",
+      "translation": "",
+      "notes": "Pëëntwê: S likes bilabial for coda",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 86105.97905493219,
+      "stop": 88314.13412956281,
+      "transcription": "juttä (ka)ti sânpammö(ri)",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 88873.79714951597,
+      "stop": 90758.78147303409,
+      "transcription": "\"\"jy kôpa hasê soti\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 90758.78147303409,
+      "stop": 95984.69552836556,
+      "transcription": "\"\"ja kôpa so(ti)nkjêppytinsi, ja kôpy ti sân pa pan\"\" nëjää, rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 96266.32286580834,
+      "stop": 98711.47069832856,
+      "transcription": "inkjarân pôsô sân",
+      "translation": "",
+      "notes": "Pëëntwê: banana leaf for kjänpo",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 99475.94006017975,
+      "stop": 100754.8537882491,
+      "transcription": "\"\"kati sânpapan!\"\"",
+      "translation": "",
+      "notes": "Pëëntwê: an order",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 101608.05625568751,
+      "stop": 102554.56509408244,
+      "transcription": "\"\"nähä\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 102743.30346364334,
+      "stop": 105909.60088732162,
+      "transcription": "hê prëë katiraamä prïhara?",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 106189.19749081027,
+      "stop": 108330.1103395607,
+      "transcription": "twatün hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 108386.45015136992,
+      "stop": 110245.66394107425,
+      "transcription": "twatün hë kati raamäran",
+      "translation": "",
+      "notes": "Pëëntwê: S prefers -i",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 110245.66394107425,
+      "stop": 112007.27064602207,
+      "transcription": "prïhara kati raamäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 112007.27064602207,
+      "stop": 114226.46247243077,
+      "transcription": "mära kati raanpün kahë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 114646.98543083695,
+      "stop": 120797.42886948457,
+      "transcription": "\"\"hïn kjë karaansin ka kjë karaansin prïharan\"\" tijää, tijää twatün hë",
+      "translation": "",
+      "notes": "Note: \"\"tá bom, eu vou ficar na casa e cuidar os prihara\"\" ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 122177.18208413661,
+      "stop": 124554.93329977301,
+      "transcription": "ti sakânnappa tijä prïhara",
+      "translation": "",
+      "notes": "Pëëntwê: the kids are playing/being close to person being talked about",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 125001.71916288567,
+      "stop": 126710.96524441341,
+      "transcription": "twatün jakan",
+      "translation": "",
+      "notes": "Pëëntwê: by the elder woman",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 127492.0039872958,
+      "stop": 129297.26946493312,
+      "transcription": "pê ra ränswârin te(ri)",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 129297.26946493312,
+      "stop": 131084.88246739368,
+      "transcription": "pjärähê rarö pan hën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 131138.79898973217,
+      "stop": 135066.18141836853,
+      "transcription": "\"\"inkjëmëra jattä\"\" tijää, tijää, twatün jakän prïhara",
+      "translation": "",
+      "notes": "Pëëntwê: jakän = com você",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 135066.18141836853,
+      "stop": 137236.63575065986,
+      "transcription": "tijää, tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 139613.26180755164,
+      "stop": 140202.66506966078,
+      "transcription": "ja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 140648.30009719176,
+      "stop": 143234.06924709002,
+      "transcription": "ja rênpari inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 143234.06924709002,
+      "stop": 146877.2256216349,
+      "transcription": "kypy ra sapêê jyrammö tijää pôsô sân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 146877.2256216349,
+      "stop": 148874.06449756766,
+      "transcription": "jy rammöri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 149050.43480071798,
+      "stop": 150778.86377159148,
+      "transcription": "rênkwâ(ri) kâjasâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 150973.14648044604,
+      "stop": 152504.4111962983,
+      "transcription": "rênkwâ(ri)",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 153659.1495947014,
+      "stop": 158453.76534433712,
+      "transcription": "py ra sê kââ(ri) kypy rakâri näpjâhapjârân",
+      "translation": "",
+      "notes": "Pëëntwê: kâri - cut leaves from trees",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 158545.7623309711,
+      "stop": 160489.97079863658,
+      "transcription": "kypy rakââ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 162399.6638895373,
+      "stop": 165210.04511897755,
+      "transcription": "pja pysotorapôô ket tajïn",
+      "translation": "",
+      "notes": "Pëëntwê: tajïn - people are taking a long time",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 165210.04511897755,
+      "stop": 166668.86896326716,
+      "transcription": "rê kââ(ri) rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 166668.86896326716,
+      "stop": 168095.51286981508,
+      "transcription": "rê kâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 170097.4002853177,
+      "stop": 171900.12230282358,
+      "transcription": "tummä rê jïn kwappää(ri) nëjää",
+      "translation": "",
+      "notes": "Pëëntwê: karïnkwappä - pëëntwê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 171900.12230282358,
+      "stop": 174249.65439399244,
+      "transcription": "rê ho pjörin (rê)sotopjön [ka]tajïn",
+      "translation": "",
+      "notes": "Pëëntwê: pjön w/ incorporated soti-ho- means to come with stuff",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 174416.18131248897,
+      "stop": 176147.03680066165,
+      "transcription": "rê py sa swâri",
+      "translation": "",
+      "notes": "Pëëntwê: saswâri: put down the leaves",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 176147.03680066165,
+      "stop": 177818.71597770782,
+      "transcription": "(ti) py saswâri tö hë",
+      "translation": "",
+      "notes": "Pëëntwê: put another leaf out (tö refers to leaves)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 177852.2332331615,
+      "stop": 179171.97516665087,
+      "transcription": "ti py saswââ tö hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 179171.97516665087,
+      "stop": 181768.69225519983,
+      "transcription": "\"\"rê sotopjönnï mämännï\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 181946.85563308807,
+      "stop": 182966.34607322633,
+      "transcription": "\"\"kaapren\"\"",
+      "translation": "",
+      "notes": "Pëëntwê: katimïpren = pëëntwê'; agora amarra folha do banana bravo",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 183081.56395529708,
+      "stop": 185085.37534073248,
+      "transcription": "\"\"mämännï rê jïsê pan\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 186760.05642871192,
+      "stop": 189899.03189949255,
+      "transcription": "pysânnäpa rê py kâri",
+      "translation": "",
+      "notes": "Pëëntwê: vai de novo para cortar de novo folha de banana",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 190707.23226359655,
+      "stop": 194714.85503446744,
+      "transcription": "\"\"mï sê hon kjêti ka, ka simëhonkjêti karân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 195378.7448378431,
+      "stop": 201035.49292373465,
+      "transcription": "\"\"kjon rê honkjêti mämännï mïpy sê mï kukârahê\"\", nëjää, tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 201670.1623196202,
+      "stop": 204244.75635124565,
+      "transcription": "mÿn py sê sân rappan rê py kââ(ri)",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 204244.75635124565,
+      "stop": 209253.8988140275,
+      "transcription": "(rê) py kâ rorappa tijä pôsô rê kâri jahä pôsô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 209458.1859171866,
+      "stop": 210971.64728579082,
+      "transcription": "rêkkâri",
+      "translation": "",
+      "notes": "Pëëntwê: 3PL",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 212766.43079733188,
+      "stop": 216917.3574174125,
+      "transcription": "\"\"ja kôpy kypy rappan honkjêti tapja\"\" nëjää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 217554.80109766906,
+      "stop": 218634.21307054537,
+      "transcription": "py sê më ho",
+      "translation": "",
+      "notes": "Pëëntwê: two people coming from the forest to the village",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 219405.36175206653,
+      "stop": 221552.80349775363,
+      "transcription": "mä mÿn sotoppan inkjara",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 221552.80349775363,
+      "stop": 222395.0863025991,
+      "transcription": "mämättä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 222584.28604829338,
+      "stop": 224278.84485328826,
+      "transcription": "mï sokkja swââ",
+      "translation": "",
+      "notes": "Pëëntwê: swârin",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "start": 227005.2656663982,
+      "stop": 228957.7216419651,
+      "transcription": "\"\"haa, nähä mämännï\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 58,
+      "start": 229893.9657982902,
+      "stop": 231665.9426500652,
+      "transcription": "\"\"nä kritahê ti hïn\"\"",
+      "translation": "",
+      "notes": "Pëëntwê: ha katikän hä kritin ka mä; kriti = suti",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "start": 232416.06858014545,
+      "stop": 236624.51360311103,
+      "transcription": "hijattä pyti ho paa têpa hinpe nëjää tijää",
+      "translation": "",
+      "notes": "Pëëntwê: é muito longe; it will take them a long time to come back",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "start": 237181.6137130063,
+      "stop": 239005.0573429915,
+      "transcription": "nëjää tijää inkjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "start": 239448.78836685148,
+      "stop": 245304.4789221561,
+      "transcription": "\"\"ha jy pja pyti soto rappôô hë karê tä raanpün\"\" ta ra jän ta inkjarân",
+      "translation": "",
+      "notes": "Pëëntwê: pyti - inpyti (sun)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 62,
+      "start": 247107.40976452455,
+      "stop": 260393.94102338987,
+      "transcription": "kypy ra mÿn horönkwy rïn prëë hë ti ramä pjyhahê pjo rê sotojïnkrân hatän rê ho jôti inkôkô hä ra soppre ra sotopôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "start": 260393.94102338987,
+      "stop": 263461.3026643539,
+      "transcription": "rê sokkwajäri nëjää, rê wajää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 64,
+      "start": 266578.5597626836,
+      "stop": 271256.1608800718,
+      "transcription": "horakjêti ho kypy män ho rökwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 65,
+      "start": 271256.1608800718,
+      "stop": 275355.9591001868,
+      "transcription": "jy tä ranpyti jô jy ti ho rapôô nêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 66,
+      "start": 275355.9591001868,
+      "stop": 276904.71045716543,
+      "transcription": "jy ho rapôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 67,
+      "start": 278218.36510959483,
+      "stop": 280183.287157381,
+      "transcription": "ho rapôô krittä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 68,
+      "start": 280856.00183936115,
+      "stop": 283576.5662186915,
+      "transcription": "rê sansôrahê, inta pê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 69,
+      "start": 284557.54794293444,
+      "stop": 288324.48323739186,
+      "transcription": "inta kja rï rappa ka hatyttä tajïn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 70,
+      "start": 288508.84394145984,
+      "stop": 289685.0828020404,
+      "transcription": "haa rêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 71,
+      "start": 291826.6239323955,
+      "stop": 295910.4788901206,
+      "transcription": "rêjärin jattä ja rênpari inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 72,
+      "start": 296063.3806100335,
+      "stop": 298984.75210206956,
+      "transcription": "rê sotinpaa mära sakwa jarën inkjë hë",
+      "translation": "",
+      "notes": "Pëëntwê: sakwarën: translate",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 73,
+      "start": 300104.24669165554,
+      "stop": 303258.0840887037,
+      "transcription": "rê sakwa jarën kjë topjâpjâ pëë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "start": 304887.1595284236,
+      "stop": 307340.9298799387,
+      "transcription": "sinpe rasossün nëjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 75,
+      "start": 307658.0445639112,
+      "stop": 309086.4641921707,
+      "transcription": "ja topytümärân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 76,
+      "start": 309576.82779145194,
+      "stop": 311068.88987839624,
+      "transcription": "[hm] swankja hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 77,
+      "start": 311521.46625412314,
+      "stop": 313367.0975559832,
+      "transcription": "topytümärân, swankja hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "start": 314632.2899149075,
+      "stop": 317272.5704927871,
+      "transcription": "pê jy rapôô tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 79,
+      "start": 317272.5704927871,
+      "stop": 319012.94142396504,
+      "transcription": "jy rapôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 80,
+      "start": 320040.4617842228,
+      "stop": 321139.4618217159,
+      "transcription": "\"\"pjärähê?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "start": 322280.3594271938,
+      "stop": 325148.4814762611,
+      "transcription": "juttä kypy rasapê prïhara",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 82,
+      "start": 327600.0250251386,
+      "stop": 329395.951915676,
+      "transcription": "\"\"juttä jy ra pê?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "start": 329982.3012308562,
+      "stop": 333728.9101975277,
+      "transcription": "ka ran hajïnpe hamä känkjëmëra märö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 84,
+      "start": 334647.1766949106,
+      "stop": 336623.2559878059,
+      "transcription": "\"\"kankjëmëran pünkinnö?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 85,
+      "start": 336990.66929596674,
+      "stop": 338258.2274522491,
+      "transcription": "nëjää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 86,
+      "start": 338789.17484349274,
+      "stop": 341376.90677763894,
+      "transcription": "twatün mä rê mä hasâ tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 87,
+      "start": 342682.7387776287,
+      "stop": 344132.0599902836,
+      "transcription": "jahä rappa pën",
+      "translation": "",
+      "notes": "Pëëntwê: the kids were around and they went out",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "start": 345152.6904129721,
+      "stop": 346932.05507009296,
+      "transcription": "pjärähê rasitepinkjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 89,
+      "start": 348233.06670472724,
+      "stop": 348672.3885355274,
+      "transcription": "pên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 90,
+      "start": 349077.25375214714,
+      "stop": 351230.7921384225,
+      "transcription": "\"\"jattä pappa jattä\"\"",
+      "translation": "",
+      "notes": "Pëëntwê: maybe should be rappa (KP/SP say)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "start": 352281.3901340248,
+      "stop": 355400.820769009,
+      "transcription": "mïkun tën rêjää ranpjâ tijää sokkwa mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 92,
+      "start": 355550.2120370194,
+      "stop": 358038.94622254244,
+      "transcription": "pjärähê sokkwankjêti intarähä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "start": 358342.78706696787,
+      "stop": 360005.4539567094,
+      "transcription": "näsêkjä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 94,
+      "start": 361070.7168123876,
+      "stop": 362294.19571506296,
+      "transcription": "paa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 95,
+      "start": 363260.100111912,
+      "stop": 365449.4834114363,
+      "transcription": "paa inkjâ hakjä",
+      "translation": "",
+      "notes": "Pëëntwê: pakjappä köö",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "start": 367224.1785366121,
+      "stop": 368771.64877550513,
+      "transcription": "pa më",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "start": 370098.86129430373,
+      "stop": 372234.5822062007,
+      "transcription": "sokkwa inkjêti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 98,
+      "start": 373765.45104471047,
+      "stop": 376573.0008573934,
+      "transcription": "kwatin tepi jahamä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 99,
+      "start": 379199.704956567,
+      "stop": 382805.99919900263,
+      "transcription": "\"\"juttä jy raapê?\"\" ti sakjâri rêjää twatün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 100,
+      "start": 383879.43716896634,
+      "stop": 386285.34328518587,
+      "transcription": "jattä jy sê rapë möri ka",
+      "translation": "",
+      "notes": "Pëëntwê: i heard them talking (prev was that they left on me (MAL))",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 101,
+      "start": 386384.7134735821,
+      "stop": 388277.4043564245,
+      "transcription": "hüwähä jy pïrö rammöri",
+      "translation": "",
+      "notes": "Pëëntwê: in a group (pïn)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 102,
+      "start": 389832.79383970273,
+      "stop": 391472.9317600114,
+      "transcription": "tijää tijää twatün hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "start": 392837.04627962987,
+      "stop": 394337.45177935355,
+      "transcription": "\"\"kara mä kinnö ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 104,
+      "start": 394337.45177935355,
+      "stop": 398543.3497226979,
+      "transcription": "pjän ka wajärämä ka raanpü kinnö?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 105,
+      "start": 399217.0680966712,
+      "stop": 401701.2443275304,
+      "transcription": "rê mä jää rêjää twatün hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 106,
+      "start": 402491.59163370624,
+      "stop": 406532.40998672065,
+      "transcription": "rê mä hasâ twatün hä prïhara köö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 107,
+      "start": 407194.47299272666,
+      "stop": 410676.5388351915,
+      "transcription": "ti raanpün kïrähê ti raamä kïrähê",
+      "translation": "",
+      "notes": "Pëëntwê: samäri",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "start": 411118.7818514674,
+      "stop": 413346.0352375334,
+      "transcription": "py su ho ra pôô kïrähê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 109,
+      "start": 413346.0352375334,
+      "stop": 414930.609075113,
+      "transcription": "näpjâ hapjâra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 110,
+      "start": 415525.7165835146,
+      "stop": 416202.31504609424,
+      "transcription": "jattä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 111,
+      "start": 417671.93378580845,
+      "stop": 420700.4531989887,
+      "transcription": "rê pê tä roo nänkaa twatün hë tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 112,
+      "start": 420908.91817863344,
+      "stop": 423504.00132300414,
+      "transcription": "jy rankwyy tijää näpjâ hapjâra",
+      "translation": "",
+      "notes": "Pëëntwê: Kjäräsâ: rankwy; Sârêha: rankwyy",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 113,
+      "start": 423990.6353953613,
+      "stop": 425978.75562385976,
+      "transcription": "jy haprinpe tijää näpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 114,
+      "start": 426259.9773367941,
+      "stop": 427751.81645538623,
+      "transcription": "nänkwyy nëjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 115,
+      "start": 429749.8915184775,
+      "stop": 431764.8859151679,
+      "transcription": "jahä jy sê rammö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "start": 432688.8597445177,
+      "stop": 436415.22013020254,
+      "transcription": "mämän näpjâ hapjâra pê kwâra tätün mö tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 117,
+      "start": 436708.6516388535,
+      "stop": 438729.1128886595,
+      "transcription": "ha tätün jyraapê tijää",
+      "translation": "",
+      "notes": "Pëëntwê: vc foi pra qualquer alguma pessoa",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 118,
+      "start": 439441.6929482536,
+      "stop": 440889.3895134048,
+      "transcription": "jy raa pêê tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 119,
+      "start": 443487.135414591,
+      "stop": 447030.4570185377,
+      "transcription": "pê rê rasösânpe \"\"py, py raapê më sapy\"\"",
+      "translation": "pyrên pysâ py",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 120,
+      "start": 447125.8764418412,
+      "stop": 451096.9617436385,
+      "transcription": "py py raapê më sapy pën tä ju sokkwa",
+      "translation": "",
+      "notes": "Pëëntwê: KP/SP unsure what tä is doing",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 121,
+      "start": 451409.36489481316,
+      "stop": 453572.1301657017,
+      "transcription": "ra soto rösên tijää nêjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 122,
+      "start": 454900.62779590196,
+      "stop": 456597.5984724222,
+      "transcription": "jy ra pê rapa tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 123,
+      "start": 457271.34762445703,
+      "stop": 459307.8344428104,
+      "transcription": "jy raapê rammö tijää pjy hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 124,
+      "start": 459697.4227339627,
+      "stop": 464040.6956251205,
+      "transcription": "ramöri...ramö hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 125,
+      "start": 465758.8081955924,
+      "stop": 468551.87432315707,
+      "transcription": "pënnï kâra karäsi tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 126,
+      "start": 469496.37168471504,
+      "stop": 471142.81066517415,
+      "transcription": "näsêkjä",
+      "translation": "",
+      "notes": "Pëëntwê: kind of fruit",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 127,
+      "start": 471449.6849655751,
+      "stop": 473514.08117239043,
+      "transcription": "näsêkjä ti ku tijää",
+      "translation": "",
+      "notes": "Pëëntwê: both like kuri better",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 128,
+      "start": 475150.05126453657,
+      "stop": 477533.2731403581,
+      "transcription": "prïharân rê kuri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 129,
+      "start": 481637.17223661795,
+      "stop": 484618.1922418262,
+      "transcription": "[mm] sanpapën tijää näpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 130,
+      "start": 485153.228414047,
+      "stop": 486635.767774926,
+      "transcription": "ra pëë japê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 131,
+      "start": 488392.8036412767,
+      "stop": 491581.060331339,
+      "transcription": "pên jattä pêtä hakoko",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 132,
+      "start": 492004.5075194077,
+      "stop": 493773.9899823923,
+      "transcription": "mämä pô tajïn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 133,
+      "start": 494236.2872024513,
+      "stop": 495694.9146381548,
+      "transcription": "mä sotajïttu",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 134,
+      "start": 496248.3836040071,
+      "stop": 498161.33761804446,
+      "transcription": "ikkôn hä prïharakkôn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 135,
+      "start": 499020.1824796336,
+      "stop": 501650.49424893496,
+      "transcription": "ikkôn mämän jypäpää jykkôn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 136,
+      "start": 503194.8142988876,
+      "stop": 505243.26922225265,
+      "transcription": "rêjïnkjêti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 137,
+      "start": 505488.4061499206,
+      "stop": 511622.0189463417,
+      "transcription": "panära swankja hë ti sokkjatârinpe swankja hë",
+      "translation": "",
+      "notes": "Pëëntwê: sokkjatârinpe - intelligent/wise",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 138,
+      "start": 511808.3991735812,
+      "stop": 523488.8052097723,
+      "transcription": "panära kô jypäpää too prïharakkôn mä jy päpää kôn ti päpää ti sokkjatâri kâ ra karê sïï",
+      "translation": "",
+      "notes": "Pëëntwê: panära ikkôn",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 139,
+      "start": 523488.8052097723,
+      "stop": 526158.990462127,
+      "transcription": "nänsêkjä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 140,
+      "start": 526158.990462127,
+      "stop": 528706.9219763895,
+      "transcription": "inkjâ hakjä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 141,
+      "start": 528706.9219763895,
+      "stop": 537394.2123596,
+      "transcription": "pên jy haprinpe tijä näpjâ haprinpe jyrankwyy rankwyy pa rêjää pyrankwyy pa",
+      "translation": "",
+      "notes": "Pëëntwê: pa is used to just say everyone tudo mundo está chorando",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 142,
+      "start": 540922.1104283747,
+      "stop": 541814.222583697,
+      "transcription": "paa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 143,
+      "start": 542449.5622694927,
+      "stop": 548383.4120910703,
+      "transcription": "mämän jy ran pa rapêê mämän jy rakkô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 144,
+      "start": 548975.0047186386,
+      "stop": 550238.9750374666,
+      "transcription": "nëjää tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 145,
+      "start": 550683.3435224377,
+      "stop": 552004.7670375762,
+      "transcription": "swankjarân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 146,
+      "start": 552185.6590956701,
+      "stop": 556020.6599493867,
+      "transcription": "ti sokkjatârinpe rêjïnkjêtinpe",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 147,
+      "start": 556724.0251636598,
+      "stop": 560623.6608632256,
+      "transcription": "mämän jy tu (tün) py sa pê, jy sapê tijää",
+      "translation": "",
+      "notes": "Pëëntwê: maybe pref for sapê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 148,
+      "start": 561622.3674950234,
+      "stop": 564107.2182354465,
+      "transcription": "ja rênpari inkjë hë koomä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 149,
+      "start": 564751.7791210697,
+      "stop": 569570.6659616012,
+      "transcription": "rênpari inkjë topjâpjâ pëë mämä ra tä sï kjë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 150,
+      "start": 569676.6031318145,
+      "stop": 573324.8810975226,
+      "transcription": "kjë topjâpjâ Kâsâri ja pëëpaamä kja",
+      "translation": "",
+      "notes": "Pëëntwê: pëë(n)paa(ri) the way old people walk around at night and just say stuff",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 151,
+      "start": 573640.8841299176,
+      "stop": 576592.5420903625,
+      "transcription": "mämän rênpari rapjôntwê tän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 152,
+      "start": 576592.5420903625,
+      "stop": 578577.3740886898,
+      "transcription": "paanpapëri [petajïn]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 153,
+      "start": 579028.0901963847,
+      "stop": 580161.9344638399,
+      "transcription": "hamï pja ku sïn",
+      "translation": "",
+      "notes": "Pëëntwê: sit quiet!! your grandparents are telling a story",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 154,
+      "start": 581636.6024593983,
+      "stop": 582765.6423019915,
+      "transcription": "krekjättä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 155,
+      "start": 584023.5095899163,
+      "stop": 590543.719596211,
+      "transcription": "ja hamä inkjë hë rênpari kin kjë topjâpjâ pëë ti sossün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 156,
+      "start": 591303.4327420384,
+      "stop": 595223.8434295106,
+      "transcription": "jy tä raatepinkjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 157,
+      "start": 595223.8434295106,
+      "stop": 602823.8544012879,
+      "transcription": "Tupajyrö jamä rê jy tä raatepinkjâ inkjë tä raatepintwê, ja hamä rênpari inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 158,
+      "start": 605264.8323875858,
+      "stop": 611372.4235202385,
+      "transcription": "ja rênpari kin kjë hë prïharakkôn jyraapê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 159,
+      "start": 611372.4235202385,
+      "stop": 613647.2874985063,
+      "transcription": "raaprinpe",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 160,
+      "start": 613647.2874985063,
+      "stop": 616528.2987877749,
+      "transcription": "haa, ja rênpari inkjë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 161,
+      "start": 616528.2987877749,
+      "stop": 619956.9855383023,
+      "transcription": "mämärämä rê känsü kjëhë jakkôn prïharakkôn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "Kakkrêê_Syrinto-Hapôha_20240824.json",
+    "title": "Syrinto më Hapôha",
+    "recording": {
+      "speakers": "Kakkrêê",
+      "linguists": [
+        "Myriam Lapierre",
+        "Ella De Falco"
+      ],
+      "type": "Personal",
+      "date": "2024/08/24"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 1,
+        "SXA": 1
+      },
+      "Indigenous_researcher": [
+        "Kypakjä"
+      ],
+      "date_completed": "2026/07/23"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 1,
+        "SXA": 1
+      },
+      "indigenous_researcher": [
+        "Kypakjä"
+      ],
+      "date_completed": "2026/07/23"
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 15304.481314095272,
+      "stop": 16496.148797716898,
+      "transcription": "ha rähä?",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 26739.683878993415,
+      "stop": 33156.174477483655,
+      "transcription": "haa rê jää, raapjâ kjêpyti, ippë, ippëë suu",
+      "translation": "assim nós fiz que Kjêpyti veio para o branco",
+      "notes": "Note: peixoto rï",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 33156.174477483655,
+      "stop": 38377.43643507865,
+      "transcription": "hä mä su ramörï, py rakrï",
+      "translation": "indo até descansar",
+      "notes": "Note: ppl would camp sleeping on pôsô (banana leaf) ou pjâpasâ (buriti leaf)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 38377.43643507865,
+      "stop": 41900.215587190934,
+      "transcription": "pên py su (ramörï), pykkôômä py rakrï",
+      "translation": "eles saiu até no outro dia e descansaram aí",
+      "notes": "Note: räkrï they used to descansar (I asked how they would camp)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 41900.215587190934,
+      "stop": 45330.343446437386,
+      "transcription": "mämän pên, py rakrï",
+      "translation": "depois descansaram de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 45330.343446437386,
+      "stop": 48801.653483343434,
+      "transcription": "hü, py rakrï rähä",
+      "translation": "ali descansaram de novo",
+      "notes": "Note: 3/4 vezes descasaram. ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 48801.653483343434,
+      "stop": 51514.85673871247,
+      "transcription": "[mämän]nï rë hokjä",
+      "translation": "quase chegando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 51514.85673871247,
+      "stop": 55929.27337794919,
+      "transcription": "'jy paatêpi' tijäri. 'ha jy paatêpi?' 'jy paatêpi'",
+      "translation": "'já estamos perto?' assim que falou. 'Já estamos perto?' 'Estamos perto'",
+      "notes": "Note: paa = japjâra. Outras pessoas, outras pessoas, outras pessoas",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 55929.27337794919,
+      "stop": 58714.71713567498,
+      "transcription": "'jy paatêpi' tijärï.",
+      "translation": "'estamos perto' assim que falou",
+      "notes": "Note: outras pessoas",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 58714.71713567498,
+      "stop": 61903.155767043325,
+      "transcription": "pykkôômä ramö",
+      "translation": "amanhã nós estamos indo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 61903.155767043325,
+      "stop": 63758.04398069635,
+      "transcription": "jy su rapôô jähä hë",
+      "translation": "cheguei dessa hora (gesto da hora com mão)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 63758.04398069635,
+      "stop": 65943.46191353755,
+      "transcription": "jy su rapôô pôrïnpyti jïï",
+      "translation": "cheguei no meiodia",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 65943.46191353755,
+      "stop": 70135.77246605488,
+      "transcription": "puuhu 'jy rapôô'",
+      "translation": "(gritou) 'eles chegaram lá'",
+      "notes": "Note: homem na inkâ gritou que eles chegaram",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 70135.77246605488,
+      "stop": 72655.55974023006,
+      "transcription": "'hä hu' tijärï ippë hë",
+      "translation": "'é assim?' disse o indígena",
+      "notes": "Note: não é palavra, só fala tätun",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 72655.55974023006,
+      "stop": 78786.94757514639,
+      "transcription": "röö sê ippë, ippë pjo, marapjâra [ka] papjoha sanwäti",
+      "translation": "ficaram não-panãra--não branco, outro indígena (Xavante)",
+      "notes": "Note: era xavante",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 78786.94757514639,
+      "stop": 81712.11240681105,
+      "transcription": "sukamäja",
+      "translation": "Kayapó",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 81712.11240681105,
+      "stop": 83599.31552401406,
+      "transcription": "kasapi ",
+      "translation": "Kayabi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 84450.01299070954,
+      "stop": 86776.10743797246,
+      "transcription": "suja japjâra rasê",
+      "translation": "Suyá, eles ficaram",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 88285.86993173487,
+      "stop": 91116.67460753937,
+      "transcription": "ti rapjâri kroti hë, pjôntwê tän kroti",
+      "translation": "Claudio encontrou eles quando estavam jovens, foi Claudio",
+      "notes": "Note: kroti = Claudio",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 92139.76408933678,
+      "stop": 94273.25454879575,
+      "transcription": "hôô panära ",
+      "translation": "(gritou) 'oooo Panãra'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 94273.25454879575,
+      "stop": 95648.26855598208,
+      "transcription": "'krëhakôôrô' tijäri",
+      "translation": "'Cabelo redondo' disse",
+      "notes": "Note: Claudio",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 96933.58718341833,
+      "stop": 98728.60112863104,
+      "transcription": "jy rasu hommö môtô ho",
+      "translation": "ele estava buscando para a gente em barco",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 100213.36574997983,
+      "stop": 101675.96970533831,
+      "transcription": "jyntiti",
+      "translation": " o barco encostou (na beira)",
+      "notes": "Note: the boat came the the bank of the rivver",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 104306.67729044864,
+      "stop": 108635.47154207529,
+      "transcription": "kôppê jy täntiti topytün iakiô pïnkjâ 'hähoooo krëhakôrô'",
+      "translation": "Diretamente o Claudio abraçou falecido Iakiô, 'Aii Krëhakôôrô'",
+      "notes": "Note: krëhakôrô = kreankaroro",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 109123.00619386145,
+      "stop": 109942.95083550183,
+      "transcription": "'prëë pja?'",
+      "translation": "'quem é esse?'",
+      "notes": "Note: pja = esse; Claudio hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 110652.0921471908,
+      "stop": 111981.73210660761,
+      "transcription": "'Iakiô' rêjärï",
+      "translation": "'Iakiô' assim que falaram",
+      "notes": "Note: Panärân rê sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 112247.66009849099,
+      "stop": 114536.06357092872,
+      "transcription": "'Iakiô' tijärï ta. 'Iakiô'",
+      "translation": "'Iakiô', disse Claudio. 'Iakiô'",
+      "notes": "Note: Claudio agora copia nome mesmo",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 114685.33335742181,
+      "stop": 119570.34043163739,
+      "transcription": "'prëë pja' tijärï topjâpjâ pïnkjâ hë, 'kôtââ' 'kôtââ?' tijäri 'haa'",
+      "translation": "Claudio perguntou alguem, 'quem é ele?', sobre o meu avô falecido, 'Kôtââ'. 'Kôtââ' ",
+      "notes": "Note: Panärân rê sün sïsu",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 119570.34043163739,
+      "stop": 120730.07974320403,
+      "transcription": "'prëë pja' tijää",
+      "translation": "'quem é esse' disse Claudio.",
+      "notes": "Note: Claudio",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 120730.07974320403,
+      "stop": 122309.65517386718,
+      "transcription": "'krekkön' rêjärï",
+      "translation": "'Krekkön' disse. ",
+      "notes": "Note: Panärân",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 122309.65517386718,
+      "stop": 123705.77713125484,
+      "transcription": "'hüü krekkön'",
+      "translation": "'Uuuu, Krekkön' disse Claudio.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 123705.77713125484,
+      "stop": 125589.43374042866,
+      "transcription": "[ra] ra pyppjo",
+      "translation": "muita gente",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 126555.36433336025,
+      "stop": 128412.57669626776,
+      "transcription": "japjâra",
+      "translation": "nós",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 128412.57669626776,
+      "stop": 134334.62233798954,
+      "transcription": "ti rapïpïn hüü, 'mora' tijärï sösïnkwattä ",
+      "translation": "comprementando cada um, 'bora' disse. 'para a cidade'. Ele mesmo colocou as coisas dos Panãra no barco grandão, aí o equipe do Claudio colocaram as coisas",
+      "notes": "Note: sïnkwa = cidade/kukre swankjapëë hamä",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 134334.62233798954,
+      "stop": 140775.2078698792,
+      "transcription": "ti jïsünswâri [kaa], môtô wy pytinsi hamä rênsünswâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 140775.2078698792,
+      "stop": 142809.3239306654,
+      "transcription": "jy kö rakrï",
+      "translation": "sentaram juntos com ele (no barco)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 142809.3239306654,
+      "stop": 149547.21910749955,
+      "transcription": "sunpa pytinsi inkjëmëra pê môtô, ti hakyky tanpjâ ja hë pârë rantomäpä",
+      "translation": "a gente tinha muito medo do barco, quase ficamos tontos com a vista do mato girando ao rededor",
+      "notes": "Note: intohakykyti - tonto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 150345.00308314967,
+      "stop": 151715.92518247693,
+      "transcription": "raankwyy krï",
+      "translation": "nós ficamos chorando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 151715.92518247693,
+      "stop": 153592.72323421945,
+      "transcription": "rahontiti",
+      "translation": "chegamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 153592.72323421945,
+      "stop": 157709.05026227975,
+      "transcription": "ti raansoti päri ipëë hë, ti ho jyy pjon",
+      "translation": "o equipe do Cladio levaram todas as coisas, e terminaram de tirar coisas",
+      "notes": "Note: tiraarêpäri = ele tá tirando essas",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 157709.05026227975,
+      "stop": 160319.68124107725,
+      "transcription": "'hühä hamä kati rênkïkwan' tijärï",
+      "translation": "'ali que vocês vão ficar' disse",
+      "notes": "Note: Claudio",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 160319.68124107725,
+      "stop": 167240.17308177717,
+      "transcription": "jy ransotonkjâ kan ho mämättä, raakwa",
+      "translation": "com cesto o equipe do Claudio colocou todas coisas dos Panãra nesse lugar. (aonde Claudio vai cuidar deles, no Xingú)",
+      "notes": "Note: ransoti = panãran jö soti; hakwa = röo (inkjêti)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 167240.17308177717,
+      "stop": 174144.93822983367,
+      "transcription": "ti ransünswâri suty, raakwa ",
+      "translation": "ele colocou colchão (de cada um para deitar), e descansaram",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 174144.93822983367,
+      "stop": 182229.20532614208,
+      "transcription": "[ra] rakrï, ti ransari towa pïnkjâ hë, Kâsoti pïnkjâ hë, hahôja",
+      "translation": "os panãra sentaram, e o falecido vesgo (Kâsoti) cozinhou arroz para os Panãra",
+      "notes": "Note: Kâsoti-branco cozinheiro",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 182229.20532614208,
+      "stop": 185029.30369428208,
+      "transcription": "nëë rênsatâri kêti hahôja",
+      "translation": "Os Panãra ficaram com medo de arroz",
+      "notes": "Note: rê satâri pjo = panãranpe",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 185029.30369428208,
+      "stop": 190800.9998943946,
+      "transcription": "rênsünpa hahôja, rênsünpa pêsönsy",
+      "translation": "tinham medo de arroz e tinham medo de feijão",
+      "notes": "Note: pêsön = prestamo de feijão, pârikjäsy = pëëntwê (feijão)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 190800.9998943946,
+      "stop": 196667.80332798947,
+      "transcription": "rênsünpa son, inkjon pytinsi rênsokkjatâri kêti",
+      "translation": "tinham medo de sal, não gostam nada essas coisas (do branco), os Panãra",
+      "notes": "Note: Panãra pëë hamä sal = soo, w/ diphthong",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 196667.80332798947,
+      "stop": 198817.66458165264,
+      "transcription": "tün ja rênsokkuranko, ",
+      "translation": "se fosse essa comida que comia desde pequena, sim comeria, arroz, feijão, macarrão",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 198817.66458165264,
+      "stop": 203608.14864506666,
+      "transcription": "ja hë ti soti hë raantepanko arroz më pêsösy më macarrão më ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 203608.14864506666,
+      "stop": 205913.64294663063,
+      "transcription": "japjarankjon",
+      "translation": "esses não",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 205913.64294663063,
+      "stop": 210933.4077107599,
+      "transcription": "'pjän' 'bora comer' tijärï 'pjän ja?' rêjäri",
+      "translation": "'O quê é esse daí?' 'Bora comer' assim que falou. 'O quê é isto?' assim que eu falei",
+      "notes": "Note: Kakkrêê, Claudio, Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 210933.4077107599,
+      "stop": 216738.79852902566,
+      "transcription": "'jy karê mä hën panärân' 'inkjorïnpê' rêjäri",
+      "translation": "'Como vocês chamam?' 'Inkjorïnpê' assim que falei",
+      "notes": "Note: Claudio, Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 216738.79852902566,
+      "stop": 219774.797286816,
+      "transcription": "'kjorïnpê' tijärï 'haa kjorïnpê' rê mäjärï",
+      "translation": "'Kjorïnpê?' assim que falou. 'Sim, kjorïnpê'",
+      "notes": "Note: Claudio, Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 219774.797286816,
+      "stop": 226490.84212315222,
+      "transcription": "pên rê kuri tepamä, rêsôri raanpân ",
+      "translation": "Ai a gente comemos com peixe, a gente comemos, a gente comemos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 226490.84212315222,
+      "stop": 228708.30578586578,
+      "transcription": "ti raapô",
+      "translation": "Encheu barriga",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 232278.26501590814,
+      "stop": 234165.46813311114,
+      "transcription": "ti raapô, py rapa",
+      "translation": "Encheu barriga, a gente foi lá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "start": 234165.46813311114,
+      "stop": 235613.0709339223,
+      "transcription": "py rakrï",
+      "translation": "nós sentamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 58,
+      "start": 235613.0709339223,
+      "stop": 240315.35203428645,
+      "transcription": "ra kän rapaa ",
+      "translation": "lá que morava muita gente Panará (junto com sotanka)",
+      "notes": "Note: kän != ka mä",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "start": 240315.35203428645,
+      "stop": 246858.40325154574,
+      "transcription": "hühähä rasï Tupajyrö rï, hümmë rasï rankjêtapjâra",
+      "translation": "Lá na aldeia Tupajyrö tem bastante pessoal",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "start": 246858.40325154574,
+      "stop": 250366.2027886368,
+      "transcription": "rappjö, jy py rakôti",
+      "translation": "pouca gente ficava sobrando/vivendo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "start": 250366.2027886368,
+      "stop": 255697.5515947353,
+      "transcription": "rappjö pjôntwaankjâra, [jy py] jy py rakôti rêjäri",
+      "translation": "sobreviveram pouco jovens, agora sobrou pouquinho, assim que era",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 62,
+      "start": 255697.5515947353,
+      "stop": 260683.66024030212,
+      "transcription": "hühättä [kati rê ra su] kati rê py hamöri rêjäri",
+      "translation": "'ali que vocês vão, para outras aldeias (ou cidades, ou para outros indígenas)', assim que falou",
+      "notes": "Note: Claudio/outros branco",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "start": 260683.66024030212,
+      "stop": 263970.539002764,
+      "transcription": "sitepahä pjo ja, tijäri ja hë",
+      "translation": "Nem fiquei adulto já, só criança ainda (gesto de altura)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 64,
+      "start": 263970.539002764,
+      "stop": 271680.12442581373,
+      "transcription": "tijärï ja hë (jantêkân) têkwân pôôty më, ja më, pawy më kâkjärä më",
+      "translation": "Desse tamanho, eramos muito pequenos ainda, eles que dei nome Pôôty, esses, e Pawy, e Kâkjärä ",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 65,
+      "start": 271680.12442581373,
+      "stop": 273250.7818175897,
+      "transcription": "ra syypjâ pïnkjâ më",
+      "translation": "e a minha falecida filha",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 66,
+      "start": 274571.8239996318,
+      "stop": 277717.1625283035,
+      "transcription": "japjâra rapa, pjântwara, prïhara, japjâra",
+      "translation": "andamos jovens, meninas, crianças, nós",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 67,
+      "start": 279054.67848061107,
+      "stop": 281335.04891389806,
+      "transcription": "mä, jy rasu rammörï",
+      "translation": "a gente foi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 68,
+      "start": 282058.4767754926,
+      "stop": 285738.5228540384,
+      "transcription": "jy roontiti rajïï pakrewynpuu",
+      "translation": "chegamos lá, aonde que pessoal fica no Xingú (na beira do rio)",
+      "notes": "Note: com os panará que levou",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 69,
+      "start": 285738.5228540384,
+      "stop": 290362.9175688079,
+      "transcription": "jy ho rapôô [ja] pakwa ho",
+      "translation": "branco trouxe banana",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 70,
+      "start": 290917.1290248414,
+      "stop": 298048.77632680314,
+      "transcription": "jy ra ho pôô hasuka, hahôja, kôkjakkïn",
+      "translation": "o branco trouxe açucar, arroz, panela",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 71,
+      "start": 298048.77632680314,
+      "stop": 301530.36350083665,
+      "transcription": "ti ransünswâri rêjää kôkkjati",
+      "translation": "deixou muitas panelas/bacias para a gente",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 72,
+      "start": 303736.20507560106,
+      "stop": 306625.81191728474,
+      "transcription": "kati rê jïnsünswârän",
+      "translation": "'pode ficar com vocês (essas panelas)'",
+      "notes": "Note: Branco hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 73,
+      "start": 306625.81191728474,
+      "stop": 310336.95351086586,
+      "transcription": "rê rïnparinpe inkjëmerân mara rêjäri",
+      "translation": "'Mas não sei (o quê fazer com) essas panelas' assim que falamos",
+      "notes": "Note: rê rïnparinpe = rênpari kêti; todos falou",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "start": 310336.95351086586,
+      "stop": 311895.00103043194,
+      "transcription": "'jyy karê soti hon?'",
+      "translation": "'como nós vamos fazer?'",
+      "notes": "Note: todos falam",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 75,
+      "start": 311895.00103043194,
+      "stop": 319995.7418970058,
+      "transcription": "ti ransakre ippë hë, ti ransakre hahôja kôkkjatamä, ta mänpjö son",
+      "translation": "os brancos nos ensinaram (fazer) arroz na panela, colocar comida (ai)",
+      "notes": "Note: mänpjö = to throw something in the water (to cook)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 76,
+      "start": 319995.7418970058,
+      "stop": 323471.340971188,
+      "transcription": "ti räkwân, kati rênwajä",
+      "translation": "(o branco) fez, 'assim que vocês vão fazer'",
+      "notes": "Note: ippë hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 77,
+      "start": 323471.340971188,
+      "stop": 328230.69881953474,
+      "transcription": "pan makahön ti räsön",
+      "translation": "macarrão, ele lavou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "start": 328230.69881953474,
+      "stop": 334465.5835909488,
+      "transcription": "tinkjân, ti mä mën sïränprâha, ti mä räkwân",
+      "translation": "primeiro que ele colocou extrato de tomate, misturou, ",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 79,
+      "start": 334465.5835909488,
+      "stop": 341920.24559709174,
+      "transcription": "ti könnën makahön toränprâjä, jattä tijärï, rê jïtä sânpün ",
+      "translation": "assim colocou extrato dètomate, 'assim que vocês podem fazer' assim que falou, isso que vimos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 80,
+      "start": 341920.24559709174,
+      "stop": 347944.31595712015,
+      "transcription": "pên rê könpari mämä hahôja, makahön, pêsönsy rähä",
+      "translation": "ali que eu entendi fazer comida (arroz, macarrão, feijão), isso",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "start": 347944.31595712015,
+      "stop": 352301.3568969526,
+      "transcription": "rê wajärï, raa kännapa",
+      "translation": "fazemos comida, ali que morava a gente",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 82,
+      "start": 355604.70942967996,
+      "stop": 358106.00063759607,
+      "transcription": "pên [na] nakännapa pïnpe kêti ",
+      "translation": "ai a gente não morava por muito tempo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "start": 358106.00063759607,
+      "stop": 363736.1566039184,
+      "transcription": "pappê rasu raapê tupajyrö tä, inkjëra ho jy py mëra hokwyy ranpïnpjâ pïnkjâ pëttä ",
+      "translation": "outras Panará foram para Tupajyrö, mas eu e o meu falecido marido fomos para cidade (do branco)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 84,
+      "start": 365068.3980959224,
+      "stop": 366922.78161345486,
+      "transcription": "pjärähê [ra]",
+      "translation": "Por que?",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 85,
+      "start": 366922.78161345486,
+      "stop": 369146.8859508559,
+      "transcription": "ra jyrimä rankjü",
+      "translation": "pessoal estava criticando para mim e outro/outra; pessoal vão matar a sua mulher",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 86,
+      "start": 369146.8859508559,
+      "stop": 373016.3994187442,
+      "transcription": "ka kâpy më röwan kansipjâra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 87,
+      "start": 373016.3994187442,
+      "stop": 377105.33950601734,
+      "transcription": "hatuja më krekkön pê sakre më mära rêjärï",
+      "translation": "Pessoal quer matar mulher do Hatuja e do Krekkön, assim que era",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "start": 377105.33950601734,
+      "stop": 379700.24379217153,
+      "transcription": "kjon, rê hasu mëho rasâja hê pjo",
+      "translation": "Não, eu não vou entrar no meio da aldeia",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 89,
+      "start": 379700.24379217153,
+      "stop": 381643.4519839485,
+      "transcription": "tümmë söpâranko",
+      "translation": "elas duas não têm söpâri",
+      "notes": "Note: não são feiticeiras",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 90,
+      "start": 381643.4519839485,
+      "stop": 384985.15959796216,
+      "transcription": "më söpârinpe [ti rêmë wa] nën timë pïrênpe",
+      "translation": "elas não tem söpâri, como que vão matar?",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "start": 384985.15959796216,
+      "stop": 388628.43688936677,
+      "transcription": "inkjë rantomapän, inkjë hënko taara më sânpari",
+      "translation": "eu sou pajé, sou eu que vou descubrir (söpâri)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 92,
+      "start": 388628.43688936677,
+      "stop": 392314.5454473893,
+      "transcription": "inkjë rantomäpä inkjë, tätün karê rasü",
+      "translation": "eu sou pajé, qualquer gente vão falar delas",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "start": 392314.5454473893,
+      "stop": 399313.67075130594,
+      "transcription": "märähä karê raasâri, ha tätün? tijärï ranpïnpjâ pïnkjâ hë, ti py më raho jïmën jy py më ra hoppa përï",
+      "translation": "'deve ser vocês mataram, todos?' assim que o meu falecido marido falou, voltou de novo para a casa do branco(com outros)",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 94,
+      "start": 399313.67075130594,
+      "stop": 401987.955578299,
+      "transcription": "mämännï sakän më rapa pïmmä përï",
+      "translation": "lá que eu ficava na casa do branco (no Peixoto)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 95,
+      "start": 401987.955578299,
+      "stop": 409450.44880940276,
+      "transcription": "përï mërapaa, rapa kjârasâ, inkjë",
+      "translation": "lá que eu morava, Kjârasâ e eu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "start": 409450.44880940276,
+      "stop": 411943.50721547287,
+      "transcription": "kjëtö pïnkjâ rähä, japjâra.",
+      "translation": "A minha falecida irmã, isso, nós.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "start": 411943.50721547287,
+      "stop": 416914.08105209045,
+      "transcription": " jy rasu më pôô nökrêha pïnkjâ, mämärähä rê rapên më röwan",
+      "translation": "Chegou falecida Nökrêha, ali que gente Panará matou ela",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 98,
+      "start": 416914.08105209045,
+      "stop": 420279.5932777692,
+      "transcription": "rê rapê më pïrï nökrêha pïnkjâ",
+      "translation": "Mataram falecida Nökrêha em prejuizo de mim",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 99,
+      "start": 423284.1386502728,
+      "stop": 427593.252434553,
+      "transcription": "sakän napa ",
+      "translation": "Morava",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 100,
+      "start": 427593.252434553,
+      "stop": 435612.47698758467,
+      "transcription": "hü, jy päpä py ratoo huhättä, jy raku japêê kjoräkkjêttä",
+      "translation": "U! Pessoal foram todos lá, o resto que foram para aldeia Kjoräkkjê",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 101,
+      "start": 435612.47698758467,
+      "stop": 443755.0291604301,
+      "transcription": "py raku japêê, rapa inkjëra kjârasâ më hate",
+      "translation": "resto foi embora, a gente (eu e) Kjârasâ sozinhas",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 102,
+      "start": 443755.0291604301,
+      "stop": 452637.54705215804,
+      "transcription": "jy mäkjââ kjârasâ, 'kjoräkkjêttä, rakö py hokwyy rö mära'",
+      "translation": "Kjârasâ pediu 'Me leva para Kjoräkkjê'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "start": 452637.54705215804,
+      "stop": 461270.4804391216,
+      "transcription": "punkja tijää, 'juttä?' 'jattä' hüü ti papan kjäkâ jappen tijäri",
+      "translation": "O meu sogro disse 'para onde?' 'Vamos andar no beirinho' assim que falou",
+      "notes": "Note: Punkja, Kjârasâ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 104,
+      "start": 461270.4804391216,
+      "stop": 467190.20619018236,
+      "transcription": "'ha jy hapêmmä kati papôjn' 'märara ti krin'",
+      "translation": "'Será que tá mais perto que vamos chegar?' 'Não é longe, é perto'",
+      "notes": "Note: Kjârasâ, punkja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 105,
+      "start": 467190.20619018236,
+      "stop": 470211.7328756196,
+      "transcription": "'mära hë pjy rö jankjâ' tijäri ",
+      "translation": "'Ali que tem caminho' assim que falou",
+      "notes": "Note: punkja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 106,
+      "start": 470211.7328756196,
+      "stop": 474158.21670966013,
+      "transcription": "'insa' tijärï 'pykkôômä kamë kaho kwyy' tijäri",
+      "translation": "'Tá bom' assim que falou. 'Amanhã que a gente vamos andar' assim que falou",
+      "notes": "Note: punkja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 107,
+      "start": 474158.21670966013,
+      "stop": 477426.3986347249,
+      "transcription": "kati më tö sâ hahôja",
+      "translation": "Vamos colocar arroz",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "start": 477426.3986347249,
+      "stop": 485689.3491622472,
+      "transcription": "tijärï, rêkïn më sanpân, susân më rakwyy ippë suu, rêkïn më sanpân hahôja",
+      "translation": "Ai eu fui lã na casa do branco e peguei arroz",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 109,
+      "start": 485689.3491622472,
+      "stop": 493461.9184756513,
+      "transcription": "makahön, pêsönsy nähä, kôkkjati, rênsê më insokkjünswârinkjon, kjârasâ më ",
+      "translation": "maccarão, feijão, isso, eu preparei panela (eu) e Kjârasâ ",
+      "notes": "Note: insokkjünswârikjon - preparar",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 110,
+      "start": 493461.9184756513,
+      "stop": 497778.38516913314,
+      "transcription": "sê më rahoröö waka ",
+      "translation": "Nós duas estávamos dormindo até amanhecer",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 111,
+      "start": 497778.38516913314,
+      "stop": 506041.3356966554,
+      "transcription": "pykkôômä më raho kwyy kjäkâ jappen, puu tijärajân",
+      "translation": "amanhã nós duas fomos lá na beira nessa hora",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 112,
+      "start": 506041.3356966554,
+      "stop": 510542.7938198578,
+      "transcription": "jäsïn jy më [ra] rakrï pyttenpê",
+      "translation": "de tarde a gente descansou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 113,
+      "start": 510542.7938198578,
+      "stop": 516915.79181376315,
+      "transcription": "rê më supjâ ra hoppa rêjäri, pünkja hapôha syrinto nähä",
+      "translation": "Nós duas estávamos carregando meu genro Hapôhae Syrinto, isso.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 114,
+      "start": 516915.79181376315,
+      "stop": 521706.87267814047,
+      "transcription": "pon pïnkjâ rähä, japjâra më raho rakwyy",
+      "translation": "Falecido Pon, isso, a gente andava com eles",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 115,
+      "start": 521706.87267814047,
+      "stop": 525518.6351411181,
+      "transcription": "'tepa sê tönswâri pjo' tijärï ",
+      "translation": "'vocês podem pegar peixe' assim que falou",
+      "notes": "Note: prëë hë kypy sün tapja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "start": 525518.6351411181,
+      "stop": 527534.2832481567,
+      "transcription": "hahôja hê tijärï",
+      "translation": "'Para (cozinhar com) arroz' assim que falou",
+      "notes": "Note: prëë hë kypy sün tapja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 117,
+      "start": 527534.2832481567,
+      "stop": 532220.0106658173,
+      "transcription": "[hän] hïn ka kän sê soti më ho jy kwyy re tijärï, inkô pjoorö pjo inta rähä",
+      "translation": "'Eu vou pescar com (as ferramentas da pesca)' assim que falou, 'não tem lagamento por não estar época da chuva'",
+      "notes": "Note: na beira onde enche só na época da chuva, onde tem bastante peixe. Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 118,
+      "start": 532220.0106658173,
+      "stop": 535704.5575270029,
+      "transcription": "rê më kukre rakrï ",
+      "translation": "nós fizemos casa",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 119,
+      "start": 535704.5575270029,
+      "stop": 545694.0947319178,
+      "transcription": "hüü jy hoppôô paku ho, [ti më] tisari kjârasâ hë, ti sê sari hahôja nähä",
+      "translation": "lá chegou, (Krekkön) pegou (muito) paku, ai Kjârasâ cozinhou arroz",
+      "notes": "Note: paku (PT) = pjoja (PNR)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 120,
+      "start": 545694.0947319178,
+      "stop": 562099.5974322855,
+      "transcription": "hüü tosâri, jy raanpân, raanpân, ti raapô, ho raakwa, jy krekjä",
+      "translation": "a comida ficou pronto, comimos, encheu barriga, a gente deitou, escureceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 121,
+      "start": 562099.5974322855,
+      "stop": 571847.389132909,
+      "transcription": "pykkôômä kati papa, ti mï pari pjo hä, inpyti tijärï, kjârasâ hë, 'sa'.",
+      "translation": "'amanhã vamos lá, vamos andar direto (5 hras, talvez mais),' assim que falou Kjârasâ. 'Tá bom'",
+      "notes": "Note: Kjârasâ, Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 122,
+      "start": 571847.389132909,
+      "stop": 575110.6613226377,
+      "transcription": "[hüü] jy py haka.",
+      "translation": "(u!) amanheceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 123,
+      "start": 575110.6613226377,
+      "stop": 579179.3414659301,
+      "transcription": "jy py rapa. ",
+      "translation": "nós andamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 124,
+      "start": 579179.3414659301,
+      "stop": 581473.514956035,
+      "transcription": "tijärajân hë",
+      "translation": "dessa hora (que andamos)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 125,
+      "start": 581473.514956035,
+      "stop": 588741.2925771957,
+      "transcription": "tijärajân rapa, pên, jy rapy tën jähä sïï, jy py rakrï.",
+      "translation": "dessa horàandamos, ai, ficou de tarde, ai descansou (pessoal), nós descansamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 126,
+      "start": 588741.2925771957,
+      "stop": 591856.7104082104,
+      "transcription": "'jähä py pê pakrï' tijäri",
+      "translation": "'vamos ficar aqui' assim que falou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 127,
+      "start": 591856.7104082104,
+      "stop": 593750.9454877634,
+      "transcription": "py rakrï",
+      "translation": "descansamos de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 128,
+      "start": 594785.5881020868,
+      "stop": 601858.7812472787,
+      "transcription": "mämännï ti py ransari kjârasâ hë hahôja, ranwajäri ti ran hosââ raanpân",
+      "translation": "Kjârasâ fez de novo arroz, fez para nos e ficou pronta a comida, e comemos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 129,
+      "start": 601858.7812472787,
+      "stop": 607953.2301785798,
+      "transcription": "rakrï, jy py raakrekjä",
+      "translation": "descansamos, escureceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 130,
+      "start": 607953.2301785798,
+      "stop": 613618.3654852206,
+      "transcription": "japên kati mï ho têpin ka tapja, kôkjatipita jö pjy tijäri",
+      "translation": "aqui que vai ficar mais pertinho da estrada do carro",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 131,
+      "start": 613618.3654852206,
+      "stop": 616815.4264479466,
+      "transcription": "jähänpja [ka] jakôpy tijää, ",
+      "translation": "aqui que sempre passa",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 132,
+      "start": 616815.4264479466,
+      "stop": 621183.3721686151,
+      "transcription": "pykkôômä py rapa",
+      "translation": "amanhã foram de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 133,
+      "start": 621183.3721686151,
+      "stop": 623817.7501673249,
+      "transcription": "tijärajân",
+      "translation": "dessa hora",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 134,
+      "start": 623817.7501673249,
+      "stop": 626339.6191304874,
+      "transcription": "py, ",
+      "translation": "'bora'",
+      "notes": "Note: päpäämërân rê sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 135,
+      "start": 626339.6191304874,
+      "stop": 631582.6054126482,
+      "transcription": "mämännï rêho têpi, nänsi pitinpjaa kôkjatipita wuuuu, tijää ",
+      "translation": "ai que ficamos mais perto, escutamos barulho do carro '(wuuuu)' assim (o barulho)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 136,
+      "start": 631582.6054126482,
+      "stop": 635332.315053842,
+      "transcription": "jy paatêpi, jakôpa pitinpjaa ka tijää",
+      "translation": "'a gente tá quase la, aqui o barulho de carro' assim que falou",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 137,
+      "start": 635332.315053842,
+      "stop": 637350.1587552881,
+      "transcription": "hü jy rakrï",
+      "translation": "(uf) ai ficamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 138,
+      "start": 637350.1587552881,
+      "stop": 642014.1630688813,
+      "transcription": "ra pitinpa raho krïï",
+      "translation": "escutamos barulho (de carro, perto da estrada), sentamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 139,
+      "start": 642014.1630688813,
+      "stop": 645729.2837462607,
+      "transcription": "hühahä [sim] jy py rakrï pyttenpê",
+      "translation": "ficamos descansando de tarde lá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 140,
+      "start": 645729.2837462607,
+      "stop": 650681.6914059707,
+      "transcription": "ra krï, jy py rakrekjä",
+      "translation": "ficamos descansando, escureceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 141,
+      "start": 650681.6914059707,
+      "stop": 654461.1431773305,
+      "transcription": "jy sê raakwa waka",
+      "translation": "deitamos, ficou da meia noite",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 142,
+      "start": 656504.3932882812,
+      "stop": 659516.8034934227,
+      "transcription": "[wÿ] py ra haka",
+      "translation": "u! amanhaceu de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 143,
+      "start": 660258.4953999916,
+      "stop": 664491.8445897928,
+      "transcription": "pên, pykôômä jy py rappa",
+      "translation": "ai, depois da manhã a gente foi de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 144,
+      "start": 664491.8445897928,
+      "stop": 667532.3921200745,
+      "transcription": "japên kati mï pjyrä tapja",
+      "translation": "'daqui, nós vamos chegar na estrada'",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 145,
+      "start": 667532.3921200745,
+      "stop": 671229.4410082027,
+      "transcription": "'yhë pitinpjajn' tijää",
+      "translation": "'perto o baralho' assim que falou",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 146,
+      "start": 671696.2393438414,
+      "stop": 676522.9420588977,
+      "transcription": "pên rappa",
+      "translation": "ai andamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 147,
+      "start": 676522.9420588977,
+      "stop": 682430.3491930777,
+      "transcription": "jy ra pôô jümä kôpy, pë mä sïï pâri mä, ti kâri pâri",
+      "translation": "chegamos ao acampamento aonde que o branco fica para destruir floresta",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 148,
+      "start": 682430.3491930777,
+      "stop": 690219.9264051439,
+      "transcription": "jy kukre sän [ka ja] mära hamä, mähë, ka ju kwyyrïn mära rê ha krïrï tijää",
+      "translation": "ali que tem casa do branco, 'pode esperar um pouquinho aqui, eu vou na frente primerio' assim que falou",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 149,
+      "start": 690219.9264051439,
+      "stop": 693766.8260242164,
+      "transcription": "hü më pjyn [ka] mämättä [nê] jytoo",
+      "translation": "ali que tem estrada, até para as aldeias, ai que ele foi",
+      "notes": "Note: unsure about nê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 150,
+      "start": 693766.8260242164,
+      "stop": 699675.718137522,
+      "transcription": "jy mä rakrï ranpapë raho krï, jy su hatoo pë suu",
+      "translation": "ai nós esperamos...e ele foi os brancos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 151,
+      "start": 699675.718137522,
+      "stop": 705543.0014813798,
+      "transcription": "hm, py kjêti jahä kypy py kwy, jahä jy pyppôô hë",
+      "translation": "(hm) demorou, ai voltou (Krekkön), chegou de tarde",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 152,
+      "start": 705543.0014813798,
+      "stop": 707209.9944650673,
+      "transcription": "mä pyrên",
+      "translation": "'bora (todos)'",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 153,
+      "start": 707440.2774178841,
+      "stop": 710487.0980243825,
+      "transcription": "märë hë pjyn, kati hë [sim] tijäri",
+      "translation": "'ali que tem estrada, lá que fica o branco' assim que falou",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 154,
+      "start": 710487.0980243825,
+      "stop": 714122.261915276,
+      "transcription": "mä pyrên papôjân, jy rappa",
+      "translation": "'bora, vamos chegar logo', a gente foi",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 155,
+      "start": 714122.261915276,
+      "stop": 717030.6285775107,
+      "transcription": "py su pjâri pünkja hapôha",
+      "translation": "Eu carreguei meu sogro Hapôha",
+      "notes": "Note: trazer wêntwê sasi hamä",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 156,
+      "start": 717751.6509293695,
+      "stop": 721700.9681646432,
+      "transcription": "mï py turïn Syrinto mä, ti py turi hahôja",
+      "translation": "'Ó, Syrinto, pode carregar arroz de novo'. Carregou arroz de novo",
+      "notes": "Note: colocou karämä",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 157,
+      "start": 721700.9681646432,
+      "stop": 726652.89653967,
+      "transcription": "rappa",
+      "translation": "andamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 158,
+      "start": 726652.89653967,
+      "stop": 730058.6394672784,
+      "transcription": "rarê pakre pää hä kukkakaka",
+      "translation": "atravessou o rio (shallow) quetinha areia mais branca",
+      "notes": "Note: kukaakaka = areia mais branca",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 159,
+      "start": 730058.6394672784,
+      "stop": 733432.2068773126,
+      "transcription": "tippaa ippë hë hüwähä tippaa",
+      "translation": "o branco está fazendo ponte",
+      "notes": "Note: tippaa - fazer ponte",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 160,
+      "start": 733432.2068773126,
+      "stop": 735802.7817720716,
+      "transcription": "rappa rasê",
+      "translation": "andamos, levantamos e paramos (em pé)",
+      "notes": "Note: vai aí (invitation to sit)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 161,
+      "start": 735802.7817720716,
+      "stop": 742027.3463568528,
+      "transcription": "'ha kati töppô ka, kôkjatipita?' 'kati töppô ka, kôkjatipita' ra sê pjy pôri",
+      "translation": "'Será que carro vai aparecer na estrada?' 'Sim vamos esperar, vai aparecer carro'",
+      "notes": "Note: Kakkrêê, Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 162,
+      "start": 742027.3463568528,
+      "stop": 746527.4420866391,
+      "transcription": "jyppôô Rirô pinkjâ, pên mÿn tën, pên",
+      "translation": "chegou falecido Rirô, tava indo o carro (para Krekkön na estrada)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 163,
+      "start": 746527.4420866391,
+      "stop": 748992.3044704015,
+      "transcription": "wâ jysan",
+      "translation": "parou o carro",
+      "notes": "Note: wâ não é do susto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 164,
+      "start": 748992.3044704015,
+      "stop": 754855.9694777704,
+      "transcription": "'uuu Panära?' tijäri. 'Haa Panära jy ra pôô' 'ju pên jy rê hapôô?'",
+      "translation": "'uu Vocês são Panará?'assim que falou. 'Sim, somos Panará' 'Daonde que vocês saiu na estrada?'",
+      "notes": "Note: Rirô, Krekkön, Rirô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 165,
+      "start": 754855.9694777704,
+      "stop": 760235.379808304,
+      "transcription": "ja pên, Pêsôppên. mora tijäri, ti raankjân, jy kö ränkjâ",
+      "translation": "'Chegou do Peixoto.' Ali a gente entrou no carro",
+      "notes": "Note: Rirô hë ti sün. Peixoto pên, Guarantã pên, kôkjatipitamä (jynkjâ märattä)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 166,
+      "start": 760235.379808304,
+      "stop": 766406.8386039436,
+      "transcription": "jy raho tën, jy rahontêri [a bolsa] hä",
+      "translation": "Fomos, fomos (do carro), travessamos a bolsa",
+      "notes": "Note: bolsa - tipo de ponte; rahontên - correr",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 167,
+      "start": 766406.8386039436,
+      "stop": 774201.7024784615,
+      "transcription": "ränwajäri [jy rahosän] jy raho sän kôkjatipita [a bolsa] wy pytinsi jy rahontêri",
+      "translation": "fez que o carro parar, a gente travessou bolsa grandão, fomos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 168,
+      "start": 774201.7024784615,
+      "stop": 783917.6648553135,
+      "transcription": "timä wankjöti rahommö, rahommö, rahommö, rahommö, tirare, raho sâpïrin",
+      "translation": "mexeu volante da bolsa, ai travessou, travessou, deixou nós subirmos",
+      "notes": "Note: ti rare - deixar",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 169,
+      "start": 785166.0368344459,
+      "stop": 790839.9263199663,
+      "transcription": "mämännï krejïn wysün kââkjën pinkjâ märattä, mätupattä",
+      "translation": "aonde que falecido tio Kâkjên enterrou lá em Matupa onde que a gente ficava",
+      "notes": "Note: não tem gente lá em matupa, inkjëräpjâ falecida já era",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 170,
+      "start": 790839.9263199663,
+      "stop": 793347.9597135559,
+      "transcription": "hüwähä jy rapôô",
+      "translation": "lá que chegou (a gente)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 171,
+      "start": 793347.9597135559,
+      "stop": 798004.1900249737,
+      "transcription": "'Panära?' tijääri ippë hë. 'Paa, Panãra, Panãra' tijää",
+      "translation": "'Vocês são Panará?' assim que falou o branco. 'Sim, Panará, Panará' assim que falou",
+      "notes": "Note: branco, Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 172,
+      "start": 798004.1900249737,
+      "stop": 800803.1589985727,
+      "transcription": "'hüwähä katirê kïkwan' tijäri ",
+      "translation": "'Vocês podem ficar lá' assim que falou",
+      "notes": "Note: the Panãra will sleep in the white people's house; branco falou",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 173,
+      "start": 800803.1589985727,
+      "stop": 804478.9413426145,
+      "transcription": "ti ransânpün kukre, jy rankjâ",
+      "translation": "ele viu casa para ver se a gente caber (se é bom para a gente), entrou a gente",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 174,
+      "start": 804478.9413426145,
+      "stop": 809592.4480651392,
+      "transcription": "ja hamä katirê kïkwannï sakä, jy rankjâ jy sakänna hakwa",
+      "translation": "'Ali que vocês vão ficar ai'. Entramos, ficamos lá deitar",
+      "notes": "Note: vai dormir na casa dos brancos; tem branco na outra casa mas essa é só panará",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 175,
+      "start": 809592.4480651392,
+      "stop": 813044.5490456602,
+      "transcription": "ti rappää Rirô hë, suty",
+      "translation": "Rirô pegou colchão para cada um",
+      "notes": "Note: Irö = nome dum branco fazendeiro em Guarantã (around same age as Hakââ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 176,
+      "start": 813044.5490456602,
+      "stop": 817496.2768274269,
+      "transcription": "kôssön [ti ränsün] ti ransaswâri ra hakwa",
+      "translation": "colocou colchão, ai a gente ficava lá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 177,
+      "start": 817496.2768274269,
+      "stop": 823369.4740922883,
+      "transcription": "mämännï kjân sakännapa, mätupa rï",
+      "translation": "ali que ficava, pouco tempo, no Matupá",
+      "notes": "Note: sakânnäpa - a gente morou",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 178,
+      "start": 824719.6183539617,
+      "stop": 826769.26888337,
+      "transcription": "[hüü]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 179,
+      "start": 831083.007169934,
+      "stop": 836687.625338873,
+      "transcription": "(mämän) mämännï jy rapê më hotoo, Syrinto më Hapôha ho",
+      "translation": "ali que o branco levou Syrinto e Hapôha em prejuizo da gente",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 180,
+      "start": 837030.1425435663,
+      "stop": 840456.6559348198,
+      "transcription": "mämän, mämännï mätupa pên",
+      "translation": "ali no Matupá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 181,
+      "start": 841174.298593554,
+      "stop": 847999.4075003982,
+      "transcription": "jy rapê më hotoo, inkjë py rammö, kypy ra pymmö japjâra Jopyjâpo tä",
+      "translation": "ali que levou (Syrinto e Hapôha) em prejuizo da gente, eu fui de novo, resto deve ser foi embora para Jopyjypo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 182,
+      "start": 851450.928104982,
+      "stop": 853819.8756347377,
+      "transcription": "më rapa",
+      "translation": "A gente morava",
+      "notes": "Note: Kakkrêê + Kjârasâ ou Krekkön; ou gente em Jopyjypo",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 183,
+      "start": 857614.9881545127,
+      "stop": 860339.2778137316,
+      "transcription": "py sakännäpa pïmmä",
+      "translation": "ali que morava muito tempo",
+      "notes": "Note: Kakkrêê, Kjârasâ, Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 184,
+      "start": 862559.6981636954,
+      "stop": 865309.3694035902,
+      "transcription": "rapa",
+      "translation": "morava",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 185,
+      "start": 870630.3856757934,
+      "stop": 875382.002097881,
+      "transcription": "jattänko kati py rakö pappan ka, Jopyjâpo tä",
+      "translation": "a gente foi atrás da gente lá em Jopyjâpo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 186,
+      "start": 875382.002097881,
+      "stop": 879892.3974647921,
+      "transcription": "hüwähä jy rapôô [ka] Kôttââ mëra rêjää",
+      "translation": "ali que chegou Kôtâ e muita gente com ele",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 187,
+      "start": 880378.99623504,
+      "stop": 883864.7971881364,
+      "transcription": "hüwähättä kati py rakö papan, Jopyjâpo tä",
+      "translation": "A gente foi lá de novo para Jopyjâpo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 188,
+      "start": 885796.4854399678,
+      "stop": 888332.7645614556,
+      "transcription": "sê ra hakwa waka",
+      "translation": "Deitamos/Descansamos até dia",
+      "notes": "Note: na casa do ippë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 189,
+      "start": 892000.7480404997,
+      "stop": 899650.0219740579,
+      "transcription": "jy ra haka, pên",
+      "translation": "ai amanheceu, ai",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 190,
+      "start": 899650.0219740579,
+      "stop": 913918.8598885793,
+      "transcription": "[jy ra] jy ra pê rapa ka, Wêntwêkre pinkjâ, mära [kjâra] Kreenpy, Kjârasâ, mämänpjâra ra hakwa",
+      "translation": "Nós imos, o falecido Wêntwêkre, Kreenpy, Kjârasâ, sozinho",
+      "notes": "Note: kjêpyti is writing; Tepakriti is helping, Kôrinke & Pârakrissan are helping; July 15 2026",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 191,
+      "start": 913918.8598885793,
+      "stop": 919287.9183173717,
+      "transcription": "jyttä karêha pan? kâkâssân nëjää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 192,
+      "start": 919287.9183173717,
+      "stop": 924289.0914771736,
+      "transcription": "hümmë jy rammöri ha balsa tä, ra soti päjn rï",
+      "translation": "'Eles vão para a lanche, os pessoal (nós) leva as coisas'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 193,
+      "start": 924289.0914771736,
+      "stop": 925938.2740330991,
+      "transcription": "py rakö më",
+      "translation": "'bora comigo'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 194,
+      "start": 925938.2740330991,
+      "stop": 929426.9294398645,
+      "transcription": "[ra, ra] rakö më ra jï hahênkjôn",
+      "translation": "'não vou sentar de lanche'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 195,
+      "start": 929426.9294398645,
+      "stop": 932855.0361617067,
+      "transcription": "mämäramä ti rapê sapôpô, tünkjäkjän pinkjâ hë",
+      "translation": "Ali que branco quase matou o falecido Hatuja (tünkjäkjä)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 196,
+      "start": 932855.0361617067,
+      "stop": 935953.9068280912,
+      "transcription": "ti rapê pïrakwa",
+      "translation": "quase matou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 197,
+      "start": 935953.9068280912,
+      "stop": 942510.7426469949,
+      "transcription": "(gesture) ti turi syrinto hë mösy, ahôja (arroz) nähä",
+      "translation": "ai que syrinto carregou milho, arroz, isso",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 198,
+      "start": 942510.7426469949,
+      "stop": 946968.6908690647,
+      "transcription": "jy më horakwy jakwa",
+      "translation": "quase levou as duas crianças",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 199,
+      "start": 946968.6908690647,
+      "stop": 951076.7173557386,
+      "transcription": "jy mä kââ mämämmä, tunkjäkjän pinkjâ më",
+      "translation": "gritou (o branco, para Kwatuja), falecido Tunkjäkjän",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 200,
+      "start": 951076.7173557386,
+      "stop": 955549.795633238,
+      "transcription": "Hatuja [Kwatuja] tijäri, mï kajö kâjasâ",
+      "translation": "'Hatuja, aqui é seu faca'",
+      "notes": "Note: ippë hë sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 201,
+      "start": 955549.795633238,
+      "stop": 957736.5815658438,
+      "transcription": "mÿn hohakwyy (mÿn wakwyy)",
+      "translation": "'Vem trazendo (faca)'",
+      "notes": "Note: ti sün Hatuja hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 202,
+      "start": 957736.5815658438,
+      "stop": 960374.6090400983,
+      "transcription": "kjon mämÿrïnko kati ho hakwy",
+      "translation": "'não, você pode trazer'",
+      "notes": "Note: ti sün Hatuja hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 203,
+      "start": 960374.6090400983,
+      "stop": 965407.6877738732,
+      "transcription": "mämÿn kati su hakwy têpittä tijää, ippë hë ti jïnswâri, rê tä më sânpün inkjë hë",
+      "translation": "'vem cá mais pertinho' falou o branco pedindo que vem. Eu vi eles dois.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 204,
+      "start": 965407.6877738732,
+      "stop": 969052.3309948827,
+      "transcription": "rê tä sânpün pïpïn",
+      "translation": "Eu vi eles, eu sem falar (quieta)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 205,
+      "start": 969052.3309948827,
+      "stop": 972835.8177671687,
+      "transcription": "ja hamä ti sê sasâri hatöjö kre pää",
+      "translation": "Aqui que colocou revolver (on one side of ribs, other side with the machete)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 206,
+      "start": 972835.8177671687,
+      "stop": 976792.8589785504,
+      "transcription": "sikja tä sikja sän hatöntosypy hä",
+      "translation": "o branco preparou revolver (tchktchk)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 207,
+      "start": 976792.8589785504,
+      "stop": 978729.5108393532,
+      "transcription": "mämÿn hohakwy",
+      "translation": "'vem trazer' (faca)",
+      "notes": "Note: Hatuja hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 208,
+      "start": 978729.5108393532,
+      "stop": 982917.1958414803,
+      "transcription": "kjon mämÿn kati su hakwyjn têpittä tijää, ippë hë ti jïswâri",
+      "translation": "'Não, vem trazer mais pertinho' ai branco pediu",
+      "notes": "Note: branco pediu",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 209,
+      "start": 982917.1958414803,
+      "stop": 986119.3710892177,
+      "transcription": "ti jïswâri",
+      "translation": "ele pediu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 210,
+      "start": 986119.3710892177,
+      "stop": 994173.5250545659,
+      "transcription": "ti më ho rasari tâti, rê tä sânpün pïpïn, [rê py tä su] rê py tä su pypan, prënprë inkjë hë",
+      "translation": "eu parei, só olhando eles dois quieta, eu voltei (para olhar eles), e parei mesmo",
+      "notes": "Note: prënprë - parei mesmo",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 211,
+      "start": 994173.5250545659,
+      "stop": 999523.3549822104,
+      "transcription": "mÿn hohakwy, ti mä sikjapërakwa têpi rï",
+      "translation": "'Vem trazer' quase pegou faca pertinho dele",
+      "notes": "Note: ippë hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 212,
+      "start": 999523.3549822104,
+      "stop": 1002414.433947781,
+      "transcription": "ti tä watö tijää",
+      "translation": "ele atirou",
+      "notes": "Note: branco atirou",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 213,
+      "start": 1002414.433947781,
+      "stop": 1004328.6283948246,
+      "transcription": "(onomatopoeia)",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 214,
+      "start": 1004328.6283948246,
+      "stop": 1006708.7384253304,
+      "transcription": "haaaaa tijäri",
+      "translation": "'Haaaaa' assim (que gritou)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 215,
+      "start": 1006708.7384253304,
+      "stop": 1009983.1106167487,
+      "transcription": "kjänpê ti sê hasââ kâjasâ",
+      "translation": "Hatuja tirou faca dele",
+      "notes": "Note: kjän - pê (MAL kjän=ippë)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 216,
+      "start": 1009983.1106167487,
+      "stop": 1013388.7442329229,
+      "transcription": "ti sapôpô tünkjäkjän pïnkjâ ippë hë",
+      "translation": "o branco acertou com faca no falecido Tünkjäkjän",
+      "notes": "Note: Tünkjäkjän is Kakkrêê's late husband",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 217,
+      "start": 1013388.7442329229,
+      "stop": 1015899.1499603034,
+      "transcription": "sökôti rï, kwaa rï",
+      "translation": "no peito, na testa",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 218,
+      "start": 1015899.1499603034,
+      "stop": 1018590.5922395876,
+      "transcription": "tokwa japôpô nëjää",
+      "translation": "na testa acertou, dizque",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 219,
+      "start": 1018590.5922395876,
+      "stop": 1022911.5459761175,
+      "transcription": "'pjärähê mä pasä', tijäri syrinto hë",
+      "translation": "'porque estão só esperando?' assim que Syrinto falou",
+      "notes": "Note: Why are they just standing there? Said Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 220,
+      "start": 1022911.5459761175,
+      "stop": 1026754.7797002783,
+      "transcription": "mämän pên jy më ratën",
+      "translation": "ai a gente correu",
+      "notes": "Note: Syrinto më Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 221,
+      "start": 1026754.7797002783,
+      "stop": 1029548.2614087769,
+      "transcription": "[jy] ti më rasïn",
+      "translation": "ali que sentei (com Syrinto)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 222,
+      "start": 1029548.2614087769,
+      "stop": 1035380.0021487421,
+      "transcription": "ho rakjêti kykkyti ho, nänsi piti möri ippë",
+      "translation": "pessoal demorou trazer abórbora, escutei barulho de motó do branco",
+      "notes": "Note: nänsi given as ouvir",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 223,
+      "start": 1035380.0021487421,
+      "stop": 1038827.9250498163,
+      "transcription": "(sound of crying)",
+      "translation": "[chorou]",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 224,
+      "start": 1038827.9250498163,
+      "stop": 1042631.0884922134,
+      "transcription": "inkwyy kwy kappë",
+      "translation": "o branco chorou andando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 225,
+      "start": 1042631.0884922134,
+      "stop": 1044655.897230955,
+      "transcription": "jypê hasän",
+      "translation": "(Syrinto) ficou quieta",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 226,
+      "start": 1044655.897230955,
+      "stop": 1047774.5750394412,
+      "transcription": "(sound of crying)",
+      "translation": "[chorou]",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 227,
+      "start": 1047774.5750394412,
+      "stop": 1052425.2349292894,
+      "transcription": "kypy ramÿn horökwyjn kjârasâ mëra kykkyti ho",
+      "translation": "Pessoal trazou abórbora, Kjârasâ e os outros com abórbora",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 228,
+      "start": 1052425.2349292894,
+      "stop": 1055653.3400293018,
+      "transcription": "kypy ra su hopô ippë",
+      "translation": "chegou o branco (com [], para [])",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 229,
+      "start": 1055653.3400293018,
+      "stop": 1058446.4955425116,
+      "transcription": "(oof, omg)",
+      "translation": "[wow]",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 230,
+      "start": 1058446.4955425116,
+      "stop": 1062926.349892484,
+      "transcription": "tijää tijää wântwê kre pïnkjâ hë. pjän hë ti kawaapjâ?",
+      "translation": "Assim que falecido Wêntwêkre falou 'O quê que você está assim?'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 231,
+      "start": 1062926.349892484,
+      "stop": 1067287.4769206874,
+      "transcription": "kwatuja hë, kwatuja hë",
+      "translation": "'Kwatuja me fez isso, Kwatuja me fez isso.'",
+      "notes": "Note: ti sün ippë hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 232,
+      "start": 1067287.4769206874,
+      "stop": 1072156.3190410172,
+      "transcription": "kypy ti jäsê më wajäri kiti më hokïrïn kjââ pjo",
+      "translation": "O branco iniciou briga, ai que Kwatuja quase matou o branco",
+      "notes": "Note: kiti kin pjo - nem um pouco bom (muito ruim)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 233,
+      "start": 1072156.3190410172,
+      "stop": 1075230.7965436345,
+      "transcription": "mämännï rê tä kâräsôn tijää ippë ",
+      "translation": "O pessoal tirou o camisa do branco",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 234,
+      "start": 1075230.7965436345,
+      "stop": 1077802.0174691968,
+      "transcription": "puu, hokïrïn kjâânpe",
+      "translation": "'uuf, não é pouco bom'",
+      "notes": "Note: ti sün inkjëmërân",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 235,
+      "start": 1077802.0174691968,
+      "stop": 1080623.780723305,
+      "transcription": "ha kypy pïröpan",
+      "translation": "'será que (Hatuja) morreu?'",
+      "notes": "Note: ti sün inkjëmërân",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 236,
+      "start": 1080623.780723305,
+      "stop": 1086875.4613716279,
+      "transcription": "pên kypy ratürïnpjajn, jümättä. jan jyttoo tijää tünkjäkjän pïnkjâ kjoräkjê tä",
+      "translation": "nós corremos aonde tem acampamento. (Falecido Hatuja) já foi para aldeia Kjoräkjê",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 237,
+      "start": 1086875.4613716279,
+      "stop": 1090628.871904302,
+      "transcription": "jattä mëra tërïn inkjëra, më rapjapôn",
+      "translation": "ai eu e Syrinto dividimos para trilhas diferentes ",
+      "notes": "Note: we split up, each following a different path",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 238,
+      "start": 1090628.871904302,
+      "stop": 1093462.109537837,
+      "transcription": "jattä ho ratën, syrinto hate",
+      "translation": "Corremos sozinhos(, eu e Syrinto)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 239,
+      "start": 1093462.109537837,
+      "stop": 1099443.8614438842,
+      "transcription": "ho rasän",
+      "translation": "Eu esperei com ela",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 240,
+      "start": 1099443.8614438842,
+      "stop": 1104376.3828688418,
+      "transcription": "juttä kati mï hajä?",
+      "translation": "Aonde vamos, isso que nós pensou",
+      "notes": "Note: juttä kati më järï (pëëntwê)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 241,
+      "start": 1104376.3828688418,
+      "stop": 1107729.9266799942,
+      "transcription": "innë tijäri",
+      "translation": "'Eu não sei' respondeu",
+      "notes": "Note: ti sün Syrinto hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 242,
+      "start": 1107729.9266799942,
+      "stop": 1114885.7048285059,
+      "transcription": "ha kati papïri rö ka ippë hë tijäri. innë.",
+      "translation": "'será que o branco nos vai matar?' disse. 'Eu não sei'",
+      "notes": "Note: Kakkrêê hë ti sün, pên Syrinto hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 243,
+      "start": 1114885.7048285059,
+      "stop": 1121083.1198321276,
+      "transcription": "häjähä kati papan ka hatyn tijäri syrinto hë",
+      "translation": "'Vamos ficar no mato mais pertinho (da aldeia)' assim que Syrinto falou.",
+      "notes": "Note: hyyjähä = pëëntwê, häjähä = swankara pëë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 244,
+      "start": 1121083.1198321276,
+      "stop": 1127919.4435990092,
+      "transcription": "kati papan, jukôpy kati supaato ippë suu tijäri",
+      "translation": "'Vamos andar no mato, aí vamos encontrar os brancos' assim que falou.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 245,
+      "start": 1127919.4435990092,
+      "stop": 1134883.549118543,
+      "transcription": "mÿn soto sakjün. mÿn sa, horapa hatyn syrinto ho",
+      "translation": "Sempre Syrinto fala correto (eu aceitei) . Ai eu (e ela) andei no mato, junto com Syrinto",
+      "notes": "Note: mï hosakjün = pëëntwê, mÿn soto sakjün = swankjara pëë. We accepted",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 246,
+      "start": 1134883.549118543,
+      "stop": 1137886.4203058647,
+      "transcription": "rên ho hakün",
+      "translation": "Passei de ano",
+      "notes": "Note: rê ho hakün = pëëntwê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 247,
+      "start": 1137886.4203058647,
+      "stop": 1145209.4173663545,
+      "transcription": "hakü jähä [jy su mëra] py su më rapôô inkjënpinpjâ pïnkjâ suu ja suu, märahä rê py sapjôri ja",
+      "translation": "No ano que encontrei o meu falecido marido que eu caseu, ali que eu casei meu marido",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 248,
+      "start": 1145209.4173663545,
+      "stop": 1147775.7953230448,
+      "transcription": "jyypjon",
+      "translation": "Acabou (o meu marido)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 249,
+      "start": 1147775.7953230448,
+      "stop": 1154785.577298363,
+      "transcription": "horapa rêjää hatyn",
+      "translation": "Eu fiquei no mato (com Syrinto)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 250,
+      "start": 1154785.577298363,
+      "stop": 1157029.696874073,
+      "transcription": "puu jy ra hakün inkjë hä",
+      "translation": "Mais passei de anos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 251,
+      "start": 1157029.696874073,
+      "stop": 1163234.8809399342,
+      "transcription": "rê jïnkjêppytinsi inkjë hë pjän hä. nën pjän në më sokkurinkjon sokkwa rê më kuu",
+      "translation": "eu fiquei muito magra. eu e ela comia só fruta",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 252,
+      "start": 1163234.8809399342,
+      "stop": 1164931.850552674,
+      "transcription": "kwatikjä",
+      "translation": "kwatikjä (fruta), tucum in portuguese",
+      "notes": "Note: inaja fruit (<- incorreto, kwatintepi)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 253,
+      "start": 1164931.850552674,
+      "stop": 1169796.30785025,
+      "transcription": "soti, kwakjä, intarahä [sot] sotanprân tajïn",
+      "translation": "coisas, fruta, na época da chuva tem fruta madura",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 254,
+      "start": 1169796.30785025,
+      "stop": 1175962.7606620009,
+      "transcription": "rê më ho sokku rêjää, syrinto më punkja hapôha ho",
+      "translation": "eu, Syrinto, e sogro Hapôha comia qualquer fruta",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 255,
+      "start": 1175962.7606620009,
+      "stop": 1180341.6113970922,
+      "transcription": "në ho rapa",
+      "translation": "ficava (no mato com eles)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 256,
+      "start": 1183693.8044435985,
+      "stop": 1187639.6959555782,
+      "transcription": "jukôpy kati pa? kôpy pakwyjn",
+      "translation": "'Aonde que nós vamos ir' 'Aqui nós vamos la'",
+      "notes": "Note: Kakkrêê hë ti sün, pên Syrinto hë ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 257,
+      "start": 1187639.6959555782,
+      "stop": 1191215.7573892362,
+      "transcription": "kati paatojn jattä rê mä järi",
+      "translation": "'vamos sair para lá' assim que eu falei para ela",
+      "notes": "Note: para Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 258,
+      "start": 1191215.7573892362,
+      "stop": 1192616.6100175013,
+      "transcription": "sa tijäri",
+      "translation": "'tá bom' assim que falou",
+      "notes": "Note: ti sün Syrinto hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 259,
+      "start": 1192616.6100175013,
+      "stop": 1196017.2494909207,
+      "transcription": "ho rakwyy",
+      "translation": "Eu andei com ela",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 260,
+      "start": 1196017.2494909207,
+      "stop": 1200978.034337252,
+      "transcription": "py më rajïï, rên më räpe",
+      "translation": "A gente sentou, a fez casinha (oca)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 261,
+      "start": 1200978.034337252,
+      "stop": 1206091.4587173164,
+      "transcription": "hassy hamä më rapa, haty rê ho rapa",
+      "translation": "Ficava sem jeito de andar (sem recurso, nada), andamos no mato",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 262,
+      "start": 1206091.4587173164,
+      "stop": 1210899.6040299144,
+      "transcription": "pykkôômä py ho rajïï",
+      "translation": "Amanhã vou ficar de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 263,
+      "start": 1210899.6040299144,
+      "stop": 1212964.6475831678,
+      "transcription": "rê pyjn kin më räpe",
+      "translation": "fez de novo casa",
+      "notes": "Note: räpe = pârikâproja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 264,
+      "start": 1212964.6475831678,
+      "stop": 1219284.4188863125,
+      "transcription": "kwatikjä inkjë mä tä tökwyn rê mäjä syrinto mä, hïn tijää. rapênkwyy punkja hapôha",
+      "translation": "'essa fruta pode pegar' eu falei para Syrinto. 'Meu sogro Hapôha está chorando'",
+      "notes": "Note: päpää ti sün Kakkrêê hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 265,
+      "start": 1220192.2803830681,
+      "stop": 1224087.6245938784,
+      "transcription": "pên, mä tä suswattä möri, ti mä tän krââ pôn",
+      "translation": "Ai, eu peguei fruta (do árvore), tirou vara ",
+      "notes": "Note: suswattä möri - subir",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 266,
+      "start": 1224087.6245938784,
+      "stop": 1227604.219921734,
+      "transcription": "ti mä kwââ, ti kuri",
+      "translation": "quebrou, comeu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 267,
+      "start": 1227604.219921734,
+      "stop": 1231286.0257858562,
+      "transcription": "ti kuri, ti hapô",
+      "translation": "comeu, encheu barriga",
+      "notes": "Note: tihapô ~ tiraapô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 268,
+      "start": 1231286.0257858562,
+      "stop": 1236779.5139005785,
+      "transcription": "pên pykkôômä, py ho rakwyy",
+      "translation": "vem a manhã, eu andei de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 269,
+      "start": 1236779.5139005785,
+      "stop": 1241257.519446538,
+      "transcription": "py ho rajïï",
+      "translation": "(descansou) sentava a gente junto",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 270,
+      "start": 1241257.519446538,
+      "stop": 1254032.327490078,
+      "transcription": "pykkôôma tö hamä, py më ho rajïï. pykkôôma tö hamä, py më ho rajïï.",
+      "translation": "outro dia, descansou de novo. outro dia, descansou de novo.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 271,
+      "start": 1254032.327490078,
+      "stop": 1260543.358686463,
+      "transcription": "rankjêta mä ho rapa, nën ra pê sunpa kêti (pjo) inkjë pê haty",
+      "translation": "não é muito gente com que eu andei, eu andei no mato eu sozinha sem medo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 272,
+      "start": 1260543.358686463,
+      "stop": 1266477.4630679786,
+      "transcription": "[hati pa] kôkjatipita japê ka ti kanpapë rêmä järi syrinto mä.",
+      "translation": "'Vamos escutar barulho de carro' assim que falei para Syrinto",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 273,
+      "start": 1266477.4630679786,
+      "stop": 1273070.9123807733,
+      "transcription": "jahä sökrepô jakwansi kati järi, jakôpy tijäri",
+      "translation": "'aqui o barulho (do carro)  vem' assim que falei. 'Está la' assim que falei.",
+      "notes": "Note: sökrepôjakwa - pouquinho de barulho",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 274,
+      "start": 1273070.9123807733,
+      "stop": 1277111.7282936608,
+      "transcription": "pykkôômä ti järajân ho rakwyy",
+      "translation": "Amanhã nessa hora que eu andei",
+      "notes": "Note: na mesma hora que andei hoje, vou andar de novo amanhã",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 275,
+      "start": 1278180.8355981894,
+      "stop": 1283786.1180186784,
+      "transcription": "jy më raa têpi jakôpy, nänsi piti tën",
+      "translation": "a gente quase cheguei nesse horário, eu escutei barulho",
+      "notes": "Note: gesturing to time in video probably",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 276,
+      "start": 1283786.1180186784,
+      "stop": 1289424.5977449329,
+      "transcription": "jakôpa piti. jakôpy kati hakwyjn tijää. jukôpy? jakôpy tijää.",
+      "translation": "'Ali que é barulho. Ali que vamos andar' assim que falei. 'Aonde?' 'Ali' assim que falei",
+      "notes": "Note: Kakkrêê, Syrinto, Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 277,
+      "start": 1289424.5977449329,
+      "stop": 1293068.6161671525,
+      "transcription": "sê më ho rajïï, sêrakô pïpïn",
+      "translation": "Eu sentei com eles, descamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 278,
+      "start": 1293068.6161671525,
+      "stop": 1297536.0948949833,
+      "transcription": "ho ra jïï, rê mësânpün pêêjââ näkjä hahä",
+      "translation": "descansando de novo, vimos açaí maduro",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 279,
+      "start": 1297536.0948949833,
+      "stop": 1300998.3192882976,
+      "transcription": "pêêjââ sônsi",
+      "translation": "muito açaí na árvore",
+      "notes": "Note: many fruit on the bunch",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 280,
+      "start": 1300998.3192882976,
+      "stop": 1304786.009802228,
+      "transcription": "mÿn hakwyy, py.",
+      "translation": "'vem cá, bora'",
+      "notes": "Note: Kakkrêê hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 281,
+      "start": 1304786.009802228,
+      "stop": 1307428.1645901666,
+      "transcription": "pa wâjân",
+      "translation": "vamos chegar logo",
+      "notes": "Note: she said [ha] because she has no teeth",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 282,
+      "start": 1307428.1645901666,
+      "stop": 1310395.7854987218,
+      "transcription": "[rê] py supjâri",
+      "translation": "carregando Hapôha (nas costas)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 283,
+      "start": 1310395.7854987218,
+      "stop": 1315242.8996493616,
+      "transcription": "jy raankô pïri inkô tijäri, hy ra pênkwyy.",
+      "translation": "'Eu tô com sede para tomar água' assim que falou, (Hapôha) chorou",
+      "notes": "Note: Ti sün Hapôha hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 284,
+      "start": 1315242.8996493616,
+      "stop": 1318647.1806904122,
+      "transcription": "jy paa têpi ka, [jy pa] rê paapôô kappë suu",
+      "translation": "'Tá quase chegando, vamos encontrar branco.'",
+      "notes": "Note: Kakkrêê hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 285,
+      "start": 1318647.1806904122,
+      "stop": 1321870.5863451343,
+      "transcription": "puhahä kati hakö rê mäjäri.",
+      "translation": "'Lá que cê vai tomar'",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 286,
+      "start": 1321870.5863451343,
+      "stop": 1330575.6076768958,
+      "transcription": "pên sän hakwyti, tinpân. hakwyti ka hë sä tijäri syrinto hë. juri?",
+      "translation": "Encontrei jabuti, (Syrinto) pegou. 'Olha só o jabuti tá ali' assim que falou Syrinto 'cadê?'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 287,
+      "start": 1330575.6076768958,
+      "stop": 1335299.8212217551,
+      "transcription": "ka paturin ka, mära ratökwan kati järi. hê.",
+      "translation": "'Eu vou carregar (Hapôha), tem alguem que vamos encontrar no acampamento' assim que falou. 'Tá bom'",
+      "notes": "Note: Syrinto, then Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 288,
+      "start": 1335299.8212217551,
+      "stop": 1336771.355958796,
+      "transcription": "[rê mäsêrän]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 289,
+      "start": 1336771.355958796,
+      "stop": 1341699.2382911975,
+      "transcription": "rê mä sêräsôn, pôsô jö, rê mä pre. rê mä sikô tituri.",
+      "translation": "Tirei envira de bananeira, eu amarrei. Eu amarrei, carregou (syrinto hë)",
+      "notes": "Note: tipo de envira, mas da bananeira, para carregar Hapôha",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 290,
+      "start": 1341699.2382911975,
+      "stop": 1344703.0463033847,
+      "transcription": "ti jôjô toppa",
+      "translation": "Carregando ",
+      "notes": "Note: ti jôjôti hoppa",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 291,
+      "start": 1346661.0859902843,
+      "stop": 1348686.356928242,
+      "transcription": "piti tën nänsi haka",
+      "translation": "Escutei barulho do carro perto da estrada",
+      "notes": "Note: aonde vai para a estrada do pjy",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 292,
+      "start": 1348686.356928242,
+      "stop": 1352147.3311271118,
+      "transcription": "jakôpa hakan ka, jakôpy.",
+      "translation": "'ali é mais clara, ali'",
+      "notes": "Note: Syrinto hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 293,
+      "start": 1352147.3311271118,
+      "stop": 1356326.4773070659,
+      "transcription": "mërarêê pakjappää mëra kwyy më raa swattä möri më raapïrïn",
+      "translation": "travassou na igarapé, aonde que tem morrozinho subiu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 294,
+      "start": 1356326.4773070659,
+      "stop": 1359460.8856676093,
+      "transcription": "kwy, pên kwy.",
+      "translation": "subiu e ai desceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 295,
+      "start": 1359460.8856676093,
+      "stop": 1363466.1602635314,
+      "transcription": "jukôpy kypy tö räpön",
+      "translation": "aonde que tem lugar bom sem morro",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 296,
+      "start": 1363466.1602635314,
+      "stop": 1368464.5787876872,
+      "transcription": "rêmë sânpün, jakôpy tijäri",
+      "translation": "olhei, 'aqui' assim que falou",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 297,
+      "start": 1368464.5787876872,
+      "stop": 1371313.0889517372,
+      "transcription": "ha jy hapo? haa. hapo hajan katijä",
+      "translation": "'Está sem montanha?' 'Sim. Aqui que vamos descer' assim que falou",
+      "notes": "Note: tá bom para descer aqui. Kakkrêê, ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 298,
+      "start": 1371313.0889517372,
+      "stop": 1378200.5314379474,
+      "transcription": "pyti harê, harê haswa hasï mämäkôpy. rê mäjä syrinto mä 'hïn, inkjë kankjyn hontêra swam. märäwasännï'",
+      "translation": "'eu vou descer primeiro, eu não tenho nada carregado'. Ai falou para Syrinto, 'Tá bom, eu vou levar primeiro (hakwyti) e deixar lá e voltar de novo. Pode ficar e esperar'",
+      "notes": "Note: Syrinto then Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 299,
+      "start": 1378200.5314379474,
+      "stop": 1381856.8280664294,
+      "transcription": "jy sê më horasän",
+      "translation": "Eu esperei",
+      "notes": "Note: Kakkrêê esperou",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 300,
+      "start": 1381856.8280664294,
+      "stop": 1384705.3382304793,
+      "transcription": "ho rasän, ho rasän, ho rasän.",
+      "translation": "eu esperei com ele, eu esperei com ele, eu esperei com ele",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 301,
+      "start": 1384705.3382304793,
+      "stop": 1390572.4188668805,
+      "transcription": "ti sari hakwyti, ti sari 'paa, pëkâ, nähä.'",
+      "translation": "deixou jabuti, deixou. 'Tá bom, camisa do branco, tá bom'",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 302,
+      "start": 1390572.4188668805,
+      "stop": 1396056.8638096035,
+      "transcription": "mÿn py tärä swattä möri, mämÿn ho tijäri. rê mä söri.",
+      "translation": "(Syrinto) tava subindo para mim. 'Me da' assim que falou 'Me entrega o Hapôha'",
+      "notes": "Note: Syrinto, Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 303,
+      "start": 1396056.8638096035,
+      "stop": 1398437.7081258243,
+      "transcription": "ha ti tün ho hankja kwyy tâtin?",
+      "translation": "'Pode descer bem devegar, cuidado, pode segurar?'",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 304,
+      "start": 1398437.7081258243,
+      "stop": 1404049.6982997733,
+      "transcription": "kö ramöri inkjë, ka ramöri, jy kö rawâ.",
+      "translation": "Eu foi com ele, eu foi bem devagar, eu desci.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 305,
+      "start": 1404049.6982997733,
+      "stop": 1407961.0853907077,
+      "transcription": "mämänpên jy rajïï, tijäri.",
+      "translation": "Ai descansei, assim que era.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 306,
+      "start": 1410119.6421942343,
+      "stop": 1413234.8937506564,
+      "transcription": "më rajïï, rê më sânpün kukre.",
+      "translation": "Sentamos, vimos casa",
+      "notes": "Note: ippë jö kukre. Pytira porque Hapôha tava quase escondendo (não podia participar muito)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 307,
+      "start": 1413234.8937506564,
+      "stop": 1419381.200875489,
+      "transcription": "pënna tökwa, tijäri sännera [janela] hë, hë. ",
+      "translation": "'Será que tem alguem na casa?'assim que falei. Tava assim essa janela.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 308,
+      "start": 1419381.200875489,
+      "stop": 1424853.9400962302,
+      "transcription": "ha kypy ra tökkwarön panära tijäri.",
+      "translation": "'Será que tem Panará?' assim que falou.",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 309,
+      "start": 1424853.9400962302,
+      "stop": 1428642.7595567433,
+      "transcription": "innë.",
+      "translation": "'Eu não sei'",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 310,
+      "start": 1428642.7595567433,
+      "stop": 1432599.9709932795,
+      "transcription": "jy më rajïï",
+      "translation": "Sentando os dois",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 311,
+      "start": 1432599.9709932795,
+      "stop": 1436725.5744058385,
+      "transcription": "mä hê kaakwy ti järi syrinto hë.",
+      "translation": "'Eu vou lá' assim que falou Syrinto.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 312,
+      "start": 1436725.5744058385,
+      "stop": 1441524.7457224885,
+      "transcription": "ka raapê kwyy ka, inkjë kaakwy tijäri. hê.",
+      "translation": "'Eu vou lá (para ver se tem Panará), eu vou' assim que falou. 'Tá bom'",
+      "notes": "Note: Syrinto, Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 313,
+      "start": 1441524.7457224885,
+      "stop": 1446071.329075104,
+      "transcription": "kwyy, kjäkâ jappen kati tün hakwyy pimmän hapekô köö.",
+      "translation": "Foi, na beirinha do mato. Para esconder folha de hapekô até chegar lá na casa",
+      "notes": "Note: Usa hapekô folha para esconder",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 314,
+      "start": 1446071.329075104,
+      "stop": 1449040.9924813092,
+      "transcription": "kwyy [rïn] (ra) samäro sïï",
+      "translation": "Ela foi eu observando ela (de longe)",
+      "notes": "Note: rïn - pëë nänka",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 315,
+      "start": 1454852.257247697,
+      "stop": 1460764.7857180287,
+      "transcription": "jy sââ pôttä, wuhähä täppa, ippë sö hä.",
+      "translation": "Ela entrou no meio, lá andando, os brancos estavam fazendo comida.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 316,
+      "start": 1460764.7857180287,
+      "stop": 1465864.20621355,
+      "transcription": "kypyntiti jaköö kypy mäntitin inkjënpinpjâ pïnkjâ sas(ê)",
+      "translation": "ela procurou, ali meu marido estava escondido na rede",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 317,
+      "start": 1465864.20621355,
+      "stop": 1467998.7976330598,
+      "transcription": "sännera jïpôri",
+      "translation": "na janela (ela viu)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 318,
+      "start": 1467998.7976330598,
+      "stop": 1470987.2256203734,
+      "transcription": "kypy kjäsä",
+      "translation": "a cabeça chegou (na janela)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 319,
+      "start": 1470987.2256203734,
+      "stop": 1474992.668013396,
+      "transcription": "kypy mä krâ sasê",
+      "translation": "pegou o rede dele",
+      "notes": "Note: Syrinto hë, rede do Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 320,
+      "start": 1474992.668013396,
+      "stop": 1481679.602813075,
+      "transcription": "krekön, krekön haka kaarö",
+      "translation": "'Krekön, Krekön, você está deitando?'",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 321,
+      "start": 1481679.602813075,
+      "stop": 1487013.2293794854,
+      "transcription": "prëë hë inkjë sasê krârïn",
+      "translation": "'Quem está mexendo minha rede?'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 322,
+      "start": 1489410.6950258915,
+      "stop": 1496008.7488123865,
+      "transcription": "sâpâraritankjâ, prëë hankjë kâjn hï",
+      "translation": "'Procurei...quem está me chamando?'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 323,
+      "start": 1496008.7488123865,
+      "stop": 1502297.6517787513,
+      "transcription": "krekön, ha jähä ka kinkwan? rê pa sün kjäkün",
+      "translation": "'Krekön, aqui que você está deitando?' Ai Krekön olhou para ela (Syrinto)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 324,
+      "start": 1502297.6517787513,
+      "stop": 1507949.703811813,
+      "transcription": "prëë ka hapa? inkjë [ka ti] inkjëra tijäri.",
+      "translation": "'Quem está la?' 'Eu, os dois' assim que falou.",
+      "notes": "Note: Krekön, Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 325,
+      "start": 1507949.703811813,
+      "stop": 1511309.806339665,
+      "transcription": "jupên jy hapôô?",
+      "translation": "'Daonde que você chegou?'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 326,
+      "start": 1511309.806339665,
+      "stop": 1518065.7615205708,
+      "transcription": "jupên jy hapôô syrinto? märaa pê kati pyppa rê mäjää",
+      "translation": "'Daonde que você chegou, Syrinto? Você pode entrar na porta'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 327,
+      "start": 1519572.2333445882,
+      "stop": 1526736.806344244,
+      "transcription": "kypy të jaapê, huhähä kypy susâ, huhähä sukwyy pô hä",
+      "translation": "(Syrinto) correu, e entrou, lá foi no meio",
+      "notes": "Note: meio: porta",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 328,
+      "start": 1526736.806344244,
+      "stop": 1532383.6244256236,
+      "transcription": "ti jümänkwyy jatêê",
+      "translation": "Ele (Krekön) chorou, triste",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 329,
+      "start": 1532383.6244256236,
+      "stop": 1534856.792173045,
+      "transcription": "jukre jynkjââ mä",
+      "translation": "Quase não conseguiu respirar direto",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 330,
+      "start": 1534856.792173045,
+      "stop": 1537145.9135123054,
+      "transcription": "ju ty sâ jymä",
+      "translation": "'Eu não consigo respirar'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 331,
+      "start": 1537145.9135123054,
+      "stop": 1542725.9622784771,
+      "transcription": "mä, mä ho näsisin, rankwyy rênteri.",
+      "translation": "Chorou rapidão, ai parei (de chorar)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 332,
+      "start": 1545107.023961401,
+      "stop": 1550707.549099701,
+      "transcription": "pjärähâ ka hankwyy krekön? tijäri sanpanprâha hë",
+      "translation": "'Porque você está chorando ai, Krekön?' assim que falou algum Indigena",
+      "notes": "Note: sanpanprâ - red cheeks (urucum ho), não sabe qual etnia",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 333,
+      "start": 1550707.549099701,
+      "stop": 1554192.4672892496,
+      "transcription": "jupên jyppôô syrinto?",
+      "translation": "'Daonde que chegou Syrinto?'",
+      "notes": "Note: Sanpanprâha",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 334,
+      "start": 1554192.4672892496,
+      "stop": 1559138.8027840925,
+      "transcription": "huhähä [ra më] huhähä sï kakkrêê män ho hapôha ho.",
+      "translation": "'Ali, nós, alí que esta sentada Kakkrêê, com Hapôha.'",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 335,
+      "start": 1559138.8027840925,
+      "stop": 1563298.2212683924,
+      "transcription": "juttä pên jy më hapôô? japên jy më raatoo",
+      "translation": "'Daonde que vocês chegou?' 'Daqui que eu sai'",
+      "notes": "Note: Tö Panará hë ti sakkjâri, pên Syrinto hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 336,
+      "start": 1563298.2212683924,
+      "stop": 1567252.4360100916,
+      "transcription": "hatyrä ramë pan, ippë hë [ti më] ippë jy më hotoo ippë",
+      "translation": "'estava no mato' '(pensei que) branco robou para cidade'",
+      "notes": "Note: Syrinto, tö Panará",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 337,
+      "start": 1567252.4360100916,
+      "stop": 1569252.3332869313,
+      "transcription": "ippë hë ti më sapjôri",
+      "translation": "'(Pensava que) o brancos pegaram vocês'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 338,
+      "start": 1569252.3332869313,
+      "stop": 1572741.2253949107,
+      "transcription": "jy më ho sujy rêkän më järi, [jy] (juri) jy më kotoo?",
+      "translation": "'Deve ser os brancos pegaram você bem longe' assim que pensamos 'Cadê que levaram?'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 339,
+      "start": 1572741.2253949107,
+      "stop": 1575664.0600055,
+      "transcription": "pën ka rêha kriihä panära",
+      "translation": "os panará está mentido ",
+      "notes": "Note: pën –tö panará",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 340,
+      "start": 1575664.0600055,
+      "stop": 1581172.4790793024,
+      "transcription": "huhähä sï ka, ippë mä mä sün, suppa hahê ippë",
+      "translation": "'Ela está sentando' fala para o branco para ele ir para ela.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 341,
+      "start": 1581172.4790793024,
+      "stop": 1590390.649774237,
+      "transcription": "kypy më më rasü, mÿ pïrömöri, rirô jöpää taankjâ, ja, ja, ja, ja, ja, ja, ja, ja.",
+      "translation": "Deve ser Syrinto falou para o branco, foram muitos (brancos), o filho do Rirô e sete mais brancos foram para Kakkrêê",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 342,
+      "start": 1590390.649774237,
+      "stop": 1593279.722191065,
+      "transcription": "mÿn kwyy sôtajy",
+      "translation": "Brancos estavam numa fila indo.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 343,
+      "start": 1593279.722191065,
+      "stop": 1597810.1530165016,
+      "transcription": "mÿ pïrömöri, rê sânpü röö jïï inkjë hë",
+      "translation": "Chegaram para mim, eu sentava olhando eles.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 344,
+      "start": 1600511.0361666107,
+      "stop": 1607590.4072903956,
+      "transcription": "kakkrêê jupên jy py hapôô hapôha? juri nökrêha?",
+      "translation": "(Chamou) 'Kakkrê! daonde que você chegou, Hapôha? Cadê Nökrêha?'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 345,
+      "start": 1607590.4072903956,
+      "stop": 1613998.1600905333,
+      "transcription": "ti ro inkwyy jatêê, ti më ro inkwyy jatêê, rirô [irô] pïnkjâ inkwyy, ka kärïnkwyy sê ",
+      "translation": "Ai o falecido Rirô tava chorando de mim, da gente (eu e Hapôha), todos os brancos chorou de mim",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 346,
+      "start": 1613998.1600905333,
+      "stop": 1616808.5779853305,
+      "transcription": "tora kjäpön",
+      "translation": "Mexendo no cabelo",
+      "notes": "Note: Heads were in their hands wiping off tears",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 347,
+      "start": 1616808.5779853305,
+      "stop": 1621080.413185422,
+      "transcription": "bora tijäri, comer hahôja (arroz) tijäri",
+      "translation": "'Bora' assim que falou, 'comer arroz' assim que falou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 348,
+      "start": 1621080.413185422,
+      "stop": 1624790.1648065543,
+      "transcription": "rapa, kömë rakwyy",
+      "translation": "Andando, junto com ele",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 349,
+      "start": 1624790.1648065543,
+      "stop": 1629286.83343823,
+      "transcription": "pên jyrankjâ, huhähä kwan krekön",
+      "translation": "Ai entrou, ali estava Krekön",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 350,
+      "start": 1629286.83343823,
+      "stop": 1634233.1689330728,
+      "transcription": "kjârasâ, tijäri, jara më kwan tijäri",
+      "translation": "Kjârasâ, assim que era, ela e ele estavam deitando, assim que era",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 351,
+      "start": 1634233.1689330728,
+      "stop": 1641652.6721753373,
+      "transcription": "rapa, jy rankjâ, pënnöö",
+      "translation": "Andei, entrei, alguem estava deitando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 352,
+      "start": 1641652.6721753373,
+      "stop": 1650747.3546872165,
+      "transcription": "kjänpê rê py mänkwy jatêê inkjë hë, inkwyy tinteri, kjârasâ më.",
+      "translation": "Quando entrei, chorou de novo, parou de chorar, e Kjârasâ chorou tambem.",
+      "notes": "Note: kjânpë - chorou de novo",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 353,
+      "start": 1650747.3546872165,
+      "stop": 1654608.3572381763,
+      "transcription": "mënkwyy",
+      "translation": "Choramos (Kjârasâ e Krekön)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 354,
+      "start": 1654608.3572381763,
+      "stop": 1661200.3128129854,
+      "transcription": "ti më raakjâri, jupên jy më hapôô? tijäri",
+      "translation": "Ele perguntou nos dois, 'daonde que vocês chegaram?' assim que falou.",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 355,
+      "start": 1661200.3128129854,
+      "stop": 1664967.1445700193,
+      "transcription": "hatyn ho rapa inkjë",
+      "translation": "'Eu tava no mato.'",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 356,
+      "start": 1664967.1445700193,
+      "stop": 1671182.4169691252,
+      "transcription": "Tisapôpô, ha jy rêpy hasu too? hühähä jy py pôô ka.",
+      "translation": "'Tisapôpô, será que foi ele (atrás os Panará)? Lá chegou de novo.'",
+      "notes": "Note: Tisapôpô - nome dum branco. Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 357,
+      "start": 1671182.4169691252,
+      "stop": 1676173.4690471948,
+      "transcription": "[jy] pôô ka punkja, ti sapjôri Wêntwêkre",
+      "translation": "Chegou meu sogre, casou Wêntwêkre",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 358,
+      "start": 1676173.4690471948,
+      "stop": 1678716.0804831928,
+      "transcription": "ti py sapjôri",
+      "translation": "Casou de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 359,
+      "start": 1678716.0804831928,
+      "stop": 1685308.036058002,
+      "transcription": "mämä poppan, huhähä kwan hatö swakre, ti sapôpô parï, turï tijäri",
+      "translation": "Aqueles que andou de novo, lá que estão deitando machucado no braço e barriga do revolver, assim que era",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 360,
+      "start": 1688792.3554332582,
+      "stop": 1693783.407511328,
+      "transcription": "[nan,] ra më rajïï",
+      "translation": "nos dois estava esperando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 361,
+      "start": 1693783.407511328,
+      "stop": 1697644.4100622877,
+      "transcription": "joppôô sö ho, raanpân",
+      "translation": "(o branco) trouxe comida, comemos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 362,
+      "start": 1697644.4100622877,
+      "stop": 1702164.6081707284,
+      "transcription": "raanpân ti raapô",
+      "translation": "comemos, enchou barriga",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 363,
+      "start": 1702164.6081707284,
+      "stop": 1707249.831042724,
+      "transcription": "sê ratuhati pjo, raanpâränko tara tu kââjoti",
+      "translation": "A minha barriga não aguentava, se for eu comer o meu estómago sim aguentaria",
+      "notes": "Note: tukââ – stomach",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 364,
+      "start": 1707249.831042724,
+      "stop": 1713182.5910600524,
+      "transcription": "hasuka hë rösën, ja kati nänkôn, hë rösën hahôja, hasuka kati jää",
+      "translation": "'ai que tem açucar, vocês pode fazer' assim que ele (o branco) falou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 365,
+      "start": 1713182.5910600524,
+      "stop": 1717985.3015502705,
+      "transcription": "ti mä päri ka, ranpinpjâ pïnkjâ, mära rösên ka hasuka tijäri",
+      "translation": "ai o branco que estava pegando comida para meu falecido marido disse 'ai tem açucar'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 366,
+      "start": 1717985.3015502705,
+      "stop": 1723070.524422266,
+      "transcription": "kjârasâ hë, sö kati pjajn jïränkôn tijäri",
+      "translation": "Kjârasâ disse 'essa comida vai misturar farinha e açucar' assim que falou (Kjârasâ)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 367,
+      "start": 1723070.524422266,
+      "stop": 1729837.4254908222,
+      "transcription": "sa kän më rapa, mämännï rapa pêsoto rï, märähä matupa rï",
+      "translation": "Ai eu estava morando lá, lá em Peixoto, ai em Matupá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 368,
+      "start": 1729837.4254908222,
+      "stop": 1733105.6722714258,
+      "transcription": "sa kän mëra pa",
+      "translation": "Morava (eu, Syrinto, Hapôha)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 369,
+      "start": 1733105.6722714258,
+      "stop": 1737046.793389213,
+      "transcription": "mämännï mëra pa pïmmä kjârasê më",
+      "translation": "ai mesmo ficava sempre com Kjârasâ",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 370,
+      "start": 1737046.793389213,
+      "stop": 1743198.787329173,
+      "transcription": "py kin ranpinpjâ pïnkjâ",
+      "translation": "ai estava melhorando o meu falecido marido",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 371,
+      "start": 1743198.787329173,
+      "stop": 1754043.9741159503,
+      "transcription": "pykkôômä ka py rakö mëtë inkjëra tinteri pârankô ho",
+      "translation": "amanhã eu vou com ele, já parou de tomar remédio",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 372,
+      "start": 1754043.9741159503,
+      "stop": 1757713.6480312666,
+      "transcription": "pykkôômä kapy rakö mëtë inkjëra, hê.",
+      "translation": "'Amanhã você vai ir comigo, a gente dois' 'Tá bom'",
+      "notes": "Note: Kakkrêê, Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 373,
+      "start": 1757713.6480312666,
+      "stop": 1766172.6396987117,
+      "transcription": "kati pyho hatë krekön kansipâ ho tijäri, mämä rêpy tähajïï inkjë hë, insipjâ hä tijäri",
+      "translation": "'agora você pode ir, com a sua esposa' assim que falou. 'Então eu vou ficar com ele (Krekön)' eu disse. 'Para você casar de novo' assim que (o branco) falou",
+      "notes": "Note: Branco, Kakkrêê, Branco",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 374,
+      "start": 1766172.6396987117,
+      "stop": 1771555.6343961768,
+      "transcription": "jy më mëra pëë syrinto më hapôha mä",
+      "translation": "Ai conversei com Syrinto e Hapôha",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 375,
+      "start": 1771555.6343961768,
+      "stop": 1775304.50570334,
+      "transcription": "jahä kati sakän më hapan",
+      "translation": "'Você pode ficar junto com ele (o branco)'",
+      "notes": "Note: Kakkrêê hë, Syrinto më Hapôha mä",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 376,
+      "start": 1775304.50570334,
+      "stop": 1783090.6230336023,
+      "transcription": "taapjâ prï kôpy pjântwê kôpy rankjâppy hankwan. [ha tä] ha tätün? rê sitepara rapari pjo",
+      "translation": "'Se não, alguem vai matar você, ai eu quero que você ficar com branco. Senão, Panará vai matar qualquer pessoa. Só não adultos que não matam.'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 377,
+      "start": 1783090.6230336023,
+      "stop": 1789146.4920682507,
+      "transcription": "taapjâ ka, raankjân prï kôpy ra hapïri timä järi? kjon ka.",
+      "translation": "'Senão, o pessoal vai matar você de novo criança?' (Krekön) falou para (Syrinto e Hapôha). 'Kjon'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 378,
+      "start": 1789146.4920682507,
+      "stop": 1793952.7373338444,
+      "transcription": "ka py hakö mëkwyy hänkon ka, tijäri, rakö mënkwyy",
+      "translation": "'Não, quero ir com você' assim que falou, ai (Syrinto e Hapôha) chorou. ",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 379,
+      "start": 1793952.7373338444,
+      "stop": 1798804.9239143569,
+      "transcription": "py hakö mëkwyy hänkon ka, prëë hë ti mä tä sokkjanpârê kêti [pjo]",
+      "translation": "'Eu vou com vocês, ninguem vai cuidar quando a minha mãe trabalha'",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 380,
+      "start": 1798804.9239143569,
+      "stop": 1802315.6040959777,
+      "transcription": "swakjê mä pïkö tijäri",
+      "translation": "'Eu vou com você, ficar e cuidar de Swakjê juntos' assim que falou",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 381,
+      "start": 1802315.6040959777,
+      "stop": 1806448.9750243884,
+      "transcription": "ka py kö mäkwyy hänkon ka, wântwê mä tijäri",
+      "translation": "'Eu quero ir para eu cuidar do criança' assim que falou. ",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 382,
+      "start": 1806448.9750243884,
+      "stop": 1810669.8635179244,
+      "transcription": "kjon rê haswâri pjän pjon inkjë hë, jahä kati sokkö më hapan",
+      "translation": "'Não, eu não deixou você ir. Você não vai morar bem com os Panará. Aqui que você vai ficar (na casa do branco)'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 383,
+      "start": 1810669.8635179244,
+      "stop": 1814942.3462971742,
+      "transcription": "hati ta sokkö më kujyn, sokkö më hattojn",
+      "translation": "'Aqui que você vai ficar, até que você vai viajar longe com o branco'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 384,
+      "start": 1814942.3462971742,
+      "stop": 1819812.9766655192,
+      "transcription": "mära sokkjakän më kïtepa hê, sokkjakän më söpää hopôja hê",
+      "translation": "'Lá que longe que vc vai crescer, ai vai ficar longe e vai ficar com filho nessa cidade'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 385,
+      "start": 1819812.9766655192,
+      "stop": 1826136.2511788092,
+      "transcription": "rê py ränka mën pjän pjo inkjë hë, rê py ran haswâri pjän pjo inkjë hë, timä järi inkjë hë.",
+      "translation": "Eu não deixou vc ficar junto com os Panará, ai vcs pode viajar de longe. Eu não quero vocês ficar comigo nesta comunidade. Assim que eu (já) falei.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 386,
+      "start": 1826136.2511788092,
+      "stop": 1830665.0829248142,
+      "transcription": "më rarö haka",
+      "translation": "Fiquei dormido até amanhecer",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 387,
+      "start": 1830665.0829248142,
+      "stop": 1833399.4719035344,
+      "transcription": "ramë haka",
+      "translation": "Ai amanhã cedo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 388,
+      "start": 1833399.4719035344,
+      "stop": 1839808.1960724094,
+      "transcription": "py, krekön tijäri, sün Kakappää köö tijäri",
+      "translation": "'Vamos  Krekön,' assim que falou, 'com Kakappää' assim que falou (o branco)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 389,
+      "start": 1839808.1960724094,
+      "stop": 1841944.4374620344,
+      "transcription": "bora tijäri",
+      "translation": "'Bora' falou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 390,
+      "start": 1841944.4374620344,
+      "stop": 1847242.3161083043,
+      "transcription": "mÿn tën kôkjatipita raasara rêjää syrinto më hapôha",
+      "translation": "Chegou carro, ai Syrinto e Hapôha estavam chorando",
+      "notes": "Note: raasara - grabbing onto legs as they left",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 391,
+      "start": 1847242.3161083043,
+      "stop": 1854334.6375218593,
+      "transcription": "kjë më tijäri, kjë më, kjë mënko ka, kjon, pên tikrân kjârasâ hë",
+      "translation": "'Comigo' falou 'comigo vai' 'Não,' ai Kjârasâ assegurou (os filhos)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 392,
+      "start": 1854334.6375218593,
+      "stop": 1859034.3685790342,
+      "transcription": "japên më hapa tijäri, ja sokköö kati pê më hato",
+      "translation": "'Pode ficar aqui' falou, 'Se for vocês irem com os brancos vão embora em prejuizo da gente'",
+      "notes": "Note: Kjârasâ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 393,
+      "start": 1859034.3685790342,
+      "stop": 1863990.4486029644,
+      "transcription": "märä rarankjü rê prïhara pari, taapjâ rê py hankwan",
+      "translation": "'O homem que queria matar vocês crianças, senão eles vão te matar'",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 394,
+      "start": 1863990.4486029644,
+      "stop": 1866383.0389593444,
+      "transcription": "pëköönko kati kö më hatojn",
+      "translation": "'Vocês podem ir embora com o branco'",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 395,
+      "start": 1866383.0389593444,
+      "stop": 1872108.1658835392,
+      "transcription": "haa kjë kin kêt [pjo] inkjë mä ippë tijäri, ratoo pjän kêti ippë köö tijäri",
+      "translation": "'Ahh eu não gosto do branco' falou para mim, 'Eu não quero ir embora com branco' disse.",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 396,
+      "start": 1872108.1658835392,
+      "stop": 1876466.0983183743,
+      "transcription": "jattänko ka py kö të Kykypää köö tijäri",
+      "translation": "'Não, aqui eu quero ir com Kykypää' falou",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 397,
+      "start": 1876466.0983183743,
+      "stop": 1879200.4872970942,
+      "transcription": "swakjê köö tijäri",
+      "translation": "'Com o Swakjê' falou",
+      "notes": "Note: Syrinto",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 398,
+      "start": 1879200.4872970942,
+      "stop": 1884669.2652545343,
+      "transcription": "pê më hapa rêjää, pên më rasââ, pê më ratën mä timë krân",
+      "translation": "'Pode ficar lá' falei, ai entrou no carro, ai (Kjârasâ) carregou eles (Syrinto e Hapôha)",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 399,
+      "start": 1886890.956299744,
+      "stop": 1892750.6942419943,
+      "transcription": "më raho sujy hë tijäri ti më rasari",
+      "translation": "O carro parou, assim que era, deixou a gente (eu e inkjënpinpjâ)",
+      "notes": "Note: deixou na estrada aonde que tem aldeia",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 400,
+      "start": 1892750.6942419943,
+      "stop": 1897979.8462783375,
+      "transcription": "jakôpy rênkjân ka, kykkyti tijäri",
+      "translation": "'Aqui que gente pega abórbora' falou (Krekön)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 401,
+      "start": 1897979.8462783375,
+      "stop": 1903575.9563523189,
+      "transcription": "mä rasânpün kjë hë kykkyti, kôkjatipita jö pjy, ittu",
+      "translation": "Eu tô vendo abórbora e batata na estrada(, é muito)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 402,
+      "start": 1903575.9563523189,
+      "stop": 1911282.0751427193,
+      "transcription": "ti jö kypa kâsy, [ti më] ti më rasari",
+      "translation": "aonde que planta e brota, ai que deixou a gente",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 403,
+      "start": 1911282.0751427193,
+      "stop": 1915777.3111037863,
+      "transcription": "pên më rakwyy su më raatoo ippë suu",
+      "translation": "ai eu andei, cheguei para (o acampanto de) os brancos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 404,
+      "start": 1915777.3111037863,
+      "stop": 1921006.4631401296,
+      "transcription": "pên sïï ippë, pazëta [fazenda], pâri mä",
+      "translation": "ai que tem branco, fazenda, para fazer madeira",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 405,
+      "start": 1921006.4631401296,
+      "stop": 1924859.52253533,
+      "transcription": "pên jy py su paatoo ippë suu",
+      "translation": "Ai chegou para o branco de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 406,
+      "start": 1924859.52253533,
+      "stop": 1928712.5819305303,
+      "transcription": "ka rê më pïri tijäri",
+      "translation": "'Se não, vocês não mata' assim que falou (o branco)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 407,
+      "start": 1928712.5819305303,
+      "stop": 1931831.7252504542,
+      "transcription": "nö karê më pïri panära tijäri",
+      "translation": "'Para vocês não matar outros Panará' assim que falou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 408,
+      "start": 1931831.7252504542,
+      "stop": 1935686.893387178,
+      "transcription": "rirô, jy mä ra kââ, jyppôô krekkön tijäri",
+      "translation": "'O Rirô, Krekön chegou ai'",
+      "notes": "Note: Branco",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 409,
+      "start": 1935686.893387178,
+      "stop": 1941372.6342290451,
+      "transcription": "opa krekkön tijäri, nö karê më pïri panära tijäri",
+      "translation": "'Opa Krekön' assim que falou, 'não matem Panará' falou.",
+      "notes": "Note: Branco",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 410,
+      "start": 1941372.6342290451,
+      "stop": 1947060.4838124362,
+      "transcription": "mÿn rasu më tën, ka rêmë wajäri sä, panära mära",
+      "translation": "(Brancos) Correram para nos, 'não mexer com Krekön e Kakkrêê' ",
+      "notes": "Note: Rirô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 411,
+      "start": 1947060.4838124362,
+      "stop": 1951280.5012452744,
+      "transcription": "nö karê më pïri, jattä kapy sê më hotë",
+      "translation": "'Não mata, eu vou levar de novo para cá'",
+      "notes": "Note: Rirô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 412,
+      "start": 1951280.5012452744,
+      "stop": 1954422.9969077674,
+      "transcription": "pykkôômä ka py më hotë",
+      "translation": "'Amanhã eu vou levar de novo'",
+      "notes": "Note: Rirô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 413,
+      "start": 1954422.9969077674,
+      "stop": 1957568.1101979667,
+      "transcription": "ka py mënteri tijäri",
+      "translation": "'Eu vou deixar lá'",
+      "notes": "Note: Rirô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 414,
+      "start": 1957568.1101979667,
+      "stop": 1961038.5800354278,
+      "transcription": "pên bora tijäri, py ra pê sakkwanpa rirô",
+      "translation": "Ai 'bora' falou, de presa foi Rirô",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 415,
+      "start": 1961038.5800354278,
+      "stop": 1963886.8491308247,
+      "transcription": "py kö më rakwyy, py kö mëra sââ. ",
+      "translation": "Foram, entrou (no carro)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 416,
+      "start": 1963886.8491308247,
+      "stop": 1967979.5197103505,
+      "transcription": "py më raho tën tijärajââ, jy py më raho pôô pyttenpê",
+      "translation": "Ai foram de carro, longe que foram, chegou de tarde",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 417,
+      "start": 1967979.5197103505,
+      "stop": 1971992.250459915,
+      "transcription": "py sê më rapôô, märattä, matupattä",
+      "translation": "Eu cheguei la, no Matupá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 418,
+      "start": 1971992.250459915,
+      "stop": 1977197.9552161072,
+      "transcription": "py sê më rahoröö waka",
+      "translation": "Eu dormi até manhã",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 419,
+      "start": 1977197.9552161072,
+      "stop": 1981969.8512426163,
+      "transcription": "pykkôômä py më rattoo, pên, jy papê më rattoo tâti",
+      "translation": "Amanhã eu fui de novo, ai eu fui embora mesmo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 420,
+      "start": 1981969.8512426163,
+      "stop": 1989019.2430999598,
+      "transcription": "pên py mä rahotë, pên py rakö mënkwyy",
+      "translation": "ai, nos foi lá de novo, ai choravam de novo de nos",
+      "notes": "Note: Syrinto chorou para Kakkrêê e Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 421,
+      "start": 1989019.2430999598,
+      "stop": 1994984.1131330964,
+      "transcription": "puu hahä jy pamë rasän, jakôpy rê pan sê [pan] pakwyy tijäri",
+      "translation": "Ai ele deixou, 'aqui que nos vamos andar', assim que falou",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 422,
+      "start": 1994984.1131330964,
+      "stop": 1999434.891841389,
+      "transcription": "inkjë kwyy, huhähä jy më rajïï",
+      "translation": "Eu andei, ali está (o meu marido)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 423,
+      "start": 1999434.891841389,
+      "stop": 2002197.3858158882,
+      "transcription": "pakjappää jamä",
+      "translation": "no igarapé",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 424,
+      "start": 2002197.3858158882,
+      "stop": 2007239.2097466316,
+      "transcription": "jakôpy rammöri ka, jakôpy jahä pjyn kati järi",
+      "translation": "Aqui que pessoal tá indo para outro aldeia, ai tem outro caminho, assim que vai ser",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 425,
+      "start": 2007239.2097466316,
+      "stop": 2013420.9841446094,
+      "transcription": "pên",
+      "translation": "ai",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 426,
+      "start": 2013420.9841446094,
+      "stop": 2020036.56727227,
+      "transcription": "më raröö waka, raa më haka",
+      "translation": "dormimos até manhã, amanheceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 427,
+      "start": 2020036.56727227,
+      "stop": 2026869.054764772,
+      "transcription": "py tijäri. jähä kypy pjyn, ha ti pakwy pjy hä? tijäri",
+      "translation": "'Bora' falou. 'Acho que aqui tem caminho. Vamos andar nesse caminho?' falou",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 428,
+      "start": 2026869.054764772,
+      "stop": 2033593.0900748533,
+      "transcription": "ra ho më rakwyy, mähë kati järi, hë [hë] jy rammöri pakre köö",
+      "translation": "Eu andei, e encontrei onde que foram os outros Panará na beirinha.",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 429,
+      "start": 2033593.0900748533,
+      "stop": 2038057.7560616732,
+      "transcription": "rê më pjy räri, më rakwy",
+      "translation": "A gente encontrou caminho, andou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 430,
+      "start": 2038057.7560616732,
+      "stop": 2042052.3603036653,
+      "transcription": "jy më raatoo jümättä, jähä",
+      "translation": "'A gente chegou lá no acampamento, aqui'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 431,
+      "start": 2042052.3603036653,
+      "stop": 2049427.1087082706,
+      "transcription": "ja hamä pajïï, jümämä tijäri jy më rajïï jümämä, titton",
+      "translation": "Aqui que vamos ficar no acampamento, ai fizemos fogo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 432,
+      "start": 2049427.1087082706,
+      "stop": 2055370.4764697244,
+      "transcription": "japên rakrïï huhähä kati järi, ti mä pakjän taankjâ kati jää",
+      "translation": "Ai, ficamos lá mais pertinho do acampamento, sempre aproximando acampamento, assim que vai ter",
+      "notes": "Note: tem outro bem pertinho, hyrihë = pëëntwê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 433,
+      "start": 2055370.4764697244,
+      "stop": 2062332.0545080137,
+      "transcription": "pykkôômä py më rakwyy, [py më ra] py më rajïï",
+      "translation": "amanhã que fomos de novo, ai descansamos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 434,
+      "start": 2062332.0545080137,
+      "stop": 2066031.9141647269,
+      "transcription": "py më raröö waka",
+      "translation": "de novo dormimos até manhã",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 435,
+      "start": 2066031.9141647269,
+      "stop": 2076109.1634928798,
+      "transcription": "pykkôômä tö hahä py më rakwyy, py më saparamänkjy jümä ja, ja, ja, ja, ja, ja hamä më rakrï pyttenpê",
+      "translation": "amanhã fomos de novo, passamos de acampamento para acampamento, passamos cinco até descansamos na tarde",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 436,
+      "start": 2076109.1634928798,
+      "stop": 2080831.3527915792,
+      "transcription": "py më rajïï titton",
+      "translation": "de novo descansamos, fizemos fogo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 437,
+      "start": 2080831.3527915792,
+      "stop": 2087744.2484659646,
+      "transcription": "pykkôômä",
+      "translation": "amanhã",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 438,
+      "start": 2087744.2484659646,
+      "stop": 2094474.9655642745,
+      "transcription": "py më rajïï",
+      "translation": "descansamos de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 439,
+      "start": 2094474.9655642745,
+      "stop": 2106314.7441929746,
+      "transcription": "[mämän] mämännï jy pê sê ra kâkjyn inkjë hakwyttân hë, ti pê sê ratunsari mämärämä ti ra sïrïnteri",
+      "translation": "eu fiquei com febre, ai o meu marido me deixou sozinha no mato. Eu fiquei com dor de barriga, por isso que meu marido deixou",
+      "notes": "Note: poorly cooked hakwyti",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 440,
+      "start": 2106314.7441929746,
+      "stop": 2111357.6128681614,
+      "transcription": "ha jy kâkjyn kankjë, hakyy ha",
+      "translation": "começou fumigar no corpo, 'meus deus!'",
+      "notes": "Note: eu fiquei com muito febre, o meu marido ficou preocupado. Krekön hë ti sun hakyy ha",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 441,
+      "start": 2111357.6128681614,
+      "stop": 2115084.950584604,
+      "transcription": "möramä sönkjââ pjo, [mï sottö krëë]",
+      "translation": "nos não tem comida para a gente comer",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 442,
+      "start": 2115084.950584604,
+      "stop": 2122320.3708576984,
+      "transcription": "hakö raanpârïnpe kaapjâ hï tijäri, ti raakjâri pën hakwyttân hë hatunsaa tijäri",
+      "translation": "mas eu não vou comer com você deve ser o jabuti cru que te deu essa dor de barriga",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 443,
+      "start": 2122320.3708576984,
+      "stop": 2130213.556610165,
+      "transcription": "ti rakjô kitamä tusâânkjânpe tijää, ti rakjô waka",
+      "translation": "ele mexeu na minha barriga para tirar doença da barriga, assim que era, fez até manhã cedo",
+      "notes": "Note: belly rub and feeling the stirring",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 444,
+      "start": 2130213.556610165,
+      "stop": 2139531.9009012715,
+      "transcription": "në hakö rakwyy jahê pjo, mämän pên kati hakwyjn ka. inkjë karö jahä",
+      "translation": "'Eu não vou com você. Você pode ir, eu vou ficar aqui.'",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 445,
+      "start": 2139531.9009012715,
+      "stop": 2143365.672381169,
+      "transcription": "hakyy tijäri",
+      "translation": "'nossa' assim que falou",
+      "notes": "Note: hakyy - wail",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 446,
+      "start": 2143365.672381169,
+      "stop": 2147534.714233633,
+      "transcription": "mämännï ti raapêri inkjë",
+      "translation": "ai que mais aumentou dor de barriga",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 447,
+      "start": 2147534.714233633,
+      "stop": 2157401.196424217,
+      "transcription": "py tijää, rakwyynkjââ jahê pjo, ha hati pê hatâtän?",
+      "translation": "'bora' falou (Krekön). 'Eu não vou conseguir andar' 'Você consegue andar bem devagar?'",
+      "notes": "Note: Krekön, Kakkrêê, Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 448,
+      "start": 2157401.196424217,
+      "stop": 2166719.5407153233,
+      "transcription": "kjon ka, rajïswakree kriti, ti turi mösy, ti pressy nähän",
+      "translation": "'Não(, o meu corpo não está bem)' ele levou milho e (fogo) ai.",
+      "notes": "Note: Kakkrêê hë ti sün. Krekön took some kindling/tinder to make fire ahead",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 449,
+      "start": 2166719.5407153233,
+      "stop": 2170836.4214171385,
+      "transcription": "kwyy, jynkjëntêri pakjappää [hä]",
+      "translation": "ele foi, atravessou o igarapé",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 450,
+      "start": 2170836.4214171385,
+      "stop": 2176586.022905906,
+      "transcription": "jy rapê kjy pytinsi, jy hatoonpyti",
+      "translation": "Ai deu muito frio, ai saiu o sol",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 451,
+      "start": 2176586.022905906,
+      "stop": 2178986.6666173744,
+      "transcription": "ha, jähä karö ka",
+      "translation": "Ah, aqui que vou ficar eu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 452,
+      "start": 2178986.6666173744,
+      "stop": 2181519.2640011976,
+      "transcription": "jy raapïpïrïn jy raröö, pên raröö",
+      "translation": "eu fiquei quieta, eu dormi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 453,
+      "start": 2181519.2640011976,
+      "stop": 2189850.9600732457,
+      "transcription": "kypy ra kän säränkjân, jynputi jujy hänka, kypy raanpü",
+      "translation": "ele esperou, e saiu o sol (emprejuizo dele) e ele foi sozinho, deve ser ele foi me olhando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 454,
+      "start": 2189850.9600732457,
+      "stop": 2193143.2825901415,
+      "transcription": "në tïrarönpe, jy ty kypy järi",
+      "translation": "deve ser morreu, assim que pensou (Krekön)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 455,
+      "start": 2193143.2825901415,
+      "stop": 2199460.938927965,
+      "transcription": "jy paatä ratën pytinsi inkjë, nänkjân kypytto",
+      "translation": "eu não lembro (porque só fiquei deitada), deve ser ele foi embora",
+      "notes": "Note: jy paatä ratën pytinsi (swankjara pëë), jy rajöttâpytinsi (pëëntwê)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 456,
+      "start": 2199460.938927965,
+      "stop": 2205587.1511343387,
+      "transcription": "kypynkwyy kwyy, pên jy junkwyy kwyy tijäri, ha tita rakö kapôn kypy hä",
+      "translation": "deve ser ele foi chorando, ai foi chorando, assim era, 'vc pode podrecer na terra'",
+      "notes": "Note: junkwyy - eu chorei; Krekön saying that he'll leave her to compost in the earth",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 457,
+      "start": 2205587.1511343387,
+      "stop": 2212383.4178007855,
+      "transcription": "mä ka rakö harö, rênjäri inkwyy jamä tijäri, ti ra jïsün",
+      "translation": "'quando andei eu pensei em você muito, eu senti muito triste' falou para mim",
+      "notes": "Note: Krekön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 458,
+      "start": 2212383.4178007855,
+      "stop": 2218701.0741386088,
+      "transcription": "jy räänkjo sââ, jy rajïï inkjë",
+      "translation": "Já estava quase escuro, eu fiquei sentando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 459,
+      "start": 2218701.0741386088,
+      "stop": 2223582.899490563,
+      "transcription": "jy sopy ra jömänpürä kwa, pyti tojn hï",
+      "translation": "ai eu procurei, cadê que você foi embora",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 460,
+      "start": 2223582.899490563,
+      "stop": 2230857.7764856326,
+      "transcription": "rê kö hakwyy toomä, huhähä jy sê rajïï",
+      "translation": "ai eu andei bem devagar, ai que parei e fui lá trás dele",
+      "notes": "Note: toomä = tyramä",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 461,
+      "start": 2230857.7764856326,
+      "stop": 2239855.650663745,
+      "transcription": "py rajïï pâra, pên py rakwyy",
+      "translation": "eu descansei onde que tem árvore, ai eu fui de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 462,
+      "start": 2239855.650663745,
+      "stop": 2244494.055000366,
+      "transcription": "inkan nänkjy inkjë",
+      "translation": "eu  tentei para conseguir",
+      "notes": "Note: inkjë innankjy = pëëntwê, eu estou com raiva",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 463,
+      "start": 2244494.055000366,
+      "stop": 2250097.9116962766,
+      "transcription": "jy rankwâ inta, pê sê rajïï inta pê, pê sêjïpjo pôssô",
+      "translation": "caiu chuva, eu descansei fiz casinha de folha de açaí e banana para não me molhar ",
+      "notes": "Note: make a sleeping bag of banana and acai leaves (covered myself)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 464,
+      "start": 2250097.9116962766,
+      "stop": 2254596.848785333,
+      "transcription": "horajïï, py wâtâta mänkwâ",
+      "translation": "eu descansei (com a casinha), saiu o sol e ainda choveu (pouquinho)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 465,
+      "start": 2254596.848785333,
+      "stop": 2258808.6196772153,
+      "transcription": "pên py kö rakwyy",
+      "translation": "ai eu fui (seguindo Krekön)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 466,
+      "start": 2258808.6196772153,
+      "stop": 2265030.5539493137,
+      "transcription": "pên kjë pâri sän kwaakriti",
+      "translation": "aí eu vi árvore de mamão do mato",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 467,
+      "start": 2265030.5539493137,
+      "stop": 2271156.766155688,
+      "transcription": "pënnö kwaakritinpyjy nö, jattä röö nähä",
+      "translation": "eu encontrei mamão do mato no chão, aqui ficou",
+      "notes": "Note: the fruit",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 468,
+      "start": 2271156.766155688,
+      "stop": 2275177.0929161212,
+      "transcription": "rê jïpjâri rê pyri, rênkjân jïpyri rähä",
+      "translation": "eu vi eu pegei, eu peguei, eu peguei mais, só isso",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 469,
+      "start": 2275177.0929161212,
+      "stop": 2283496.848351846,
+      "transcription": "haa rê kuri, mämännï ho rajïï kwaakritinpyjy ho. ha jy kwaakritanprâ krïï tijäri",
+      "translation": "sim comi, ai que sentei com mamão do mato. 'Porque que não tem mamão maduro' assim que falou",
+      "notes": "Note: Krekkön asked her later ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 470,
+      "start": 2283496.848351846,
+      "stop": 2285124.1234691637,
+      "transcription": "kjon.",
+      "translation": "'Não'",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 471,
+      "start": 2285124.1234691637,
+      "stop": 2290580.281215466,
+      "transcription": "huhähänkjë krïï? kritöräntêrân kypy ra känsöri ka tijäri",
+      "translation": "'Ali que tem?' 'Eu acho que espiritos que deu para vc' assim que falou.",
+      "notes": "Note: Kakkrêê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 472,
+      "start": 2290580.281215466,
+      "stop": 2296132.1610274925,
+      "transcription": "nën kypy hä kän rapa kêti, haswapy rapa inkjë",
+      "translation": "'Eu andei com espirito, no mundo do espirito andei'",
+      "notes": "Note: haswa-py no mundo do espirito",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 473,
+      "start": 2296132.1610274925,
+      "stop": 2300343.931919375,
+      "transcription": "tinkjëë söri kwaakriti, raanpân",
+      "translation": "'me deram mamão do mato, eu comi'",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 474,
+      "start": 2300343.931919375,
+      "stop": 2307044.476520097,
+      "transcription": "mÿ py roo rakwyy inkjë, kypy kännapa kêtinkjë",
+      "translation": "Ai a gente (eu e os espiritos) levamos andamos, eu não andei normal (senão com espirito)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 475,
+      "start": 2307044.476520097,
+      "stop": 2314702.2417780645,
+      "transcription": "jy rajïï pyttenpê, jy raröö mä rarantê sâpön",
+      "translation": "oh! eu descansei de tarde, eu deitei, os espiritos bateram nas árvaroes para assustar animais (principalmente onça)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 476,
+      "start": 2314702.2417780645,
+      "stop": 2318739.4449628126,
+      "transcription": "mä rasâpoha kan pytykwan",
+      "translation": "os espiritos bateram árvore até meianoite",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 477,
+      "start": 2318739.4449628126,
+      "stop": 2322568.3275917964,
+      "transcription": "mä rarantê sokkwajäri jopy",
+      "translation": "espiritos espantaram onça",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 478,
+      "start": 2322568.3275917964,
+      "stop": 2325631.4336949834,
+      "transcription": "rajötinpe inkjë",
+      "translation": "eu dormi bem",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 479,
+      "start": 2325631.4336949834,
+      "stop": 2329077.428061069,
+      "transcription": "jy py ra haka",
+      "translation": "e amanhãceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 480,
+      "start": 2329077.428061069,
+      "stop": 2333863.5313472985,
+      "transcription": "jy rajïï jatoonpyti",
+      "translation": "eu sentei e saiu o sol",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 481,
+      "start": 2333863.5313472985,
+      "stop": 2337596.691910558,
+      "transcription": "mä py jö sakren",
+      "translation": "eu vou tentar",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 482,
+      "start": 2337596.691910558,
+      "stop": 2342957.127591136,
+      "transcription": "jy py rakwyy",
+      "translation": "eu andei",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 483,
+      "start": 2342957.127591136,
+      "stop": 2350819.1796902465,
+      "transcription": "rê sapa jümä, rê sapa jümä, rê sapa jümä, rê sapa jümä, rê sapa jümä, rê sapa jümä.",
+      "translation": "eu passei acampamento (6)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 484,
+      "start": 2350819.1796902465,
+      "stop": 2358668.3890796634,
+      "transcription": "jan kannänkjyn inkjë, jy raatoo, mämännï rê haswa jansôrinteri",
+      "translation": "eu já ficava assim tentando, eu cheguei até onde pessoa·deixou pilão",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 485,
+      "start": 2358668.3890796634,
+      "stop": 2363358.7703001685,
+      "transcription": "mämäramä jy röö ranpinpjâ pïnkjâ, pën sutynkoo",
+      "translation": "ali que o meu marido ficou, ai cama molhada",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 486,
+      "start": 2363358.7703001685,
+      "stop": 2367761.9853235,
+      "transcription": "pên kypy py kwyjn hï",
+      "translation": "ai eu percebi aqui que ele foi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 487,
+      "start": 2367761.9853235,
+      "stop": 2372069.478281107,
+      "transcription": "mämännï raröö, [jy ra] pja raröö",
+      "translation": "ali que eu deitei,  no lugar dele eu deitei",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 488,
+      "start": 2372069.478281107,
+      "stop": 2375706.9167786418,
+      "transcription": "pën sara haswa",
+      "translation": "eu vi pilão",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 489,
+      "start": 2379727.243539075,
+      "stop": 2385566.289548275,
+      "transcription": "rarö waka, juttänkôn",
+      "translation": "eu ficava deitando, aonde que tem rio/igarapé",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 490,
+      "start": 2385566.289548275,
+      "stop": 2394659.885792112,
+      "transcription": "ramöri ka inkô japê, pjy hä. përïnkô raköö py rakwyy",
+      "translation": "eu andei procurando rio, no caminho. Ai encontrei e tomei (água) e andei de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 491,
+      "start": 2394659.885792112,
+      "stop": 2397340.1036324007,
+      "transcription": "py raröö",
+      "translation": "eu deitei de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 492,
+      "start": 2397340.1036324007,
+      "stop": 2408431.7672248892,
+      "transcription": "pên pykkôômä, py rakwyy",
+      "translation": "ai amanhã, eu andei de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 493,
+      "start": 2408431.7672248892,
+      "stop": 2415355.728955161,
+      "transcription": "rê py sapan jümä, rê py sapan, rê py sapan, rê py sapan, rê py sapan.",
+      "translation": "eu passei de acampamento por acampento (5)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 494,
+      "start": 2415355.728955161,
+      "stop": 2418825.317083968,
+      "transcription": "jy raa pytën ja hamä, jy py rajïï",
+      "translation": "ali que eu fiquei, era muito de tarde",
+      "notes": "Note: pytën ~ pyttenpê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 495,
+      "start": 2418825.317083968,
+      "stop": 2421882.243513109,
+      "transcription": "pên nê hokjän nänpjuu",
+      "translation": "ai fiquei perto de água vermelho",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 496,
+      "start": 2421882.243513109,
+      "stop": 2424871.2382438243,
+      "transcription": "py raröö waka",
+      "translation": "eu deitei até amanhecer",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 497,
+      "start": 2424871.2382438243,
+      "stop": 2429218.866943047,
+      "transcription": "pjän rê sokkuri ratââ inkjë inkjon.",
+      "translation": "mas eu não comi nada, eu nem consegui (comer; mas consegui andar)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 498,
+      "start": 2429218.866943047,
+      "stop": 2433498.5639438443,
+      "transcription": "huhähä raköö raanpân inkjë",
+      "translation": "ai com espiritos que eu comi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 499,
+      "start": 2433498.5639438443,
+      "stop": 2437914.124341492,
+      "transcription": "jy py ra haka",
+      "translation": "amanhecer de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 500,
+      "start": 2437914.124341492,
+      "stop": 2446745.2451367876,
+      "transcription": "pyti rê mä pajy [kati], pyppytinsi ta tijäri hï, inkïnna pëë inkjë hate",
+      "translation": "eu andei distancia longe, assim era, eu falei sozinha para mim mesma",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 501,
+      "start": 2446745.2451367876,
+      "stop": 2450073.89835963,
+      "transcription": "pên nakwyy",
+      "translation": "ai andei",
+      "notes": "Note: nakwyy = swankjara pëë, rakwyy = pëëntwê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 502,
+      "start": 2450073.89835963,
+      "stop": 2457750.180281694,
+      "transcription": "jy raatoo mämä, mämä pajy pytinsittä, kri mä",
+      "translation": "ai eu cheguei distância longe, aonde que tem aldeia",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 503,
+      "start": 2457750.180281694,
+      "stop": 2462097.8089809166,
+      "transcription": "jy raatoo jümättä, jiipê jy rasââ",
+      "translation": "cheguei no acampamento e passei direto",
+      "notes": "Note: jümä = acampamento no mato (a small camp site they build to sleep in the forest for only one or two nights)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 504,
+      "start": 2462097.8089809166,
+      "stop": 2464509.9330074503,
+      "transcription": "jy py raatoo tö",
+      "translation": "cheguei em outro acampamento de novo",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 505,
+      "start": 2465766.1206958857,
+      "stop": 2468770.544955336,
+      "transcription": "jy py raatoo",
+      "translation": "eu cheguei de novo para acampamento",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 506,
+      "start": 2468770.544955336,
+      "stop": 2472568.764827694,
+      "transcription": "jy py raatoo",
+      "translation": "eu cheguei de novo para acampamento",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 507,
+      "start": 2472568.764827694,
+      "stop": 2477108.60328349,
+      "transcription": "jy py raatoo, jy py raa pytën",
+      "translation": "eu cheguei de novo para acampamento, já tava de tarde",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 508,
+      "start": 2477108.60328349,
+      "stop": 2480075.2303932183,
+      "transcription": "pên jy rajïï",
+      "translation": "ai eu descansei",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 509,
+      "start": 2480075.2303932183,
+      "stop": 2483985.784310587,
+      "transcription": "pën kââ ränpjuu jamä",
+      "translation": "ave estavam gritando, no rio vermelho",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 510,
+      "start": 2483985.784310587,
+      "stop": 2492256.3811013447,
+      "transcription": "pan, pukkwapô, [bird song] kypy ra sâtêpi hï, mämäramä jy rajïï nänpjuu jamä",
+      "translation": "eh, pombo cantou, eu acho que eu estava quase chegando, por isso que descansei no rio vermelho",
+      "notes": "Note: pukkwapô = type of bird",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 511,
+      "start": 2492256.3811013447,
+      "stop": 2496155.9712936054,
+      "transcription": "rajïï kypynkôn hï",
+      "translation": "descansei aonde que tem água",
+      "notes": "Note: kypy = pensando",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 512,
+      "start": 2498013.4088556254,
+      "stop": 2501306.139079206,
+      "transcription": "raröö, jy rajïï",
+      "translation": "deitei, levantei",
+      "notes": "Note: from laying to sitting",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 513,
+      "start": 2501306.139079206,
+      "stop": 2506118.5909444396,
+      "transcription": "jy raa krekjä",
+      "translation": "ficou escuro",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 514,
+      "start": 2506118.5909444396,
+      "stop": 2519964.943679497,
+      "transcription": "jy raröö waka ... py ra haka",
+      "translation": "eu estava deitando, ai amanheceu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 515,
+      "start": 2519964.943679497,
+      "stop": 2528576.6996488622,
+      "transcription": "sapyjö sakren, ha ti mïnna ho tojn nänpjuu rêjää, sikjôkjô pjo inkô",
+      "translation": "eu vou tentar para atravessar rio vermelho, deixa eu morrer mas vou tentar conseguir",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 516,
+      "start": 2528576.6996488622,
+      "stop": 2533304.722534004,
+      "transcription": "rakwyy rê sânpün rösän inkô, sï tâti",
+      "translation": "eu cheguei perto na beira do rio, eu vi cachoeira",
+      "notes": "Note: sï tâti - strong rapids",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 517,
+      "start": 2533304.722534004,
+      "stop": 2542423.05238392,
+      "transcription": "ramöri, ramöri, ramö, ramö, ramö, jy ra paa hasän paa hä",
+      "translation": "eu andei, bem devagar, eu cheguei na beirinha, andando de pé",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 518,
+      "start": 2542423.05238392,
+      "stop": 2552638.9589750296,
+      "transcription": "ha kypy tâti tapja rê rönkwâri hakjô, ramö, ramö, ramö, ramö... jy raarêê.",
+      "translation": "será que este cipó é duro para eu aguentar? Eu andei devagar...ai atravessei",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 519,
+      "start": 2552638.9589750296,
+      "stop": 2554749.683477325,
+      "transcription": "jy raapïri",
+      "translation": "ai subi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 520,
+      "start": 2554749.683477325,
+      "stop": 2559308.8484022827,
+      "transcription": "kjänpê tünnakwyy, huhähä pêkja hä jy raakâri jakôpy",
+      "translation": "ai cheguei num lugar mais fundo do rio (água até barriga), até aqui ó que encheu",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 521,
+      "start": 2563361.43944669,
+      "stop": 2569778.0419336683,
+      "transcription": "kypy krennö, pên jy rakwyy",
+      "translation": "será que está menos profundo, ai eu fui",
+      "notes": "Note: to the calves or so ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 522,
+      "start": 2569778.0419336683,
+      "stop": 2575912.89273279,
+      "transcription": "jy raarêê, jy raapïri",
+      "translation": "ai eu fui, eu subi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 523,
+      "start": 2580284.72803119,
+      "stop": 2583363.6109531214,
+      "transcription": "jy rajïï jümä mä",
+      "translation": "eu descansei no acampamento",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 524,
+      "start": 2583363.6109531214,
+      "stop": 2590744.9849634995,
+      "transcription": "ranpinpjâ pïnkjâ krejïï rï jy rajïï, mä ra kän hakokon, ikkôn, nänpân më pÿn, ra kän sokkââ",
+      "translation": "aonde que o meu falecido marido foi enterrado, ai o macaca prego gritava, arara gritou, animais estavam gritando",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 525,
+      "start": 2590744.9849634995,
+      "stop": 2596523.6049639634,
+      "transcription": "mämännï rankwyy röö inkjë, ranpinpjâ pïnkjâ kreepôrï",
+      "translation": "ali que eu chorei, aonde que enterrou o meu falecido marido",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 526,
+      "start": 2596523.6049639634,
+      "stop": 2600989.8321744017,
+      "transcription": "rankwyy röö, rênteri",
+      "translation": "eu fiquei chorando, eu parei",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 527,
+      "start": 2600989.8321744017,
+      "stop": 2612305.036556592,
+      "transcription": "jy ra haka, japên ka hapô rö, tïn. ka sê tâti hä rötïn",
+      "translation": "amanhaceu, ai eu vou tentar chegar na aldeia. Será que vou ficar forte?",
+      "notes": "Note: tïn - fortaleza!",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 528,
+      "start": 2612305.036556592,
+      "stop": 2615592.5621541208,
+      "transcription": "pykkôômä rakwyy",
+      "translation": "amanhã eu fui lá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 529,
+      "start": 2615592.5621541208,
+      "stop": 2621326.6184288794,
+      "transcription": "kri pên kja, jy ra krï ka, nänpjuu jamä ta tijäri",
+      "translation": "'o acampamento mais perto da aldeia, perto do rio vermelho', assim que falou",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 530,
+      "start": 2621326.6184288794,
+      "stop": 2629813.0217155227,
+      "transcription": "rakwyy ... raatoo",
+      "translation": "eu andei, eu fui lá",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 531,
+      "start": 2629813.0217155227,
+      "stop": 2633941.5422333493,
+      "transcription": "mämännï sê rajïï",
+      "translation": "ali que eu descansei",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 532,
+      "start": 2633941.5422333493,
+      "stop": 2639499.8335172385,
+      "transcription": "rajïï, rê jï kwâri inkjë hë kwatikjä, rê kuri.",
+      "translation": "eu fiquei sentado, ai quebrei tucum, ai eu comi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 533,
+      "start": 2639499.8335172385,
+      "stop": 2644186.389444251,
+      "transcription": "ta mä pyppaa prëë",
+      "translation": "eu vi rasto de alguem",
+      "notes": "Note: footprints",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 534,
+      "start": 2644186.389444251,
+      "stop": 2650322.174461134,
+      "transcription": "rajïï, jy sïï inpyti hë",
+      "translation": "eu sentei, o sol levantou um pouquinho",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 535,
+      "start": 2650322.174461134,
+      "stop": 2659902.5624596435,
+      "transcription": "rakwyy ... pên haka puu",
+      "translation": "eu andei, ai eu vi a luz clara do roça (perto da aldeia)",
+      "notes": "Note: a clearing where the swidden is visible",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 536,
+      "start": 2659902.5624596435,
+      "stop": 2664413.353395787,
+      "transcription": "jy rapôô tanta",
+      "translation": "agora eu cheguei",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 537,
+      "start": 2679398.353793823,
+      "stop": 2687043.762160168,
+      "transcription": "pëppëë paa, topjâpjâ pïnkjâ ",
+      "translation": "ai eu escutei a fala do falecido avô",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 538,
+      "start": 2687043.762160168,
+      "stop": 2692166.1857656194,
+      "transcription": "prëë mëra kypy ratö krïï, jähä ra pypparïn",
+      "translation": "quem está aqui, eu rasto do pessoal, deve ser que está por aqui",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 539,
+      "start": 2692166.1857656194,
+      "stop": 2699276.4155463204,
+      "transcription": "rakwyy tyramä, [kypy ra pjâ] jy mÿn hatoo tânpjâ jôôpô",
+      "translation": "eu andei bem devagar, ai saiu a minha avó Jôôpô",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 540,
+      "start": 2699276.4155463204,
+      "stop": 2701831.0006709034,
+      "transcription": "wâ! tijäri",
+      "translation": "'ah!'",
+      "notes": "Note: woah! (fear) (ti sün Jôôpô hë)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 541,
+      "start": 2701831.0006709034,
+      "stop": 2706468.7700281376,
+      "transcription": "swakjê? tijäri, swakjê? ",
+      "translation": "'Swakjê?' assim que falou, 'Swakjê?'",
+      "notes": "Note: Jôôpô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 542,
+      "start": 2706468.7700281376,
+      "stop": 2707680.6494581685,
+      "transcription": "pjän!",
+      "translation": "'O quê?'",
+      "notes": "Note: Swakjê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 543,
+      "start": 2707680.6494581685,
+      "stop": 2711738.4311834625,
+      "transcription": "wytyn mä mëmë hakââ, hë jyppôô jankjâ",
+      "translation": "'Chama por avó, ela chegou aqui!'",
+      "notes": "Note: ti sün Jôôpô hë; Wytyn = avó (fêmea)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 544,
+      "start": 2711738.4311834625,
+      "stop": 2716710.7251445935,
+      "transcription": "tyyrö hamä, ti mÿn nänprïn soppêppôô wysün tijäri",
+      "translation": "'Não morreu, mas você deixou ela e veio antes' o meu tio falou",
+      "notes": "Note: Krekkön",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 545,
+      "start": 2716710.7251445935,
+      "stop": 2723056.4140886604,
+      "transcription": "wâ! mÿn hë ka, ti järi swakjê hë, rakwyy jy rasââ",
+      "translation": "'ah! ó aqui' assim que falou Swakjê, eu andei e entrei na casa",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 546,
+      "start": 2725410.222594423,
+      "stop": 2727947.79174546,
+      "transcription": "haty hamänkjôn. ",
+      "translation": "'Pensan que você morreu'",
+      "notes": "Note: Swakjê",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 547,
+      "start": 2727947.79174546,
+      "stop": 2736359.4246461005,
+      "transcription": "ti haree, jïpjâ sâpjâ ka, ränprïn mÿ pê hapô tijäri topjâpjâ pïnkjâ hë",
+      "translation": "'deixou lá, meu primo que deixou você chegou antes de você' assim que falou meu falecido avô falou",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 548,
+      "start": 2736359.4246461005,
+      "stop": 2742628.6595065035,
+      "transcription": "tu mëmë tö kari, sânpân pôjahä, më sokkwajää tijäri",
+      "translation": "'pode os dois assar batata ela veio sem comer, os dois faça comida' assim que falou",
+      "notes": "Note: sö topjâpjâ hë ti sün",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 549,
+      "start": 2742628.6595065035,
+      "stop": 2747405.529954276,
+      "transcription": "tippôri ittu, pawy hë, tinkjëë pôri",
+      "translation": "Pawy assou batata, assou para mim",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 550,
+      "start": 2747405.529954276,
+      "stop": 2752069.2288359134,
+      "transcription": "tippôri, rênkjëë hokjôkjô raanpân ",
+      "translation": "assou, ficou maduro e eu comi",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 551,
+      "start": 2752069.2288359134,
+      "stop": 2758950.096038329,
+      "transcription": "jähä sïï jy rapôô, jakôpy, hë",
+      "translation": "nessa hora que eu cheguei, não sei pode ser aqui ou qualquer",
+      "notes": "Note: gesturing",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 552,
+      "start": 2758950.096038329,
+      "stop": 2770647.5702824355,
+      "transcription": "mämännï raakwa, jy py rannä",
+      "translation": "ali que eu descansei, ai eu fiquei mais um pouco grande",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 553,
+      "start": 2770647.5702824355,
+      "stop": 2774470.274283777,
+      "transcription": "jy py rannä",
+      "translation": "mais gordinha",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 554,
+      "start": 2774470.274283777,
+      "stop": 2780739.508845978,
+      "transcription": "mämännï py rapa, nänkjân rê sakjâri sâti",
+      "translation": "ali que eu andei, ali os pessoal coletou amendoim",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 555,
+      "start": 2780739.508845978,
+      "stop": 2786626.4730080445,
+      "transcription": "rên sakjâri",
+      "translation": "coletaram (amendoim)",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 556,
+      "start": 2786626.4730080445,
+      "stop": 2795342.2381311045,
+      "transcription": "tä rêjäri kjêpyti, haa, jyy pjon",
+      "translation": "assim que falou para Kjêpyti, sim, acabou a minha fala",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 557,
+      "start": 2795342.2381311045,
+      "stop": 2802376.0134935738,
+      "transcription": "kin pytinsi",
+      "translation": "muito bom",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+},{
+  "metadata": {
+    "file": "kreenpy_sukamäja-hë-ti-pari_20240814.json",
+    "title": "Sukamäja hë ti rapara hä kja",
+    "recording": {
+      "speakers": "Kreenpy",
+      "linguists": [
+        "Myriam Lapierre",
+        "Sunkulp Ananthanarayan"
+      ],
+      "Indigenous researcher": [
+        "Krenkjon"
+      ],
+      "type": "Personal",
+      "date": "2024/08/14"
+    },
+    "transcription": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 1
+      },
+      "Indigenous_researcher": [
+        "Kôpyn",
+        "Wytyn",
+        "Kôtiti"
+      ],
+      "date_completed": "2026/07/24"
+    },
+    "translation": {
+      "edited_last": {
+        "MJL": 0,
+        "SXA": 0
+      },
+      "indigenous_researcher": [
+        ""
+      ],
+      "date_completed": ""
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 64412.86272465666,
+      "stop": 66396.92054271627,
+      "transcription": "inkjë hë ka känsün ja",
+      "translation": "Eu vou explicar isto para você",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "start": 67225.98010727225,
+      "stop": 69135.58949112,
+      "transcription": "ka sürin",
+      "translation": "vou explicar",
+      "notes": "Note: Sunny heard ra",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "start": 70124.61174374333,
+      "stop": 76617.66056668114,
+      "transcription": "kjë, kjë räpjâ, kjë junpjâ, kjë töhapjâra",
+      "translation": "eu, minha mãe, meu pai, meus irmãos",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "start": 77410.37416732707,
+      "stop": 92137.09018815041,
+      "transcription": "rê pari hïpjâpy mähorasê jy hokjâ inkjë junpjâ sê kwâri re tijäri sê kwâri re kati më kjäräpre hän tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "start": 92137.09018815041,
+      "stop": 96644.1990059113,
+      "transcription": "kati tün mämë hakââ hä jantêri mä kjêrö mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "start": 97739.94477119876,
+      "stop": 103095.04969284707,
+      "transcription": "pên, hïkwyy kypy kökwy janteri tipjâri.",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "start": 103095.04969284707,
+      "stop": 104915.5512865169,
+      "transcription": "tipjâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "start": 104915.5512865169,
+      "stop": 108129.37336986007,
+      "transcription": "mÿn py tën, jypyppôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "start": 109386.83419141501,
+      "stop": 111889.63328657002,
+      "transcription": "rê sêssê mä kwa rê sêssê mä",
+      "translation": "",
+      "notes": "Note: sêssê= hort + fast",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "start": 112328.12908491255,
+      "stop": 115476.92324591277,
+      "transcription": "jy pasuppë pôô ti paparahê",
+      "translation": "",
+      "notes": "Note: ppë = sotanka/sopapjoha",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "start": 116045.7384128269,
+      "stop": 120410.45812863631,
+      "transcription": "katirê sêho jïtâri hän kâjân ho jïturapôô turapôô",
+      "translation": "",
+      "notes": "Note: jïtâri hän: thing that you're keeping just by your side turapô - carry on bock (use py if it's something in hand you grab)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "start": 120853.11570860709,
+      "stop": 122969.13769619449,
+      "transcription": "\"\"mÿn mä hakwyy\"\" mäkââ kjêrö mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "start": 122969.13769619449,
+      "stop": 125575.02634916609,
+      "transcription": "mä hakwyy mä ha kwyy wântwê katinpâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "start": 126560.27004434713,
+      "stop": 127522.98733443554,
+      "transcription": "timäjäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "start": 128484.38104433345,
+      "stop": 131465.52265284592,
+      "transcription": "hï turapô tijäri kjêrasâ mä turapô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "start": 131614.4621376456,
+      "stop": 133178.88035239364,
+      "transcription": "timänsôri",
+      "translation": "",
+      "notes": "Note: insôri: hang (ie cause to hang)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "start": 133783.5001784405,
+      "stop": 134808.06091076916,
+      "transcription": "timänsôri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "start": 135533.65330169935,
+      "stop": 137530.23319033982,
+      "transcription": "rê turi inkjë hë haswa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "start": 138099.38395140335,
+      "stop": 139380.08486681417,
+      "transcription": "haswa rê turi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "start": 140547.28651003476,
+      "stop": 142941.21206730267,
+      "transcription": "jy ho kwyy inkjë näpjâ swan",
+      "translation": "",
+      "notes": "Note: my mother was in front while we walked",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "start": 143108.1584411031,
+      "stop": 146779.50106528078,
+      "transcription": "jy ho kwyy [kjë näp] kjë junpjâ swan",
+      "translation": "",
+      "notes": "Note: wêntwê ho",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "start": 147041.81185521392,
+      "stop": 151203.30252579437,
+      "transcription": "jy kwyy kjêrö swan wêntwê pää tinpân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "start": 152103.65243664093,
+      "stop": 153782.02108007984,
+      "transcription": "jy ho rakwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "start": 154324.72710849723,
+      "stop": 155751.84296100217,
+      "transcription": "më ho kwyy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "start": 156980.9933819002,
+      "stop": 157704.60141979,
+      "transcription": "pên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "start": 158589.01124387758,
+      "stop": 163905.52030004043,
+      "transcription": "[ti... supaa...ja...inkôrakwâ]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "start": 164908.10391506532,
+      "stop": 169561.74475377993,
+      "transcription": "inkô rakwâ mära sökkre pää ja ho kypy pïrin",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "start": 170117.76098077343,
+      "stop": 171700.24060065477,
+      "transcription": "[män ka...]",
+      "translation": "",
+      "notes": "Note: HES",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "start": 173048.2787953685,
+      "stop": 175666.20804307345,
+      "transcription": "kjë topjâpjâ topytün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "start": 177717.9795224246,
+      "stop": 180223.8175569299,
+      "transcription": "kjë topjâpjâ kypy pïrin",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 31,
+      "start": 181391.72809613834,
+      "stop": 184126.91236200643,
+      "transcription": "Täntiti sö pää Kjytikâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "start": 184911.0493792676,
+      "stop": 186235.19039477236,
+      "transcription": "sö pää Kjytikâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 33,
+      "start": 188230.5264995189,
+      "stop": 189475.21905409338,
+      "transcription": "kypy pïri kjati",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "start": 189475.21905409338,
+      "stop": 200610.7765926688,
+      "transcription": "kjäpê [tümmä hora] tummä pokâ prï jan tarappê pyppan tara pjârinkjëra pokâ hä sarajân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "start": 201365.5098279626,
+      "stop": 205112.1709990882,
+      "transcription": "ja hamä jy ra jynkjâ jakkwa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "start": 205772.55372349525,
+      "stop": 207349.38594299776,
+      "transcription": "jy ho ra jynkjâ jakwa",
+      "translation": "",
+      "notes": "Note: pouco longe",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 37,
+      "start": 207952.49594971267,
+      "stop": 210556.95917583196,
+      "transcription": "tippy hatö sökkrensija ho",
+      "translation": "",
+      "notes": "Note: velho fala tippuwatö. sökkrensija = .12",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "start": 211825.8430329097,
+      "stop": 214274.48808992602,
+      "transcription": "tippy hatö sökkrensija ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "start": 216537.78510824233,
+      "stop": 219185.94939212664,
+      "transcription": "jyppëë kjëräpjâ jyppëë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "start": 220104.48037514152,
+      "stop": 222414.78198894046,
+      "transcription": "\"\"ka rê pÿnk\u001eô hasârahê,\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 41,
+      "start": 222414.78198894046,
+      "stop": 224801.53982102408,
+      "transcription": "ka rê pÿn jïïtu märapjârân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 42,
+      "start": 225088.23438973151,
+      "stop": 230031.780614866,
+      "transcription": "karê ho jyypjon inkô karê inkô kwâri janpannön, tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 43,
+      "start": 231354.05552914372,
+      "stop": 232628.45581479502,
+      "transcription": "jy py hatö",
+      "translation": "",
+      "notes": "Note: she heard the gun again",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 44,
+      "start": 233693.46088119887,
+      "stop": 238111.98018144997,
+      "transcription": "\"\"inkô inkô sün\"\", tijää inkjë junpjâ hë inkôô kri",
+      "translation": "",
+      "notes": "Note: não tem água",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "start": 238321.3981495208,
+      "stop": 242569.39910169182,
+      "transcription": "mämä, mära pên kja ippë jy rasu hatoo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "start": 242655.41408688563,
+      "stop": 245407.64005589785,
+      "transcription": "\"\"hïmën hïmën!\"\" timën kan",
+      "translation": "",
+      "notes": "Note: sunny heard gemiante, Kôpyn hears singleton",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "start": 245407.64005589785,
+      "stop": 248040.20402625736,
+      "transcription": "timën kjë junpjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 48,
+      "start": 248040.20402625736,
+      "stop": 250692.66312075485,
+      "transcription": "ti pê hasâri wêntwê pää",
+      "translation": "",
+      "notes": "Note: took the baby",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 49,
+      "start": 251145.67610927424,
+      "stop": 253024.34762048704,
+      "transcription": "më ho rakwyy inkjëra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "start": 253890.93324178213,
+      "stop": 257010.48803580107,
+      "transcription": "\"\"märä hä mën nën\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 51,
+      "start": 257476.60227251676,
+      "stop": 259732.14043262374,
+      "transcription": "timmën Kjäräsâ hë kan",
+      "translation": "",
+      "notes": "Note: took off the kan she was carrying",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "start": 260062.10807151216,
+      "stop": 262949.8673477903,
+      "transcription": "rê mërïnkjëë hë [ha] haswa",
+      "translation": "",
+      "notes": "Note: rêmmërïnkjë hë haswa",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "start": 263873.92141461454,
+      "stop": 266857.4219249058,
+      "transcription": "pên, jy më horanto hakkwa pjy kjatittä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "start": 266857.4219249058,
+      "stop": 269973.1621663848,
+      "transcription": "pë mÿn tën hokjy,",
+      "translation": "",
+      "notes": "Note: pën mÿn tën",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "start": 269973.1621663848,
+      "stop": 271494.7390761046,
+      "transcription": "ti jï kï pre",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "start": 271494.7390761046,
+      "stop": 275172.8200759399,
+      "transcription": "mÿppê më hassêê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "start": 275383.99236507737,
+      "stop": 278249.90200337145,
+      "transcription": "jy më rankwyy tën [jee]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 58,
+      "start": 278663.77707202453,
+      "stop": 284908.4433365181,
+      "transcription": "\"\"näpjâ, näpjâ\"\" \"\"mÿn më hassê\"\" ti kââsän",
+      "translation": "",
+      "notes": "Note: kââsän - transitive yell for; PN: jykââsän -- lost the ergativity/now ergativity is more important??",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "start": 285381.7461886633,
+      "stop": 288470.9016969973,
+      "transcription": "janto pjysyri inkjë jünpjâ hë Kjêrö ho",
+      "translation": "",
+      "notes": "Pëëntwê: jan tiho pjysyri inkjë jünpjâ hë Kjêrö hoPëëntwê: jan tiho pjysyri inkjë jünpjâ hë Kjêrö ho\nNote: ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "start": 289296.95076532237,
+      "stop": 291355.55898836296,
+      "transcription": "kââsän kjê pôri",
+      "translation": "",
+      "notes": "Note: kjê = earth oven",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 61,
+      "start": 291548.7337095727,
+      "stop": 293598.66747536673,
+      "transcription": "\"\"mÿn më hassê\"\"",
+      "translation": "",
+      "notes": "Note: kââjamä 'hassêê' tijää",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 62,
+      "start": 293598.66747536673,
+      "stop": 297096.8835454524,
+      "transcription": "më rankwy tën [puhwa] jy ratën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "start": 297419.5391520282,
+      "stop": 301160.9519731791,
+      "transcription": "\"\"hatën tâti\"\" tijää Kjêrasâ hë ti py rapappyri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 64,
+      "start": 301638.0039598435,
+      "stop": 303264.7887717915,
+      "transcription": "pên py ratëräkwa",
+      "translation": "",
+      "notes": "Pëëntwê: pênpy ratëräkkwa",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 65,
+      "start": 303719.2399016487,
+      "stop": 305972.43035957665,
+      "transcription": "jy py ratën [inkwyy]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 66,
+      "start": 305972.43035957665,
+      "stop": 314136.95376123115,
+      "transcription": "[inkwyy] \"\"pê hatëräpô\"\" tijää jy py rassê hakwa [p] ti pyrateppyri hakjô hë",
+      "translation": "",
+      "notes": "Note: hakjô = timbó",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 67,
+      "start": 314136.95376123115,
+      "stop": 319954.8589344563,
+      "transcription": "[pum] jy pyratën \"\"hanpjaa tâti\"\" \"\"kaapjâ pytinsin\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 68,
+      "start": 320737.0776567578,
+      "stop": 324964.07127726695,
+      "transcription": "rên ka pjôrahêê kri[ti] ",
+      "translation": "",
+      "notes": "Note: if you fall again I'll have to leave you",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 69,
+      "start": 325034.05675944063,
+      "stop": 329808.41780281527,
+      "transcription": "näpjâ, \"\"mÿn hassê\"\" inkjë (mä) kââ sän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 70,
+      "start": 330095.3176169781,
+      "stop": 334204.2256830682,
+      "transcription": "mëratën mämännï rêmëtêpi kjëräpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 71,
+      "start": 334204.2256830682,
+      "stop": 337748.3479235578,
+      "transcription": "jy py ratën mämännï [ra]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 72,
+      "start": 338004.0098448506,
+      "stop": 341813.2750476233,
+      "transcription": "ti py sakän ratën ti rapappyri inkjë näpjâ hë",
+      "translation": "",
+      "notes": "Pëëntwê: jy py sakän ratën rapappyri inkjë näpjâ hë",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 73,
+      "start": 341813.2750476233,
+      "stop": 343503.8258038545,
+      "transcription": "ti rapappyrin",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "start": 343612.23403602064,
+      "stop": 346679.2078337679,
+      "transcription": "\"\"py, kömë mära kôpy ti pjysyri\"\" sünpjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 75,
+      "start": 347403.26481461036,
+      "stop": 349688.70947656804,
+      "transcription": "më rootëë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 76,
+      "start": 350684.52295920847,
+      "stop": 353006.69662868796,
+      "transcription": "jy hatö hakoko",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 77,
+      "start": 353006.69662868796,
+      "stop": 360979.42180537287,
+      "transcription": "ti rasu hatö inkjôppytinsi hatö inkjôtinsi krekjä",
+      "translation": "",
+      "notes": "Note: hatönkjôti: gunsmoke",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "start": 361329.681779885,
+      "stop": 363182.509216937,
+      "transcription": "jyn mä rasê",
+      "translation": "",
+      "notes": "Pëëntwê: jy mä rasêPëëntwê: jy mä rasê\nNote: ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 79,
+      "start": 363599.33685876697,
+      "stop": 369359.04641916073,
+      "transcription": "mä rasê rênpari jy tën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 80,
+      "start": 370418.47635121836,
+      "stop": 376780.10163107724,
+      "transcription": "[kypy] kypyhatojn kôkriti ti sânpün jy rakrï",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "start": 377663.098988433,
+      "stop": 379984.05105134385,
+      "transcription": "rê sânpün",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 82,
+      "start": 379984.05105134385,
+      "stop": 382848.0671094126,
+      "transcription": "kjë krippjâ tërin tijää",
+      "translation": "",
+      "notes": "Pëëntwê: kjë kripjâ tërin tijää",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "start": 382848.0671094126,
+      "stop": 384183.4093921831,
+      "transcription": "kjë kripjâ të",
+      "translation": "",
+      "notes": "Pëëntwê: kjë kripjä tëri",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 84,
+      "start": 384183.4093921831,
+      "stop": 386627.49498610815,
+      "transcription": "mä hakââ, mä hakââ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 85,
+      "start": 386627.49498610815,
+      "stop": 388474.8076071339,
+      "transcription": "\"\"ha ka jy katoo\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 86,
+      "start": 388749.0680503784,
+      "stop": 390985.34551068017,
+      "transcription": "\"\"paa\"\", inkjë. \"\"juri ka më hasän?\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 87,
+      "start": 391685.1642370435,
+      "stop": 395118.4014827019,
+      "transcription": "kjë jyraatoo [hïn], hïppô pên jyraatoo inkjë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "start": 395650.61031310895,
+      "stop": 397449.7862937488,
+      "transcription": "ti kän më ratön teri pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 89,
+      "start": 397449.7862937488,
+      "stop": 401786.13315661234,
+      "transcription": "karan jö pää ti hasâri pjo panäran jö pää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 90,
+      "start": 401979.65676384215,
+      "stop": 404204.90019582555,
+      "transcription": "\"\"juttä katimë hën\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "start": 404278.63188386674,
+      "stop": 407235.74219241715,
+      "transcription": "\"\"jattä, jattä mÿn më hohatërä pô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 92,
+      "start": 407878.7483087963,
+      "stop": 409882.4733266119,
+      "transcription": "\"\"mï, inkjëë supjâri\"\"",
+      "translation": "",
+      "notes": "Note: pjâri PN: turi (not for animals) (carry)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "start": 410511.0164861874,
+      "stop": 412105.3783283202,
+      "transcription": "\"\"inkjëë supjâri hä\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 94,
+      "start": 412932.22864859615,
+      "stop": 414668.8976744838,
+      "transcription": "\"\"kjë syypjâ\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 95,
+      "start": 415125.2658300201,
+      "stop": 417741.8471623574,
+      "transcription": "ti mära jöri ti raapjâri",
+      "translation": "",
+      "notes": "Note: referring to enemy",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "start": 418391.1867242556,
+      "stop": 420598.68601938395,
+      "transcription": "raho tën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "start": 420598.68601938395,
+      "stop": 422861.9565498426,
+      "transcription": "jy ratoo kjënkjätitittä",
+      "translation": "",
+      "notes": "Note: kjënkjätiti = cerrado",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 98,
+      "start": 422972.55757159315,
+      "stop": 424361.3331959746,
+      "transcription": "kjënkjätita mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 99,
+      "start": 425217.3339506476,
+      "stop": 427119.34210476157,
+      "transcription": "rênpara rösê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 100,
+      "start": 427119.34210476157,
+      "stop": 427846.96826900303,
+      "transcription": "\"\"mä\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 101,
+      "start": 428209.98815608834,
+      "stop": 429556.2309249665,
+      "transcription": "jan mï ränpari (ranpari) rïn",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 102,
+      "start": 430534.2968662877,
+      "stop": 433309.5301865282,
+      "transcription": "sunpa ratöja toja jankjââ pjo",
+      "translation": "ninguem saiu por medo; tudos estavam no meio da aldeia",
+      "notes": "Pëëntwê: sunpara törä toja jankjâ pjoPëëntwê: sunpara törä toja jankjâ pjo\nNote: ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "start": 434116.07656482613,
+      "stop": 437864.5233779585,
+      "transcription": "[hüwöhüwö] kjonpytinsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 104,
+      "start": 438285.8646150731,
+      "stop": 442495.9120248277,
+      "transcription": "tira sün pïnpan, hoppôô pytinsi",
+      "translation": "",
+      "notes": "Note: pïnpan: brigar; hopôô pytinsi - sapôpô",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 105,
+      "start": 443700.82501368714,
+      "stop": 448408.9351640397,
+      "transcription": "\"\"[ha,] pjärähê karê pjajä sapôpôrö hamä ka rïjä sânpün",
+      "translation": "",
+      "notes": "Note: pnr não briga",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 106,
+      "start": 448802.46739945165,
+      "stop": 450255.4969699955,
+      "transcription": "rê jäsapôpô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 107,
+      "start": 450540.4047289256,
+      "stop": 451799.6970233969,
+      "transcription": "rê wajäri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "start": 452704.25653056276,
+      "stop": 455654.919159178,
+      "transcription": "pan to ra rën pytinsi hatö ho",
+      "translation": "",
+      "notes": "Note: (ti ho)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 109,
+      "start": 456118.2576092742,
+      "stop": 458075.2053443682,
+      "transcription": "to ra sââ pytinsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 110,
+      "start": 458894.7993295305,
+      "stop": 460248.2024360441,
+      "transcription": "nä tijäri",
+      "translation": "",
+      "notes": "Note: possibly woman indexing",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 111,
+      "start": 461356.23308621143,
+      "stop": 464590.3787979477,
+      "transcription": "ìppë hë sukamäja rê mä järi tärinpe",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 112,
+      "start": 464825.2370131964,
+      "stop": 466970.23949271574,
+      "transcription": "ippë hë ti rapari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 113,
+      "start": 468010.2126003672,
+      "stop": 474871.8719919684,
+      "transcription": "pytinkjââ kwâra kâty kwâra swasi kukkâri kwârân tinjö kjy tijää",
+      "translation": "",
+      "notes": "Note: swasi: cheek paint (pjuti)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 114,
+      "start": 475821.20041242836,
+      "stop": 477714.6409043495,
+      "transcription": "rênpari",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 115,
+      "start": 478522.2639240641,
+      "stop": 482159.6627638074,
+      "transcription": "jy kjênkjê ti päpää ra pïri",
+      "translation": "",
+      "notes": "Note: kjênkjê: everyone is laying on the ground (dead)",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "start": 482512.0992667851,
+      "stop": 484571.63102992735,
+      "transcription": "ti päpää roo jyypjo",
+      "translation": "",
+      "notes": "Note: ra ho - hatö ho",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 117,
+      "start": 485928.9197237928,
+      "stop": 488378.7659743048,
+      "transcription": "ti pappê waapjâ pytinsi",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 118,
+      "start": 489743.8433565604,
+      "stop": 493489.20152259734,
+      "transcription": "\"\"juttä?\"\" \"\"jakôpy. jakô(py), katimë hopatërin\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 119,
+      "start": 494329.5044309522,
+      "stop": 498572.34645072557,
+      "transcription": "\"\"kjon. jattä kapyjïn su kwyy kjë jö pää japjâra suu\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 120,
+      "start": 498572.34645072557,
+      "stop": 502078.3096780716,
+      "transcription": "ra krïtän nänsi ra krïtän",
+      "translation": "",
+      "notes": "Note: the length of the t in krïtän makes it extra nice to put it all together",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 121,
+      "start": 502175.90815407725,
+      "stop": 504815.18773984554,
+      "transcription": "rê jïn naankjârahê ka py rasu kwy",
+      "translation": "",
+      "notes": "Note: naa = raa = kjänkrâha",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 122,
+      "start": 505203.1852432236,
+      "stop": 508988.1328163833,
+      "transcription": "hüwähä katinkjë më watën kjënpinpjâ më pünkja",
+      "translation": "",
+      "notes": "Note: pünkja = mother/father in law (SP for kjë krippjâ); ",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 123,
+      "start": 509633.4584293507,
+      "stop": 513114.91608937935,
+      "transcription": "rê sô jïn naanpün inkjë jö pää japjâra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 124,
+      "start": 513301.63303577877,
+      "stop": 515193.5197009407,
+      "transcription": "\"\"na jy ratwatün\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 125,
+      "start": 515700.2045412428,
+      "stop": 517958.6705825052,
+      "transcription": "ti rootêpi twatün hë",
+      "translation": "",
+      "notes": "Note: hotêpi: get closer to someone; kootêpi: get close to you",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 126,
+      "start": 518011.8099345559,
+      "stop": 519209.03370933875,
+      "transcription": "jy rakjäpô möri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 127,
+      "start": 519209.03370933875,
+      "stop": 521215.34021776496,
+      "transcription": "rê pyjïn tö watojahê pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 128,
+      "start": 522596.05612906173,
+      "stop": 525723.0515590883,
+      "transcription": "\"\"kjon. kjon, jy më ho katoo\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 129,
+      "start": 526149.1305923068,
+      "stop": 528210.1048530062,
+      "transcription": "më ho katoo titati pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 130,
+      "start": 528269.5598985315,
+      "stop": 530888.1452324174,
+      "transcription": "jattänko kati më ho patërin",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 131,
+      "start": 531802.8160132683,
+      "stop": 534547.1371773825,
+      "transcription": "märara honko kati [jy] py më ho patë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 132,
+      "start": 534547.1371773825,
+      "stop": 536526.6288959504,
+      "transcription": "ka syypjânkjên jytïri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 133,
+      "start": 536526.6288959504,
+      "stop": 539655.0335695638,
+      "transcription": "ka syypjânkjên jytïri, hïnpy pyti jytïri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 134,
+      "start": 540037.9176908418,
+      "stop": 541393.3992387739,
+      "transcription": "hïprï jytïri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 135,
+      "start": 542259.0488800631,
+      "stop": 543955.2939456316,
+      "transcription": "pyrën, pyrën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 136,
+      "start": 544800.1081372878,
+      "stop": 546208.5973435189,
+      "transcription": "jy rammöräkkwa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 137,
+      "start": 546575.105540221,
+      "stop": 549452.5942132181,
+      "transcription": "sökkrensi pytinsi ja ho ti ho sïsu",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 138,
+      "start": 550902.2320693694,
+      "stop": 553799.7398197298,
+      "transcription": "[püün puuwuu]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 139,
+      "start": 554893.2008771836,
+      "stop": 558005.4276720439,
+      "transcription": "mämänpên jyranpjaa rankwyynpjaa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 140,
+      "start": 558328.7715530627,
+      "stop": 561923.2904472589,
+      "transcription": "[inkwyy] rêmëjää Kjêrö më",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 141,
+      "start": 561923.2904472589,
+      "stop": 565992.4595678683,
+      "transcription": "[inkwyy] jy katimë hatë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 142,
+      "start": 566118.4937527813,
+      "stop": 569694.2063454523,
+      "transcription": "inkwyy katimë hankwyyn pa ka sotimä më hankwyy",
+      "translation": "",
+      "notes": "Pëëntwê: PN: katimëhankwyjn",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 143,
+      "start": 569984.1634938411,
+      "stop": 572615.3633728762,
+      "transcription": "\"\"jyri kati rêkö mëhatë\"\" tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 144,
+      "start": 573408.9547469586,
+      "stop": 576161.3283046335,
+      "transcription": "nammöri",
+      "translation": "",
+      "notes": "Note: rammöri",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 145,
+      "start": 577127.3687559841,
+      "stop": 578566.4283558225,
+      "transcription": "jyppy rassê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 146,
+      "start": 579314.1595083219,
+      "stop": 580289.4959816823,
+      "transcription": "py rassê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 147,
+      "start": 580289.4959816823,
+      "stop": 583718.521530496,
+      "transcription": "jyy sêntiti wântwê nänsy hë ti sapôpô",
+      "translation": "",
+      "notes": "Note: hold kid in sasï",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 148,
+      "start": 584788.4803417238,
+      "stop": 590648.4190685494,
+      "transcription": "ho rammöri [cough] toosakjün nänsy ho kjëräpjâ hë",
+      "translation": "",
+      "notes": "Note: hosakjün: approach",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 149,
+      "start": 591470.6686956985,
+      "stop": 593487.6164444501,
+      "transcription": "ti sapôpô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 150,
+      "start": 593961.7739475465,
+      "stop": 598875.4902737231,
+      "transcription": "honkwyy nänsy pê hüwätün pê më watën nänsy hë tisapôpô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 151,
+      "start": 599624.5124716554,
+      "stop": 604235.9717775089,
+      "transcription": "honkwyy \"\"jä kaatän më ka timmërïn kjüräkkwa wântwê",
+      "translation": "",
+      "notes": "Pëëntwê: katämmërin",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 152,
+      "start": 604822.0012736972,
+      "stop": 607205.1651804612,
+      "transcription": "kammën hän jârinpyrö",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 153,
+      "start": 607815.2676901838,
+      "stop": 609813.3301693912,
+      "transcription": "janpynkjëë tïri pjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 154,
+      "start": 609813.3301693912,
+      "stop": 612791.8343204991,
+      "transcription": "inpy ti päpää rapêpïri ippë hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 155,
+      "start": 613388.8385181965,
+      "stop": 615492.694341138,
+      "transcription": "inkjên kammërïn teri hän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 156,
+      "start": 615492.694341138,
+      "stop": 617819.6358645404,
+      "transcription": "\"\"kjon, kjon, kati hän ho hatë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 157,
+      "start": 618300.2643110208,
+      "stop": 620747.5080958677,
+      "transcription": "hän [kati-] kati juu(ri) pymä sânnön tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 158,
+      "start": 621555.1782190565,
+      "stop": 624434.1085578523,
+      "transcription": "pêppo rammö pakre pää köö",
+      "translation": "",
+      "notes": "Pëëntwê: pêpyho rammö",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 159,
+      "start": 626803.2431277515,
+      "stop": 627833.9712737402,
+      "transcription": "jy kââ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 160,
+      "start": 628532.9770921392,
+      "stop": 630310.094585223,
+      "transcription": "tänta pjy hänkja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 161,
+      "start": 630578.6762870728,
+      "stop": 632428.3803495578,
+      "transcription": "pjy rakön kâânpjaa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 162,
+      "start": 633178.0656441959,
+      "stop": 633695.1982097079,
+      "transcription": "\"\"kjon\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 163,
+      "start": 634770.6069908928,
+      "stop": 635755.6214013918,
+      "transcription": "\"\"mä më hakââ\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 164,
+      "start": 635755.6214013918,
+      "stop": 638986.956950985,
+      "transcription": "\"\"mä më hakââ. kjon. mära pênkja hë jïnpakjarïn\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 165,
+      "start": 639494.1488299643,
+      "stop": 641124.9678607043,
+      "transcription": "mära pênkja jïnpakkja",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 166,
+      "start": 641996.6663189637,
+      "stop": 644949.6332422931,
+      "transcription": "ti sotijïn nakja titati kritijää",
+      "translation": "",
+      "notes": "Pëëntwê: PN: ti sotijen jïnnakja",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 167,
+      "start": 645033.6185693721,
+      "stop": 646263.0510488166,
+      "transcription": "tijää Kôkkriti hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 168,
+      "start": 647007.596848204,
+      "stop": 648858.6237042585,
+      "transcription": "jattänko katimë hopatë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 169,
+      "start": 648938.4214618306,
+      "stop": 652105.2226386926,
+      "transcription": "[mëho] meroo të [jy mëra]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 170,
+      "start": 654531.3018630253,
+      "stop": 655922.9231196439,
+      "transcription": "jymë ra tyjä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 171,
+      "start": 660118.1146203753,
+      "stop": 662273.9653183268,
+      "transcription": "jy ra tyjä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 172,
+      "start": 662408.7059869489,
+      "stop": 664375.9197488298,
+      "transcription": "jyppê më rankwyy kwyy",
+      "translation": "",
+      "notes": "Note: go crying",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 173,
+      "start": 665483.0488156312,
+      "stop": 669501.9900273451,
+      "transcription": "\"\"pêjâ inkjon parämä më tö kwÿrämä krii\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 174,
+      "start": 670348.0381144669,
+      "stop": 672322.8482353779,
+      "transcription": "tinkjë më kjen kjâ hakjä",
+      "translation": "",
+      "notes": "Note: kjen: break",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 175,
+      "start": 672994.3984272275,
+      "stop": 675017.8491915107,
+      "transcription": "inkjâ hakjä rê më kuri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 176,
+      "start": 679955.1949234153,
+      "stop": 683924.2714225863,
+      "transcription": "rê më kuri inkjâ hakjä tinkjë më pakkônpre",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 177,
+      "start": 683924.2714225863,
+      "stop": 685558.4231897076,
+      "transcription": "ti mä pakkônpre",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 178,
+      "start": 685558.4231897076,
+      "stop": 687862.6787854598,
+      "transcription": "Kjârasâ hasä pää ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 179,
+      "start": 688390.9075610132,
+      "stop": 691016.5643107767,
+      "transcription": "ti mä pakkônpre mämä rê kurönpjaa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 180,
+      "start": 691984.6466956922,
+      "stop": 693376.02035796,
+      "transcription": "rê kurönpjaa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 181,
+      "start": 694938.0899411332,
+      "stop": 696607.7383358545,
+      "transcription": "jy raakrekjä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 182,
+      "start": 697155.3111964889,
+      "stop": 698429.9890032116,
+      "transcription": "jy raakwa waka",
+      "translation": "",
+      "notes": "Note: waka < ho-haka for the day to go by",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 183,
+      "start": 699403.6437515485,
+      "stop": 701211.7156377602,
+      "transcription": "jyy rakâja koko",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 184,
+      "start": 701471.8458865299,
+      "stop": 705457.867432732,
+      "transcription": "ra kââ rêwaka",
+      "translation": "",
+      "notes": "Note: i spent the day yelling",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 185,
+      "start": 706430.8513419824,
+      "stop": 710835.3669223113,
+      "transcription": "haprëpi rappa kypa swakkjara jö raaswâri \"\"paa\"\" ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 186,
+      "start": 710835.3669223113,
+      "stop": 714334.052451277,
+      "transcription": "rankwyy pa sö pää hä insipjâ hä",
+      "translation": "",
+      "notes": "Note: ippa",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 187,
+      "start": 715400.9995875488,
+      "stop": 718684.8429132737,
+      "transcription": "rê ho hakanpe hajân rakââ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 188,
+      "start": 720415.1967264047,
+      "stop": 721384.9470028707,
+      "transcription": "[wuâ]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 189,
+      "start": 723210.6920400116,
+      "stop": 727654.0560116881,
+      "transcription": "[pïnpyjân] pyranpjaa pykkôômä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 190,
+      "start": 728082.6024538882,
+      "stop": 729335.6151387611,
+      "transcription": "jyrapôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 191,
+      "start": 730445.5193911588,
+      "stop": 734024.4652439796,
+      "transcription": "rakö më rankwyynpjaa ti rapakkjäkâra pâri hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 192,
+      "start": 734303.8912362487,
+      "stop": 736663.5690951423,
+      "transcription": "ho rankwyy inkjëra",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 193,
+      "start": 737052.1829789657,
+      "stop": 738890.1839847362,
+      "transcription": "Kjêrö inkjë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 194,
+      "start": 739066.0982724173,
+      "stop": 740421.8514895451,
+      "transcription": "[inkwyy]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 195,
+      "start": 740812.3586947931,
+      "stop": 743639.1193175295,
+      "transcription": "\"\"[inkwyy] jy ratyjä tumäkjâri sân\"\"",
+      "translation": "",
+      "notes": "Pëëntwê: tumäkjâri sâ - SP; tumäkjâri sân",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 196,
+      "start": 744015.4567204503,
+      "stop": 746683.9818250149,
+      "transcription": "tëtë hamä rê kamë kupyrahê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 197,
+      "start": 747629.8791307346,
+      "stop": 748689.2128438159,
+      "transcription": "më sö sü",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 198,
+      "start": 749017.8367417366,
+      "stop": 750629.4450430402,
+      "transcription": "jyri kati më hatë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 199,
+      "start": 750852.8867075429,
+      "stop": 754466.7080300592,
+      "transcription": "mära hä sê tönsaa krejââ ka kän më tökwâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 200,
+      "start": 754750.740987895,
+      "stop": 757532.4484077371,
+      "transcription": "ka kän më sê më tökka tijää kjëräpjâ hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 201,
+      "start": 758104.3321831772,
+      "stop": 762862.9763227813,
+      "transcription": "suranpjaa pën naakwa ranpy tijää jy ratïri",
+      "translation": "",
+      "notes": "Note: pën = someone",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 202,
+      "start": 763719.3222178732,
+      "stop": 766069.1230270227,
+      "transcription": "raakwa jy rasu rapôô",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 203,
+      "start": 766295.1639084484,
+      "stop": 767659.0636976967,
+      "transcription": "krejââ hë sa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 204,
+      "start": 768608.8900391712,
+      "stop": 769861.511293194,
+      "transcription": "rê sê kukwân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 205,
+      "start": 769918.6651146703,
+      "stop": 771599.9400297655,
+      "transcription": "rê sê kukwâräpô [tinê]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 206,
+      "start": 771599.9400297655,
+      "stop": 773919.1401290656,
+      "transcription": "rê kwâräpô ti mä torïn kjëräpjâ hë ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 207,
+      "start": 773919.1401290656,
+      "stop": 775043.1652847666,
+      "transcription": "kreejââ mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 208,
+      "start": 775803.4525702784,
+      "stop": 780362.6271773,
+      "transcription": "ti ran ho kjôkjô hapô tummä rê sôkuri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 209,
+      "start": 781823.1574656558,
+      "stop": 783279.883256223,
+      "transcription": "hüwähä rê krëë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 210,
+      "start": 783279.883256223,
+      "stop": 786891.9756958763,
+      "transcription": "tippyrappôri tö kjä päänkjâ jaakrï kreejââ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 211,
+      "start": 787013.1483142399,
+      "stop": 788882.8003380635,
+      "transcription": "ti rapara pâräkjä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 212,
+      "start": 789871.5688776197,
+      "stop": 793725.9284344252,
+      "transcription": "[kââ] kjänsi mämä rên ho kreekrippjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 213,
+      "start": 794130.6115290937,
+      "stop": 796313.7723860743,
+      "transcription": "sunpa rankwyynpjaa",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 214,
+      "start": 796346.4334101196,
+      "stop": 799294.6335417685,
+      "transcription": "inkwyy kjëräpjâ sö pää hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 215,
+      "start": 799294.6335417685,
+      "stop": 801866.8339136168,
+      "transcription": "pepeti inkjëräpâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 216,
+      "start": 802412.3243269067,
+      "stop": 803989.4521296904,
+      "transcription": "inkjë jünpjâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 217,
+      "start": 804970.2584154905,
+      "stop": 806590.2041676712,
+      "transcription": "haprinpe wy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 218,
+      "start": 807566.1044620934,
+      "stop": 812522.2876556352,
+      "transcription": "nä tijää inkjëräpjâ më inkjë jünpjâ hë më pepeti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 219,
+      "start": 812522.2876556352,
+      "stop": 816186.4183237456,
+      "transcription": "jy ra su rapôô tö suu mämän hë ti po tâti",
+      "translation": "",
+      "notes": "Note: po < py ho",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 220,
+      "start": 816916.9637315711,
+      "stop": 819761.6562202406,
+      "transcription": "pyti jy py pôô kjäkirä, pyti",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 221,
+      "start": 820271.7196351455,
+      "stop": 821250.4628428807,
+      "transcription": "pjântwê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 222,
+      "start": 822331.3109362441,
+      "stop": 823598.7481836712,
+      "transcription": "märï hë",
+      "translation": "",
+      "notes": "Note: märï is about distance--I remember talking to Sôpôha abt this and we ended up talking about etymologies of local cities in 2024",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 223,
+      "start": 825258.3091939603,
+      "stop": 830412.5540001637,
+      "transcription": "ta märi hë...män män hë sakjün Kôkwâri hë tijäri kjäkïrä hë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 224,
+      "start": 831590.228877639,
+      "stop": 833709.6656080587,
+      "transcription": "pên jy py jyyrippa ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 225,
+      "start": 833709.6656080587,
+      "stop": 835688.2759776531,
+      "transcription": "mä...mä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 226,
+      "start": 835779.824660249,
+      "stop": 839673.6735370666,
+      "transcription": "ja pên ka pyrakö su kwyy inkjë jö pää rê jïn sä mïrähê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 227,
+      "start": 839673.6735370666,
+      "stop": 841038.8776220211,
+      "transcription": "ka ra köjïnsukwy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 228,
+      "start": 841741.6581178003,
+      "stop": 843164.883539241,
+      "transcription": "jy su rapôô tän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 229,
+      "start": 844057.644333395,
+      "stop": 846022.8264550532,
+      "transcription": "\"\"ka ra kö kwyy\"\" tijää. \"\"kjon\"\"",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 230,
+      "start": 847552.980852299,
+      "stop": 850418.2823630142,
+      "transcription": "\"\"inkjon, näpjâ\"\" jahä kati wapan",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 231,
+      "start": 850418.2823630142,
+      "stop": 852170.305063101,
+      "transcription": "inkjë ka rasu kwy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 232,
+      "start": 852170.305063101,
+      "stop": 853961.2059164592,
+      "transcription": "kara pjo hankjâ hän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 233,
+      "start": 854660.1783435547,
+      "stop": 855834.1812251194,
+      "transcription": "kara pjo hän",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 234,
+      "start": 856104.315505752,
+      "stop": 857969.6756397935,
+      "transcription": "pôssô më kwati sô ho",
+      "translation": "",
+      "notes": "Note: geminate s, should check",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 235,
+      "start": 857969.6756397935,
+      "stop": 858913.7740757541,
+      "transcription": "pêhasô ho",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 236,
+      "start": 858913.7740757541,
+      "stop": 859883.4134927501,
+      "transcription": "kara pjon",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 237,
+      "start": 860292.6789578926,
+      "stop": 861179.703357297,
+      "transcription": "nä katijä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 238,
+      "start": 861932.4832670172,
+      "stop": 863263.0198661237,
+      "transcription": "nänka",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 239,
+      "start": 863860.6253493238,
+      "stop": 866969.55890606,
+      "transcription": "nön [ti-] jy ra twatï tö inkjë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 240,
+      "start": 867508.1974286811,
+      "stop": 870967.431525487,
+      "transcription": "\"\"hïn, jahä kappan kankwy kwyyjankjân",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 241,
+      "start": 870967.431525487,
+      "stop": 872717.5654507825,
+      "transcription": "kankwy krïhankjâ hä",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 242,
+      "start": 873432.3819798131,
+      "stop": 875802.03108787,
+      "transcription": "tün rakö su më ha kwyy tijää",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 243,
+      "start": 875802.03108787,
+      "stop": 876822.7979580761,
+      "transcription": "jy ratoo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 244,
+      "start": 878140.0396566266,
+      "stop": 879006.6781113399,
+      "transcription": "japên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 245,
+      "start": 879033.8913961499,
+      "stop": 879753.9967788103,
+      "transcription": "[kati]",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 246,
+      "start": 880239.6492461859,
+      "stop": 881822.2064243581,
+      "transcription": "ka hatte kjän",
+      "translation": "",
+      "notes": "Note: hatte - alone - always gem?",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 247,
+      "start": 882637.6695360444,
+      "stop": 884479.2739872378,
+      "transcription": "ka hatte sanpapëë",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 248,
+      "start": 884479.2739872378,
+      "stop": 887781.9047230966,
+      "transcription": "tün rantwê rê pyjïn ho pôjahê wântwê",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 249,
+      "start": 887781.9047230966,
+      "stop": 890612.0004985766,
+      "transcription": "inkjë jö päänpy inkjë jö päänkjên",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 250,
+      "start": 891257.8197058003,
+      "stop": 893738.0150181197,
+      "transcription": "mähë jy mëppa Kreenpy",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 251,
+      "start": 894064.1747580678,
+      "stop": 895103.5629669877,
+      "transcription": "Kjârasâ",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 252,
+      "start": 896454.7745267673,
+      "stop": 897809.5632956354,
+      "transcription": "jara inkjênna",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 253,
+      "start": 898317.1653769168,
+      "stop": 901048.2474982858,
+      "transcription": "tijää kjëräpjâ hë mämä ra kän sü",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 254,
+      "start": 901442.8320959669,
+      "stop": 904199.5255000938,
+      "transcription": "jy hateppykjä hamä ra känsü",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 255,
+      "start": 904690.2996927886,
+      "stop": 906415.5170547595,
+      "transcription": "jaamä rê kän sarën",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 256,
+      "start": 906415.5170547595,
+      "stop": 909537.4638222497,
+      "transcription": "sukamäja junpa rankwyynpjaa ti rapakkjäkâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 257,
+      "start": 909537.4638222497,
+      "stop": 912487.9542461564,
+      "transcription": "ti rakkön kâârön ti rakö kukjâri",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 258,
+      "start": 913844.7005918483,
+      "stop": 917608.4654032239,
+      "transcription": "pâri hë [hë] pjünkï hë ja mära känsü",
+      "translation": "",
+      "notes": "Note: pjunkï is a kind of wasp",
+      "words": [
+        ""
+      ]
+    },
+    {
+      "id": 259,
+      "start": 918140.8539238799,
+      "stop": 919707.8524119221,
+      "transcription": "jy ra pëë jyypjo",
+      "translation": "",
+      "notes": "",
+      "words": [
+        ""
+      ]
+    }
+  ]
+}
+]
     this.parsers = {}
 
     this.initialize()
@@ -40125,6 +57726,7 @@ class TextDropViewPNR {
 
   add(file) {
     if (file.type.startsWith('application/json')) {
+      console.log('HIFSD')
       this.addJSON(file)
     } else {
       this.addXLing(file)
