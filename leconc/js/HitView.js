@@ -14,6 +14,7 @@ class HitView extends SentenceView {
       <p class=glosses>${this.sentence.glosses || ''}</p>
       <div class=words> </div>
       <p class=translation>${this.sentence.translation}</p>
+      <p class=notes>${this.sentence.notes}</p>
       <footer>
         <button class=show-text-button>
            ${this.sentence.metadata.text.title}: ${this.sentence.metadata.lineNumber+1}

@@ -210,8 +210,8 @@ details summary button:after {
   grid-template-areas: 
     "transcription sidebar"
     "glosses sidebar"
-    "translation .";
-    
+    "translation ."
+    "notes .";
 }
 
 .sentence-view .transcription {
@@ -234,6 +234,12 @@ details summary button:after {
   grid-area: translation;
   font-style: italic;
 }
+.sentence-view .notes {
+  grid-area: notes;
+  font-style: serif;
+  color: rgb(139, 139, 139)
+}
+
 
 .sentence-view footer {
   grid-area: sidebar;

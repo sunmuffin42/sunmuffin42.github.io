@@ -38,6 +38,8 @@ class SentenceView {
       <p class=glosses>${this.sentence.glosses || ''}</p>
       <ol class=words></ol>
       <p class=translation>${this.sentence.translation}</p>
+      <!--<p class=notes>${this.sentence.notes || ''}</p>-->
+      <p class=notes>${this.sentence.notes }</p>
       <footer>
         <p class=citation>${this.sentence.metadata.lineNumber+1}</p>
       </footer>

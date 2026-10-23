@@ -2,6 +2,8 @@ class Sentence {
   constructor(attributes, metadata={}){
     this.transcription = attributes.transcription
     this.translation = attributes.translation
+    // this.note = attributes.note
+    this.notes = attributes.notes
     this.glosses = attributes.glosses || null
     this.words = attributes.words
 
