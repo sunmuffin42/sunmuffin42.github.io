@@ -1,0 +1,9 @@
+{
+    "metadata": {"title": "example elicitation"},
+    "sentences": [
+        {"transcription": "transcription goes here (can be empty)",
+        "translation": "translation goes here (can be empty)",
+        "notes": "notes go here (can be empty)"
+    }
+    ]
+}
