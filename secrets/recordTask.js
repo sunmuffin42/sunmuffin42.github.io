@@ -1,7 +1,13 @@
-import { audioBufferToWav } from '../audio-buffer-to-wav.js'
-import { concatenateAudioWithSilence } from '../audio-tools.js'
-import { RecordWord } from '../record-word/RecordWord.js'
+import { blobToAudioBuffer } from './audio-tools.js'
+import { audioBufferToWav } from './audio-buffer-to-wav.js'
+import { concatenateAudioWithSilence } from './audio-tools.js'
+import { concatenateAudioBuffer } from './audio-tools.js'
+import { RecordWord } from './record-word/RecordWord.js'
+import { RecordLexicon } from './record-lexicon/RecordLexicon.js'
 import { default as JSZip } from 'https://esm.sh/jszip@3.10.1'
+// window.concatenateAudioWithSilence = concatenateAudioWithSilence
+window.concatenateAudioBuffer = concatenateAudioBuffer
+window.blobToAudioBuffer = blobToAudioBuffer
 
 export class RecordTask extends HTMLElement {
   constructor(){
@@ -130,15 +136,50 @@ export class RecordTask extends HTMLElement {
         this.querySelector(".stop-recording-button").setAttribute("disabled", true)
         this.querySelector(".start-recording-button").removeAttribute("disabled")
     })
+    
+  //   this.querySelector(".download-zip").addEventListener("click", async clickEvent => {
+  //     let audioBuffer = await blobToAudioBuffer(this.blob, this.context)
+  //     let audioWAV = audioBufferToWav(audioBuffer)
+  //   //   let JSONDownload = this.generateJSONDownload()
+  //     this.audioWAV = audioWAV
+  //     let JSONDownload = new Blob([JSON.stringify(recordWordsData, null, 2)]) // do i need to give a type?
+  //     let files = [
+  //       { name: this.audioDownloadFileName, content: audioWAV },
+  //       { name: this.jsonDownloadFileName, content: JSONDownload }
+  //     ]
 
-    this.querySelector(".download-zip").addEventListener("click", async clickEvent => {
-    //   let combinedAudioBlob = await this.generateAudioDownload()
-    //   let combinedAudioWav = audioBufferToWav(combinedAudioBlob)
-      let combinedAudioWav = audioBufferToWav(this.blob)
-    //   let JSONDownload = this.generateJSONDownload()
-      let files = [
-        { name: this.audioDownloadFileName, content: combinedAudioWav },
-        { name: this.jsonDownloadFileName, content: JSONDownload }
+  //     let zip = JSZip()
+  //     files.forEach(file => {
+  //       zip.file(file.name, file.content)
+  //     })
+      
+  //     // Generate the zip file as a blob
+  //     let zipBlob = await zip.generateAsync({ type: 'blob' })
+  //     try {
+  //       let downloadLink = document.createElement('a')
+  //       downloadLink.href = URL.createObjectURL(zipBlob)
+  //       downloadLink.download = this.zipDownloadFileName
+  //       downloadLink.click()
+  //     } catch (error) {
+  //       // Handle the error
+  //       console.error('Error zipping files:', error)
+  //     }
+  //   })
+  // }
+  this.querySelector(".download-zip").addEventListener("click", async clickEvent => {
+    await this.downloadZIP({"ID":"wdij"})
+  })
+}
+  downloadZIP = async (metadataObject) => {
+    let fileName = new Date().getTime().toString()
+    let audioWAV = await this.makeWAV()
+    let audioFileName = fileName + '.wav'
+    let jsonFileName = fileName + '.json'
+    let zipFileName = fileName + '.zip'
+    let jsonData = new Blob([JSON.stringify(metadataObject, null, 2)], { type: `Object` })
+    let files = [
+        { name: audioFileName, content: audioWAV },
+        { name: jsonFileName, content: jsonData }
       ]
 
       let zip = JSZip()
@@ -151,16 +192,19 @@ export class RecordTask extends HTMLElement {
       try {
         let downloadLink = document.createElement('a')
         downloadLink.href = URL.createObjectURL(zipBlob)
-        downloadLink.download = this.zipDownloadFileName
+        downloadLink.download = this.zipFileName
         downloadLink.click()
       } catch (error) {
         // Handle the error
         console.error('Error zipping files:', error)
-      }
-    })
+    }
   }
+  makeWAV = async () => {
+    let audioBuffer = await blobToAudioBuffer(this.blob, this.context)
+    let audioWAV = audioBufferToWav(audioBuffer)
+    return audioWAV
+    }
 }
-
 // co-authored by Patrick Hall and Sunkulp Ananthanarayan
 // part of work during Hall's postdoc and Ananthanarayan's postbac at Yale
 // working with the Chirila lab, under Claire Bowern as PI
