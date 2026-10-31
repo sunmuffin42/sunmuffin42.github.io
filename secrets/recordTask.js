@@ -1,9 +1,9 @@
 import { blobToAudioBuffer } from './audio-tools.js'
 import { audioBufferToWav } from './audio-buffer-to-wav.js'
-import { concatenateAudioWithSilence } from './audio-tools.js'
+// import { concatenateAudioWithSilence } from './audio-tools.js'
 import { concatenateAudioBuffer } from './audio-tools.js'
-import { RecordWord } from './record-word/RecordWord.js'
-import { RecordLexicon } from './record-lexicon/RecordLexicon.js'
+// import { RecordWord } from './record-word/RecordWord.js'
+// import { RecordLexicon } from './record-lexicon/RecordLexicon.js'
 import { default as JSZip } from 'https://esm.sh/jszip@3.10.1'
 // window.concatenateAudioWithSilence = concatenateAudioWithSilence
 window.concatenateAudioBuffer = concatenateAudioBuffer
